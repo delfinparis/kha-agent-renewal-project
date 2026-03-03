@@ -17,3 +17,6 @@ RENEWAL_CUTOFF = date(2026, 4, 30)
 # Email
 EMAIL_RECIPIENTS = ["dj@kalerealty.com", "rea@kalerealty.com"]
 ENTITY_NAME = "KHA"
+
+# Google Sheets — agent email list
+GOOGLE_SHEET_ID = "1GZ37s4TyJyRVLhtYi3Dl8AiB7vLsq5AgWkYp8ol6Cnc"

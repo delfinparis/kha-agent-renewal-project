@@ -1,13 +1,13 @@
-name: License Renewal Check
+name: Daily Agent Sync & Renewal Check
 
 on:
   schedule:
-    # Every 3 days at 9am UTC (3am/4am CT)
-    - cron: '0 9 */3 * *'
+    # Daily at 2am CT (8am UTC in summer, 7am UTC in winter)
+    - cron: '0 8 * * *'
   workflow_dispatch: # Manual trigger
 
 jobs:
-  renewal-check:
+  sync-and-check:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,6 +21,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Sync email list (remove terminated agents from Google Sheet)
+        env:
+          MONDAY_API_TOKEN: ${{ secrets.MONDAY_API_TOKEN }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: python sync_email_list.py
 
       - name: Run renewal check
         env:

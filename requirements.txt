@@ -1,3 +1,5 @@
+google-auth
+gspread
 pandas
 rapidfuzz
 requests
