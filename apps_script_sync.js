@@ -1,13 +1,19 @@
 // ============================================
-// MONDAY.COM TERMINATED AGENT SYNC
+// MONDAY.COM ACTIVE ROSTER SYNC
 // Add this below the existing Cold Email Drip Sender code
-// Removes terminated agents from the email list daily
+// Compares Monday.com active agents against Google Sheets —
+// anyone NOT on the active roster gets removed from the email list
 // ============================================
 
 // --- MONDAY.COM CONFIG (KHA) ---
 const MONDAY_BOARD_ID = 359616654;
-const MONDAY_TERMINATED_GROUP_ID = "new_group32247";
+const MONDAY_ACTIVE_GROUP_ID = "group_title";
 const MONDAY_ENTITY = "KHA";
+
+// --- GITHUB CONFIG (for renewal report email) ---
+const GITHUB_REPO_OWNER = "delfinparis";
+const GITHUB_REPO_NAME = "kha-agent-renewal-project";
+const REPORT_RECIPIENTS = ["dj@kalerealty.com", "rea@kalerealty.com"];
 
 // --- MONDAY.COM API ---
 
@@ -28,7 +34,7 @@ function mondayQuery(query, variables) {
   return data.data;
 }
 
-function getTerminatedAgents() {
+function getActiveAgents() {
   const agents = [];
   let cursor = null;
   let isFirstPage = true;
@@ -51,7 +57,7 @@ function getTerminatedAgents() {
       const page = data.boards[0].items_page;
       cursor = page.cursor;
       page.items.forEach(item => {
-        if (item.group.id === MONDAY_TERMINATED_GROUP_ID) agents.push(parseMonday(item));
+        if (item.group.id === MONDAY_ACTIVE_GROUP_ID) agents.push(parseMonday(item));
       });
       isFirstPage = false;
     } else {
@@ -67,7 +73,7 @@ function getTerminatedAgents() {
       const page = data.next_items_page;
       cursor = page.cursor;
       page.items.forEach(item => {
-        if (item.group.id === MONDAY_TERMINATED_GROUP_ID) agents.push(parseMonday(item));
+        if (item.group.id === MONDAY_ACTIVE_GROUP_ID) agents.push(parseMonday(item));
       });
     }
 
@@ -93,24 +99,23 @@ function parseMonday(item) {
   return { first: first.trim().toLowerCase(), last: last.trim().toLowerCase(), raw: item.name };
 }
 
-// --- SYNC: REMOVE TERMINATED AGENTS FROM SHEET ---
+// --- SYNC: REMOVE AGENTS NOT ON ACTIVE ROSTER ---
 
-function syncTerminatedAgents() {
-  Logger.log("[" + MONDAY_ENTITY + "] Terminated agent sync starting...");
+function syncActiveRoster() {
+  Logger.log("[" + MONDAY_ENTITY + "] Active roster sync starting...");
 
-  const terminated = getTerminatedAgents();
-  Logger.log("Terminated agents in Monday.com: " + terminated.length);
+  const activeAgents = getActiveAgents();
+  Logger.log("Active agents on Monday.com: " + activeAgents.length);
 
-  if (terminated.length === 0) {
-    Logger.log("No terminated agents found. Sheet unchanged.");
+  if (activeAgents.length === 0) {
+    Logger.log("WARNING: No active agents found on Monday.com. Skipping sync to prevent accidental wipe.");
     return;
   }
 
-  // Build lookup
-  const terminatedSet = {};
-  terminated.forEach(agent => {
-    terminatedSet[agent.first + "|" + agent.last] = true;
-    Logger.log("  " + agent.raw);
+  // Build lookup of active agents
+  const activeSet = {};
+  activeAgents.forEach(agent => {
+    activeSet[agent.first + "|" + agent.last] = true;
   });
 
   // Use existing getSpreadsheet() and getColumnMap() from drip sender
@@ -135,16 +140,17 @@ function syncTerminatedAgents() {
     const first = data[i][firstIdx].toString().trim().toLowerCase();
     const last = data[i][lastIdx].toString().trim().toLowerCase();
 
-    if (terminatedSet[first + "|" + last]) {
+    // If this person is NOT in the active roster, remove them
+    if (!activeSet[first + "|" + last]) {
       const email = emailIdx !== undefined ? data[i][emailIdx] : "";
       rowsToRemove.push({ row: i + 1, first: data[i][firstIdx], last: data[i][lastIdx], email: email });
     }
   }
 
-  Logger.log("Rows to remove from sheet: " + rowsToRemove.length);
+  Logger.log("Agents NOT on active roster (to remove): " + rowsToRemove.length);
 
   if (rowsToRemove.length === 0) {
-    Logger.log("No matching terminated agents found in sheet.");
+    Logger.log("All sheet agents are on the active roster. No changes needed.");
     return;
   }
 
@@ -154,7 +160,48 @@ function syncTerminatedAgents() {
     sheet.deleteRow(match.row);
   });
 
-  Logger.log("Done. Removed " + rowsToRemove.length + " terminated agent(s) from email list.");
+  Logger.log("Done. Removed " + rowsToRemove.length + " agent(s) no longer on the active roster.");
+}
+
+// --- EMAIL RENEWAL REPORT ---
+
+function emailRenewalReport() {
+  Logger.log("[" + MONDAY_ENTITY + "] Fetching renewal report from GitHub...");
+
+  var url = "https://raw.githubusercontent.com/" + GITHUB_REPO_OWNER + "/" + GITHUB_REPO_NAME + "/main/latest_report.txt";
+
+  try {
+    var resp = UrlFetchApp.fetch(url, { muteHttpExceptions: true });
+
+    if (resp.getResponseCode() !== 200) {
+      Logger.log("No report found at " + url + " (HTTP " + resp.getResponseCode() + "). Skipping email.");
+      return;
+    }
+
+    var reportText = resp.getContentText();
+    if (!reportText || reportText.trim().length === 0) {
+      Logger.log("Report is empty. Skipping email.");
+      return;
+    }
+
+    var today = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), "yyyy-MM-dd");
+    var subject = "[" + MONDAY_ENTITY + "] License Renewal Report — " + today;
+
+    var htmlBody = "<h2>" + subject + "</h2>"
+      + "<pre style='font-family: Consolas, monospace; font-size: 13px; line-height: 1.4;'>"
+      + reportText.replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      + "</pre>"
+      + "<hr><p style='color: #888; font-size: 11px;'>Auto-generated by GitHub Actions + Apps Script</p>";
+
+    REPORT_RECIPIENTS.forEach(function(email) {
+      GmailApp.sendEmail(email, subject, reportText, { htmlBody: htmlBody });
+      Logger.log("Report emailed to: " + email);
+    });
+
+    Logger.log("Done. Report sent to " + REPORT_RECIPIENTS.length + " recipient(s).");
+  } catch (e) {
+    Logger.log("ERROR fetching/sending report: " + e.message);
+  }
 }
 
 // --- UPDATE THE EXISTING MENU ---
@@ -170,28 +217,37 @@ function onOpen() {
     .addItem("Check Status", "checkStatus")
     .addItem("Full Reset", "fullReset")
     .addSeparator()
-    .addItem("Sync Terminated Agents (Monday.com)", "syncTerminatedAgents")
+    .addItem("Sync Active Roster (Monday.com)", "syncActiveRoster")
+    .addItem("Email Renewal Report", "emailRenewalReport")
     .addToUi();
 }
 */
 
-// --- SETUP DAILY TRIGGER ---
-// Run this ONCE to create a daily trigger for the sync:
+// --- SETUP DAILY TRIGGERS ---
+// Run this ONCE to create daily triggers:
 
 function setupSyncTrigger() {
   // Remove any existing sync triggers
   ScriptApp.getProjectTriggers().forEach(trigger => {
-    if (trigger.getHandlerFunction() === "syncTerminatedAgents") {
+    var fn = trigger.getHandlerFunction();
+    if (fn === "syncActiveRoster" || fn === "syncTerminatedAgents" || fn === "emailRenewalReport") {
       ScriptApp.deleteTrigger(trigger);
     }
   });
 
-  // Create daily trigger at 5am-6am (runs before the email campaign)
-  ScriptApp.newTrigger("syncTerminatedAgents")
+  // Daily roster sync at 5am (runs before the email campaign)
+  ScriptApp.newTrigger("syncActiveRoster")
     .timeBased()
     .everyDays(1)
     .atHour(5)
     .create();
 
-  Logger.log("Daily sync trigger created (5am-6am).");
+  // Daily report email at 10am (after GitHub Actions runs at ~2am CT)
+  ScriptApp.newTrigger("emailRenewalReport")
+    .timeBased()
+    .everyDays(1)
+    .atHour(10)
+    .create();
+
+  Logger.log("Daily triggers created: syncActiveRoster (5am), emailRenewalReport (10am).");
 }

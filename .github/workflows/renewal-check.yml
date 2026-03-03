@@ -25,14 +25,12 @@ jobs:
       - name: Run renewal check
         env:
           MONDAY_API_TOKEN: ${{ secrets.MONDAY_API_TOKEN }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-        run: python update_license_renewals.py --auto --email
+        run: python update_license_renewals.py --auto
 
-      - name: Commit updated CSV
+      - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add agents_need_renewal.csv
-          git diff --cached --quiet || git commit -m "Update agents needing renewal — $(date +%Y-%m-%d)"
+          git add agents_need_renewal.csv latest_report.txt
+          git diff --cached --quiet || git commit -m "Update renewal report — $(date +%Y-%m-%d)"
           git push

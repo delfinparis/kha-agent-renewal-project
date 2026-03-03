@@ -13,7 +13,7 @@ Usage:
     # Automated mode (pulls from Monday.com + data.illinois.gov):
     export MONDAY_API_TOKEN="your_token"
     python update_license_renewals.py --auto --dry-run
-    python update_license_renewals.py --auto --email
+    python update_license_renewals.py --auto
 
     # Manual mode (local CSVs):
     python update_license_renewals.py --dfpr report.csv --agents agents.csv --dry-run
@@ -378,7 +378,7 @@ def run_pipeline(dfpr_path=None, agents_path=None, output_path=None,
 # CLI
 # ===================================================================
 
-def run_auto(dry_run=False, send_email=False, threshold=DEFAULT_THRESHOLD):
+def run_auto(dry_run=False, threshold=DEFAULT_THRESHOLD):
     """Automated pipeline: pull from Monday.com + data.illinois.gov."""
     from fetch_monday_agents import fetch_active_agents
     from fetch_dfpr_data import fetch_dfpr_records
@@ -409,13 +409,11 @@ def run_auto(dry_run=False, send_email=False, threshold=DEFAULT_THRESHOLD):
 
     print("\n" + report_text)
 
-    # Step 4: Email report
-    if send_email and not dry_run:
-        from send_report import send_report
-        send_report(
-            f"[{ENTITY_NAME}] License Renewal Report — {datetime.now().strftime('%Y-%m-%d')}",
-            report_text,
-        )
+    # Step 4: Save report for Apps Script to email
+    if not dry_run:
+        with open("latest_report.txt", "w") as f:
+            f.write(report_text)
+        print(f"Report saved to latest_report.txt")
 
 
 def main():
@@ -426,7 +424,7 @@ def main():
 Examples:
   # Automated (Monday.com + DFPR API):
   python update_license_renewals.py --auto --dry-run
-  python update_license_renewals.py --auto --email
+  python update_license_renewals.py --auto
 
   # Manual (local CSVs):
   python update_license_renewals.py --dfpr dfpr_export.csv --agents agents.csv --dry-run
@@ -436,8 +434,6 @@ Examples:
 
     parser.add_argument('--auto', action='store_true',
                         help='Automated mode: pull agents from Monday.com, DFPR from data.illinois.gov')
-    parser.add_argument('--email', action='store_true',
-                        help='Send report via email (requires SMTP_USER/SMTP_PASSWORD)')
     parser.add_argument('--dfpr', default=None, help='Path to DFPR eLicense CSV export (manual mode)')
     parser.add_argument('--agents', default=None, help='Path to agents CSV (manual mode)')
     parser.add_argument('--output', default=None, help='Output CSV path (default: overwrite agents CSV)')
@@ -450,7 +446,6 @@ Examples:
     if args.auto:
         run_auto(
             dry_run=args.dry_run,
-            send_email=args.email,
             threshold=args.threshold,
         )
     else:
