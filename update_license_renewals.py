@@ -2,19 +2,21 @@
 """
 DFPR License Renewal Tracker
 
-Weekly script that:
-1. Reads the DFPR eLicense CSV export (from Illinois DFPR website)
-2. Matches agents against Kale Realty's internal agent CSV using fuzzy name matching
-3. Removes agents who have already renewed (expiration after 4/30/2026)
-4. Keeps agents who still need to renew or aren't found in the DFPR data
+Automated or manual script that:
+1. Pulls active agents from Monday.com (or reads a local CSV)
+2. Pulls DFPR license data from data.illinois.gov (or reads a local CSV)
+3. Matches agents using fuzzy name matching
+4. Removes agents who have already renewed (expiration after 4/30/2026)
+5. Keeps agents who still need to renew or aren't found in the DFPR data
 
 Usage:
-    source license-renewals-venv/bin/activate
+    # Automated mode (pulls from Monday.com + data.illinois.gov):
+    export MONDAY_API_TOKEN="your_token"
+    python update_license_renewals.py --auto --dry-run
+    python update_license_renewals.py --auto --email
 
-    # Dry run (always do this first):
+    # Manual mode (local CSVs):
     python update_license_renewals.py --dfpr report.csv --agents agents.csv --dry-run
-
-    # Run for real:
     python update_license_renewals.py --dfpr report.csv --agents agents.csv
 """
 
@@ -25,15 +27,13 @@ import shutil
 import sys
 from datetime import date, datetime
 
-# ===================================================================
-# Constants
-# ===================================================================
-
-# License expiration cutoff: agents with dates AFTER this have renewed
-RENEWAL_CUTOFF = date(2026, 4, 30)
+from config import RENEWAL_CUTOFF, ENTITY_NAME
 
 # Fuzzy match threshold (0-100)
 DEFAULT_THRESHOLD = 85
+
+# Default output CSV name for automated runs
+AUTO_OUTPUT_CSV = "agents_need_renewal.csv"
 
 # ===================================================================
 # Name Matching
@@ -224,25 +224,29 @@ def backup_csv(csv_path):
 # Main Pipeline
 # ===================================================================
 
-def run_pipeline(dfpr_path, agents_path, output_path, dry_run, threshold):
-    """Main processing pipeline."""
+def run_pipeline(dfpr_path=None, agents_path=None, output_path=None,
+                  dry_run=False, threshold=DEFAULT_THRESHOLD,
+                  dfpr_df=None, agents_df=None, source_label="manual"):
+    """Main processing pipeline. Accepts CSVs paths or pre-loaded DataFrames."""
     import pandas as pd
     from collections import Counter
 
     print("=" * 60)
-    print(f"License Renewal Update — {datetime.now().strftime('%Y-%m-%d')}")
+    print(f"[{ENTITY_NAME}] License Renewal Update — {datetime.now().strftime('%Y-%m-%d')}")
     print("=" * 60)
-    print(f"DFPR CSV:   {dfpr_path}")
-    print(f"Agents CSV: {agents_path}")
+    print(f"Source:     {source_label}")
     print(f"Cutoff:     {RENEWAL_CUTOFF.strftime('%m/%d/%Y')}")
     print(f"Threshold:  {threshold}")
     print(f"Dry run:    {dry_run}")
     print()
 
-    # --- Step 1: Load both CSVs ---
-    print("Loading CSVs...")
-    dfpr_df = load_csv(dfpr_path)
-    agents_df = load_csv(agents_path)
+    # --- Step 1: Load data ---
+    if dfpr_df is None:
+        print(f"Loading DFPR CSV: {dfpr_path}")
+        dfpr_df = load_csv(dfpr_path)
+    if agents_df is None:
+        print(f"Loading Agents CSV: {agents_path}")
+        agents_df = load_csv(agents_path)
     print(f"  DFPR records:  {len(dfpr_df)}")
     print(f"  Agents in CSV: {len(agents_df)}")
 
@@ -325,44 +329,117 @@ def run_pipeline(dfpr_path, agents_path, output_path, dry_run, threshold):
         for agent in renewed_unmatched:
             print(f"  {agent['name']:35s} | Exp: {agent['exp']} | {agent['reason']}")
 
-    # --- Step 6: Save updated CSV ---
+    # --- Step 6: Build report text ---
+    report_lines = []
+    report_lines.append(f"[{ENTITY_NAME}] License Renewal Report — {datetime.now().strftime('%Y-%m-%d')}")
+    report_lines.append(f"Source: {source_label}")
+    report_lines.append(f"Cutoff: {RENEWAL_CUTOFF.strftime('%m/%d/%Y')}")
+    report_lines.append("")
+    report_lines.append(f"REMOVE (already renewed):     {len(indices_to_remove)}")
+    report_lines.append(f"KEEP (needs renewal):         {len(keep_reasons)}")
+    report_lines.append(f"KEEP (no match in DFPR):      {len(unmatched_agents)}")
+    report_lines.append(f"Total needing renewal:        {len(agents_df) - len(indices_to_remove)}")
+
+    if remove_list:
+        report_lines.append(f"\n--- Agents Who Renewed ({len(remove_list)}) ---")
+        for item in sorted(remove_list, key=lambda x: x['name']):
+            report_lines.append(f"  {item['name']:35s} | {item['reason']}")
+
+    if keep_reasons:
+        report_lines.append(f"\n--- Agents Still Needing Renewal ({len(keep_reasons)}) ---")
+        for item in sorted(keep_reasons, key=lambda x: x['name']):
+            report_lines.append(f"  {item['name']:35s} | {item['reason']}")
+
+    if renewed_unmatched:
+        report_lines.append(f"\n--- Unmatched DFPR (Manual Review) ({len(renewed_unmatched)}) ---")
+        for agent in renewed_unmatched:
+            report_lines.append(f"  {agent['name']:35s} | Exp: {agent['exp']}")
+
+    report_text = "\n".join(report_lines)
+
+    # --- Step 7: Save updated CSV ---
     if dry_run:
         print(f"\n*** DRY RUN — No changes made ***")
     else:
-        if not indices_to_remove:
-            print(f"\nNo agents to remove. CSV unchanged.")
-        else:
+        updated_df = agents_df.drop(index=list(indices_to_remove)).reset_index(drop=True)
+        save_path = output_path or agents_path or AUTO_OUTPUT_CSV
+
+        if agents_path and os.path.exists(agents_path) and indices_to_remove:
             backup_path = backup_csv(agents_path)
             print(f"\nBackup saved: {backup_path}")
 
-            updated_df = agents_df.drop(index=list(indices_to_remove)).reset_index(drop=True)
-            save_path = output_path or agents_path
-            updated_df.to_csv(save_path, index=False)
-            print(f"Updated CSV saved: {save_path}")
-            print(f"Removed {len(indices_to_remove)} agents, {len(updated_df)} remaining.")
+        updated_df.to_csv(save_path, index=False)
+        print(f"Updated CSV saved: {save_path}")
+        print(f"Agents needing renewal: {len(updated_df)}")
 
-    return len(indices_to_remove)
+    return report_text
 
 # ===================================================================
 # CLI
 # ===================================================================
 
+def run_auto(dry_run=False, send_email=False, threshold=DEFAULT_THRESHOLD):
+    """Automated pipeline: pull from Monday.com + data.illinois.gov."""
+    from fetch_monday_agents import fetch_active_agents
+    from fetch_dfpr_data import fetch_dfpr_records
+
+    print(f"[{ENTITY_NAME}] Automated renewal check starting...\n")
+
+    # Step 1: Get active agents from Monday.com
+    print("--- Monday.com ---")
+    agents_df = fetch_active_agents()
+
+    # Step 2: Get DFPR license data
+    print("\n--- DFPR (data.illinois.gov) ---")
+    dfpr_df = fetch_dfpr_records()
+
+    if dfpr_df.empty:
+        print("No DFPR records found. Exiting.")
+        return
+
+    # Step 3: Run the matching pipeline
+    report_text = run_pipeline(
+        dfpr_df=dfpr_df,
+        agents_df=agents_df,
+        output_path=AUTO_OUTPUT_CSV,
+        dry_run=dry_run,
+        threshold=threshold,
+        source_label="Monday.com + data.illinois.gov",
+    )
+
+    print("\n" + report_text)
+
+    # Step 4: Email report
+    if send_email and not dry_run:
+        from send_report import send_report
+        send_report(
+            f"[{ENTITY_NAME}] License Renewal Report — {datetime.now().strftime('%Y-%m-%d')}",
+            report_text,
+        )
+
+
 def main():
     parser = argparse.ArgumentParser(
-        description='Update license renewal CSV using DFPR eLicense export',
+        description='License renewal tracker — automated or manual',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Dry run:
-  python update_license_renewals.py --dfpr dfpr_export.csv --agents agents.csv --dry-run
+  # Automated (Monday.com + DFPR API):
+  python update_license_renewals.py --auto --dry-run
+  python update_license_renewals.py --auto --email
 
-  # Run for real:
+  # Manual (local CSVs):
+  python update_license_renewals.py --dfpr dfpr_export.csv --agents agents.csv --dry-run
   python update_license_renewals.py --dfpr dfpr_export.csv --agents agents.csv
         """
     )
 
-    parser.add_argument('--dfpr', required=True, help='Path to DFPR eLicense CSV export')
-    parser.add_argument('--agents', required=True, help='Path to Kale agents CSV')
+    parser.add_argument('--auto', action='store_true',
+                        help='Automated mode: pull agents from Monday.com, DFPR from data.illinois.gov')
+    parser.add_argument('--email', action='store_true',
+                        help='Send report via email (requires SMTP_USER/SMTP_PASSWORD)')
+    parser.add_argument('--dfpr', default=None, help='Path to DFPR eLicense CSV export (manual mode)')
+    parser.add_argument('--agents', default=None, help='Path to agents CSV (manual mode)')
     parser.add_argument('--output', default=None, help='Output CSV path (default: overwrite agents CSV)')
     parser.add_argument('--dry-run', action='store_true', help='Show changes without modifying CSV')
     parser.add_argument('--threshold', type=int, default=DEFAULT_THRESHOLD,
@@ -370,21 +447,31 @@ Examples:
 
     args = parser.parse_args()
 
-    if not os.path.exists(args.dfpr):
-        print(f"ERROR: DFPR CSV not found: {args.dfpr}")
-        sys.exit(1)
+    if args.auto:
+        run_auto(
+            dry_run=args.dry_run,
+            send_email=args.email,
+            threshold=args.threshold,
+        )
+    else:
+        if not args.dfpr or not args.agents:
+            parser.error("Manual mode requires --dfpr and --agents (or use --auto)")
 
-    if not os.path.exists(args.agents):
-        print(f"ERROR: Agents CSV not found: {args.agents}")
-        sys.exit(1)
+        if not os.path.exists(args.dfpr):
+            print(f"ERROR: DFPR CSV not found: {args.dfpr}")
+            sys.exit(1)
 
-    run_pipeline(
-        dfpr_path=args.dfpr,
-        agents_path=args.agents,
-        output_path=args.output,
-        dry_run=args.dry_run,
-        threshold=args.threshold,
-    )
+        if not os.path.exists(args.agents):
+            print(f"ERROR: Agents CSV not found: {args.agents}")
+            sys.exit(1)
+
+        run_pipeline(
+            dfpr_path=args.dfpr,
+            agents_path=args.agents,
+            output_path=args.output,
+            dry_run=args.dry_run,
+            threshold=args.threshold,
+        )
 
 
 if __name__ == '__main__':

@@ -1,0 +1,38 @@
+name: License Renewal Check
+
+on:
+  schedule:
+    # Every 3 days at 9am UTC (3am/4am CT)
+    - cron: '0 9 */3 * *'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  renewal-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run renewal check
+        env:
+          MONDAY_API_TOKEN: ${{ secrets.MONDAY_API_TOKEN }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: python update_license_renewals.py --auto --email
+
+      - name: Commit updated CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add agents_need_renewal.csv
+          git diff --cached --quiet || git commit -m "Update agents needing renewal — $(date +%Y-%m-%d)"
+          git push
