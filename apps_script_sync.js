@@ -164,11 +164,14 @@ function syncActiveRoster() {
     return;
   }
 
-  // Build lookup of active agents by name
-  var activeSet = {};
+  // Build lookup of active agents by email
+  var activeByEmail = {};
   activeAgents.forEach(function(agent) {
-    activeSet[agent.first + "|" + agent.last] = agent;
+    if (agent.email) {
+      activeByEmail[agent.email.toLowerCase()] = agent;
+    }
   });
+  Logger.log("Active agents with email: " + Object.keys(activeByEmail).length);
 
   // Open spreadsheet
   var ss = CONFIG.SPREADSHEET_ID
@@ -180,30 +183,27 @@ function syncActiveRoster() {
   headers.forEach(function(h, i) { colMap[h.toString().toLowerCase().trim()] = i; });
 
   var firstIdx = colMap["first name"];
-  var lastIdx = colMap["last name"];
   var emailIdx = colMap["email"];
 
-  if (firstIdx === undefined || lastIdx === undefined) {
-    Logger.log("ERROR: Could not find 'First Name' or 'Last Name' columns");
+  if (emailIdx === undefined) {
+    Logger.log("ERROR: Could not find 'Email' column");
     return;
   }
 
   // --- PHASE 1: REMOVE rows ---
   var data = sheet.getDataRange().getValues();
   var rowsToRemove = [];
-  var sheetNames = {}; // track who's already on the sheet
+  var sheetEmails = {}; // track who's already on the sheet
 
   for (var i = data.length - 1; i >= 1; i--) {
-    var first = data[i][firstIdx].toString().trim().toLowerCase();
-    var last = data[i][lastIdx].toString().trim().toLowerCase();
-    var key = first + "|" + last;
-    sheetNames[key] = true;
+    var email = data[i][emailIdx].toString().trim().toLowerCase();
+    if (email) sheetEmails[email] = true;
 
     var reason = "";
-    var agent = activeSet[key];
+    var agent = activeByEmail[email];
 
-    // Remove if not on active roster
-    if (!agent) {
+    // Remove if email not found on active roster
+    if (!email || !agent) {
       reason = "not on active roster";
     }
     // Remove if license starts with 471 or 473 (no CE renewal needed)
@@ -212,14 +212,14 @@ function syncActiveRoster() {
     }
 
     if (reason) {
-      var email = emailIdx !== undefined ? data[i][emailIdx] : "";
-      rowsToRemove.push({ row: i + 1, first: data[i][firstIdx], last: data[i][lastIdx], email: email, reason: reason });
+      var firstName = firstIdx !== undefined ? data[i][firstIdx] : "";
+      rowsToRemove.push({ row: i + 1, first: firstName, email: email, reason: reason });
     }
   }
 
   Logger.log("Rows to remove: " + rowsToRemove.length);
   rowsToRemove.forEach(function(match) {
-    Logger.log("  Remove row " + match.row + ": " + match.first + " " + match.last + " (" + match.reason + ")");
+    Logger.log("  Remove row " + match.row + ": " + match.first + " (" + match.email + ") — " + match.reason);
     sheet.deleteRow(match.row);
   });
 
@@ -227,8 +227,7 @@ function syncActiveRoster() {
   // Find active agents with 475 licenses NOT already on sheet
   var newAgents475 = [];
   activeAgents.forEach(function(agent) {
-    var key = agent.first + "|" + agent.last;
-    if (!sheetNames[key] && agent.license && agent.license.substring(0, 3) === "475") {
+    if (agent.email && !sheetEmails[agent.email.toLowerCase()] && agent.license && agent.license.substring(0, 3) === "475") {
       newAgents475.push(agent);
     }
   });
