@@ -15,7 +15,7 @@ const CONFIG = {
   SHEET_NAME: "Emails",
   TEMPLATE_FILE: "email_template.md",
   SPREADSHEET_ID: "1GZ37s4TyJyRVLhtYi3Dl8AiB7vLsq5AgWkYp8ol6Cnc",
-  MAKE_WEBHOOK_URL: "https://hook.us1.make.com/r9l86opsva2re0b1kb3cae95x947xawc",  // TODO: replace with KHA-specific webhook
+  MAKE_WEBHOOK_URL: "https://hook.us1.make.com/hcjb6f8m148ftu6hmkh2i18crgnmrtju",
 };
 
 // --- GET SPREADSHEET (works in triggers AND manual runs) ---
