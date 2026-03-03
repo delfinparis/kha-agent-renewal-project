@@ -381,7 +381,7 @@ def run_pipeline(dfpr_path=None, agents_path=None, output_path=None,
 def run_auto(dry_run=False, threshold=DEFAULT_THRESHOLD):
     """Automated pipeline: pull from Monday.com + data.illinois.gov."""
     from fetch_monday_agents import fetch_active_agents
-    from fetch_dfpr_data import fetch_dfpr_records
+    from fetch_dfpr_data import fetch_dfpr_by_license_numbers, fetch_dfpr_records
 
     print(f"[{ENTITY_NAME}] Automated renewal check starting...\n")
 
@@ -389,9 +389,17 @@ def run_auto(dry_run=False, threshold=DEFAULT_THRESHOLD):
     print("--- Monday.com ---")
     agents_df = fetch_active_agents()
 
-    # Step 2: Get DFPR license data
+    # Step 2: Get DFPR license data by license number (fast + exact)
     print("\n--- DFPR (data.illinois.gov) ---")
-    dfpr_df = fetch_dfpr_records()
+    license_numbers = agents_df["License Number"].dropna().tolist()
+    has_license = [n for n in license_numbers if str(n).strip()]
+    print(f"  Agents with license numbers: {len(has_license)} / {len(agents_df)}")
+
+    if has_license:
+        dfpr_df = fetch_dfpr_by_license_numbers(has_license)
+    else:
+        print("  No license numbers found. Falling back to full DFPR pull...")
+        dfpr_df = fetch_dfpr_records()
 
     if dfpr_df.empty:
         print("No DFPR records found. Exiting.")
@@ -404,7 +412,7 @@ def run_auto(dry_run=False, threshold=DEFAULT_THRESHOLD):
         output_path=AUTO_OUTPUT_CSV,
         dry_run=dry_run,
         threshold=threshold,
-        source_label="Monday.com + data.illinois.gov",
+        source_label="Monday.com + data.illinois.gov (license number lookup)",
     )
 
     print("\n" + report_text)

@@ -48,7 +48,7 @@ function getActiveAgents() {
           boards(ids: $boardId) {
             items_page(limit: 500) {
               cursor
-              items { name, group { id }, column_values { title text } }
+              items { name, group { id }, column_values { id text } }
             }
           }
         }`,
@@ -65,7 +65,7 @@ function getActiveAgents() {
         `query ($cursor: String!) {
           next_items_page(limit: 500, cursor: $cursor) {
             cursor
-            items { name, group { id }, column_values { title text } }
+            items { name, group { id }, column_values { id text } }
           }
         }`,
         { cursor: cursor }
@@ -85,10 +85,10 @@ function getActiveAgents() {
 
 function parseMonday(item) {
   const cols = {};
-  item.column_values.forEach(c => { cols[c.title.toLowerCase()] = c.text; });
+  item.column_values.forEach(c => { cols[c.id.toLowerCase()] = c.text; });
 
-  let first = cols["first name"] || cols["firstname"] || cols["first"] || "";
-  let last = cols["last name"] || cols["lastname"] || cols["last"] || "";
+  let first = cols["text95"] || "";
+  let last = cols["text_19"] || "";
 
   if (!first && !last) {
     const parts = item.name.trim().split(/\s+/);
@@ -96,71 +96,179 @@ function parseMonday(item) {
     last = parts.slice(1).join(" ") || "";
   }
 
-  return { first: first.trim().toLowerCase(), last: last.trim().toLowerCase(), raw: item.name };
+  // License number: "license_number" for KHA, "license_number3" for HC
+  var licenseNum = cols["license_number"] || cols["license_number3"] || "";
+
+  // Email: work_email, fall back to home_email
+  var email = cols["work_email"] || cols["home_email"] || "";
+
+  // Phone
+  var phone = cols["phone_number8"] || "";
+
+  return {
+    first: first.trim().toLowerCase(),
+    last: last.trim().toLowerCase(),
+    raw: item.name,
+    license: licenseNum.trim(),
+    email: email.trim(),
+    phone: phone.trim()
+  };
 }
 
-// --- SYNC: REMOVE AGENTS NOT ON ACTIVE ROSTER ---
+// --- SPREADSHEET CONFIG ---
+// Uses CONFIG.SPREADSHEET_ID and CONFIG.SHEET_NAME from the drip sender
+
+// --- DFPR LICENSE LOOKUP ---
+
+function dfprLookup(licenseNumbers) {
+  // Query DFPR by license numbers in batches of 100
+  var results = {};
+  var BATCH = 100;
+
+  for (var i = 0; i < licenseNumbers.length; i += BATCH) {
+    var batch = licenseNumbers.slice(i, i + BATCH);
+    var inList = batch.map(function(n) { return "'" + n + "'"; }).join(", ");
+    var where = "license_number IN (" + inList + ")";
+    var url = "https://data.illinois.gov/resource/pzzh-kp68.json"
+      + "?$where=" + encodeURIComponent(where)
+      + "&$select=" + encodeURIComponent("license_number,expiration_date,license_status")
+      + "&$limit=50000";
+
+    var resp = UrlFetchApp.fetch(url, { muteHttpExceptions: true });
+    if (resp.getResponseCode() === 200) {
+      var records = JSON.parse(resp.getContentText());
+      records.forEach(function(r) {
+        // Keep the latest expiration per license number
+        var num = r.license_number;
+        var exp = r.expiration_date || "";
+        if (!results[num] || exp > (results[num].expiration_date || "")) {
+          results[num] = r;
+        }
+      });
+    }
+  }
+
+  return results;
+}
+
+// --- SYNC: FULL ROSTER SYNC ---
 
 function syncActiveRoster() {
   Logger.log("[" + MONDAY_ENTITY + "] Active roster sync starting...");
 
-  const activeAgents = getActiveAgents();
+  var activeAgents = getActiveAgents();
   Logger.log("Active agents on Monday.com: " + activeAgents.length);
 
   if (activeAgents.length === 0) {
-    Logger.log("WARNING: No active agents found on Monday.com. Skipping sync to prevent accidental wipe.");
+    Logger.log("WARNING: No active agents found. Skipping sync to prevent accidental wipe.");
     return;
   }
 
-  // Build lookup of active agents
-  const activeSet = {};
-  activeAgents.forEach(agent => {
-    activeSet[agent.first + "|" + agent.last] = true;
+  // Build lookup of active agents by name
+  var activeSet = {};
+  activeAgents.forEach(function(agent) {
+    activeSet[agent.first + "|" + agent.last] = agent;
   });
 
-  // Use existing getSpreadsheet() and getColumnMap() from drip sender
-  const ss = getSpreadsheet();
-  const sheet = ss.getSheetByName(CONFIG.SHEET_NAME);
-  const colMap = getColumnMap(sheet);
+  // Open spreadsheet
+  var ss = CONFIG.SPREADSHEET_ID
+    ? SpreadsheetApp.openById(CONFIG.SPREADSHEET_ID)
+    : SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheetByName(CONFIG.SHEET_NAME);
+  var headers = sheet.getRange(1, 1, 1, sheet.getLastColumn()).getValues()[0];
+  var colMap = {};
+  headers.forEach(function(h, i) { colMap[h.toString().toLowerCase().trim()] = i; });
 
-  const firstIdx = colMap["first name"];
-  const lastIdx = colMap["last name"];
-  const emailIdx = colMap["email"];
+  var firstIdx = colMap["first name"];
+  var lastIdx = colMap["last name"];
+  var emailIdx = colMap["email"];
 
   if (firstIdx === undefined || lastIdx === undefined) {
     Logger.log("ERROR: Could not find 'First Name' or 'Last Name' columns");
     return;
   }
 
-  const data = sheet.getDataRange().getValues();
-  const rowsToRemove = [];
+  // --- PHASE 1: REMOVE rows ---
+  var data = sheet.getDataRange().getValues();
+  var rowsToRemove = [];
+  var sheetNames = {}; // track who's already on the sheet
 
-  // Scan bottom-up so row indices stay valid during deletion
-  for (let i = data.length - 1; i >= 1; i--) {
-    const first = data[i][firstIdx].toString().trim().toLowerCase();
-    const last = data[i][lastIdx].toString().trim().toLowerCase();
+  for (var i = data.length - 1; i >= 1; i--) {
+    var first = data[i][firstIdx].toString().trim().toLowerCase();
+    var last = data[i][lastIdx].toString().trim().toLowerCase();
+    var key = first + "|" + last;
+    sheetNames[key] = true;
 
-    // If this person is NOT in the active roster, remove them
-    if (!activeSet[first + "|" + last]) {
-      const email = emailIdx !== undefined ? data[i][emailIdx] : "";
-      rowsToRemove.push({ row: i + 1, first: data[i][firstIdx], last: data[i][lastIdx], email: email });
+    var reason = "";
+    var agent = activeSet[key];
+
+    // Remove if not on active roster
+    if (!agent) {
+      reason = "not on active roster";
+    }
+    // Remove if license starts with 471 or 473 (no CE renewal needed)
+    else if (agent.license && (agent.license.substring(0, 3) === "471" || agent.license.substring(0, 3) === "473")) {
+      reason = "471/473 license (no CE renewal)";
+    }
+
+    if (reason) {
+      var email = emailIdx !== undefined ? data[i][emailIdx] : "";
+      rowsToRemove.push({ row: i + 1, first: data[i][firstIdx], last: data[i][lastIdx], email: email, reason: reason });
     }
   }
 
-  Logger.log("Agents NOT on active roster (to remove): " + rowsToRemove.length);
-
-  if (rowsToRemove.length === 0) {
-    Logger.log("All sheet agents are on the active roster. No changes needed.");
-    return;
-  }
-
-  // Delete rows (already in reverse order)
-  rowsToRemove.forEach(match => {
-    Logger.log("  Removing row " + match.row + ": " + match.first + " " + match.last + " (" + match.email + ")");
+  Logger.log("Rows to remove: " + rowsToRemove.length);
+  rowsToRemove.forEach(function(match) {
+    Logger.log("  Remove row " + match.row + ": " + match.first + " " + match.last + " (" + match.reason + ")");
     sheet.deleteRow(match.row);
   });
 
-  Logger.log("Done. Removed " + rowsToRemove.length + " agent(s) no longer on the active roster.");
+  // --- PHASE 2: ADD new 475 agents who need renewal ---
+  // Find active agents with 475 licenses NOT already on sheet
+  var newAgents475 = [];
+  activeAgents.forEach(function(agent) {
+    var key = agent.first + "|" + agent.last;
+    if (!sheetNames[key] && agent.license && agent.license.substring(0, 3) === "475") {
+      newAgents475.push(agent);
+    }
+  });
+
+  Logger.log("New agents with 475 license not on sheet: " + newAgents475.length);
+
+  if (newAgents475.length > 0) {
+    // Check DFPR for these license numbers
+    var licNums = newAgents475.map(function(a) { return a.license; });
+    Logger.log("Checking " + licNums.length + " license numbers against DFPR...");
+    var dfprData = dfprLookup(licNums);
+
+    var addedCount = 0;
+    // Sheet columns: First Name, Email, Status, Timestamp, Phone, Last Name, Last Name 2, Last Name 3
+    newAgents475.forEach(function(agent) {
+      var dfpr = dfprData[agent.license];
+      if (!dfpr) {
+        Logger.log("  " + agent.raw + " (lic " + agent.license + "): not found in DFPR, skipping");
+        return;
+      }
+
+      var exp = dfpr.expiration_date || "";
+      // Check if expiration is 4/30/2026 (needs renewal)
+      if (exp.indexOf("04/30/2026") === 0) {
+        // Capitalize name for the sheet
+        var firstName = agent.first.charAt(0).toUpperCase() + agent.first.slice(1);
+
+        // Append row: First Name, Email, Status, Timestamp, Phone
+        sheet.appendRow([firstName, agent.email, "", "", agent.phone]);
+        Logger.log("  ADDED: " + firstName + " (" + agent.email + ", " + agent.phone + ") — exp " + exp);
+        addedCount++;
+      } else {
+        Logger.log("  " + agent.raw + " (lic " + agent.license + "): exp " + exp + ", does not need renewal");
+      }
+    });
+
+    Logger.log("Added " + addedCount + " new agent(s) needing renewal.");
+  }
+
+  Logger.log("Sync complete. Removed: " + rowsToRemove.length + ", checked new 475s: " + newAgents475.length);
 }
 
 // --- EMAIL RENEWAL REPORT ---
@@ -203,25 +311,6 @@ function emailRenewalReport() {
     Logger.log("ERROR fetching/sending report: " + e.message);
   }
 }
-
-// --- UPDATE THE EXISTING MENU ---
-// Replace the existing onOpen() function with this one,
-// or just add the sync items to your existing menu:
-
-/*
-function onOpen() {
-  SpreadsheetApp.getUi()
-    .createMenu("Email Campaign")
-    .addItem("Start Campaign", "startCampaign")
-    .addItem("Pause Campaign", "pauseCampaign")
-    .addItem("Check Status", "checkStatus")
-    .addItem("Full Reset", "fullReset")
-    .addSeparator()
-    .addItem("Sync Active Roster (Monday.com)", "syncActiveRoster")
-    .addItem("Email Renewal Report", "emailRenewalReport")
-    .addToUi();
-}
-*/
 
 // --- SETUP DAILY TRIGGERS ---
 // Run this ONCE to create daily triggers:

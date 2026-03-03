@@ -36,7 +36,7 @@ def _run_query(query, variables=None):
     if variables:
         payload["variables"] = variables
 
-    resp = requests.post(MONDAY_API_URL, json=payload, headers=_get_headers(), timeout=30)
+    resp = requests.post(MONDAY_API_URL, json=payload, headers=_get_headers(), timeout=120)
     resp.raise_for_status()
     data = resp.json()
 
@@ -59,7 +59,7 @@ def fetch_board_items(board_id):
             id
             name
             group { id title }
-            column_values { id title text }
+            column_values { id text }
           }
         }
       }
@@ -82,7 +82,7 @@ def fetch_board_items(board_id):
           id
           name
           group { id title }
-          column_values { id title text }
+          column_values { id text }
         }
       }
     }
@@ -104,18 +104,17 @@ def extract_agent_info(item):
     """Extract agent first/last name from a Monday.com item."""
     col_lookup = {}
     for col in item["column_values"]:
-        col_lookup[col["title"].lower()] = col["text"]
         col_lookup[col["id"].lower()] = col["text"]
 
     first_name = None
     last_name = None
 
-    for key in ["first name", "first_name", "firstname", "first"]:
+    for key in ["text95", "first name", "first_name", "firstname", "first"]:
         if key in col_lookup and col_lookup[key]:
             first_name = col_lookup[key].strip()
             break
 
-    for key in ["last name", "last_name", "lastname", "last"]:
+    for key in ["text_19", "last name", "last_name", "lastname", "last"]:
         if key in col_lookup and col_lookup[key]:
             last_name = col_lookup[key].strip()
             break
@@ -126,9 +125,17 @@ def extract_agent_info(item):
         first_name = parts[0] if len(parts) >= 1 else ""
         last_name = parts[1] if len(parts) >= 2 else ""
 
+    # License number: "license_number" for KHA, "license_number3" for HC
+    license_num = ""
+    for key in ["license_number", "license_number3"]:
+        if key in col_lookup and col_lookup[key]:
+            license_num = col_lookup[key].strip()
+            break
+
     return {
         "First Name": first_name or "",
         "Last Name": last_name or "",
+        "License Number": license_num,
         "monday_item_id": item["id"],
         "monday_group": item["group"]["title"],
     }
