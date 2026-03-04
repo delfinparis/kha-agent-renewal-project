@@ -223,6 +223,50 @@ function syncActiveRoster() {
     sheet.deleteRow(match.row);
   });
 
+  // --- PHASE 1.5: REMOVE agents who have already renewed ---
+  // Re-read sheet after Phase 1 deletions
+  data = sheet.getDataRange().getValues();
+  var renewalCheck = [];
+
+  for (var j = 1; j < data.length; j++) {
+    var checkEmail = data[j][emailIdx].toString().trim().toLowerCase();
+    var checkAgent = activeByEmail[checkEmail];
+    if (checkAgent && checkAgent.license && checkAgent.license.substring(0, 3) === "475") {
+      renewalCheck.push({ row: j + 1, email: checkEmail, first: firstIdx !== undefined ? data[j][firstIdx] : "", license: checkAgent.license });
+    }
+  }
+
+  if (renewalCheck.length > 0) {
+    var checkLicNums = renewalCheck.map(function(r) { return r.license; });
+    Logger.log("Checking " + checkLicNums.length + " existing agents against DFPR for renewal status...");
+    var dfprRenewalData = dfprLookup(checkLicNums);
+
+    var renewedRows = [];
+    renewalCheck.forEach(function(check) {
+      var dfpr = dfprRenewalData[check.license];
+      if (dfpr && dfpr.expiration_date && dfpr.expiration_date.indexOf("04/30/2026") !== 0) {
+        check.exp = dfpr.expiration_date;
+        renewedRows.push(check);
+      }
+    });
+
+    Logger.log("Agents already renewed (to remove): " + renewedRows.length);
+    // Sort by row descending for safe deletion
+    renewedRows.sort(function(a, b) { return b.row - a.row; });
+    renewedRows.forEach(function(match) {
+      Logger.log("  Remove row " + match.row + ": " + match.first + " (" + match.email + ") — already renewed (exp " + match.exp + ")");
+      sheet.deleteRow(match.row);
+    });
+  }
+
+  // Rebuild sheetEmails after all removals
+  data = sheet.getDataRange().getValues();
+  sheetEmails = {};
+  for (var k = 1; k < data.length; k++) {
+    var rebuildEmail = data[k][emailIdx].toString().trim().toLowerCase();
+    if (rebuildEmail) sheetEmails[rebuildEmail] = true;
+  }
+
   // --- PHASE 2: ADD new 475 agents who need renewal ---
   // Find active agents with 475 licenses NOT already on sheet
   var newAgents475 = [];
