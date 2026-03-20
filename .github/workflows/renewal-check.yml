@@ -34,6 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add agents_need_renewal.csv latest_report.txt
+          git add agents_need_renewal.csv latest_report.txt 2>/dev/null || true
+          git add -u
           git diff --cached --quiet || git commit -m "Update renewal report — $(date +%Y-%m-%d)"
           git push
