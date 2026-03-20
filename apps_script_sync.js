@@ -244,7 +244,7 @@ function syncActiveRoster() {
     var renewedRows = [];
     renewalCheck.forEach(function(check) {
       var dfpr = dfprRenewalData[check.license];
-      if (dfpr && dfpr.expiration_date && dfpr.expiration_date.indexOf("04/30/2026") !== 0) {
+      if (dfpr && dfpr.expiration_date && dfpr.expiration_date.indexOf("2026-04-30") !== 0 && dfpr.expiration_date.indexOf("04/30/2026") !== 0) {
         check.exp = dfpr.expiration_date;
         renewedRows.push(check);
       }
@@ -295,7 +295,7 @@ function syncActiveRoster() {
 
       var exp = dfpr.expiration_date || "";
       // Check if expiration is 4/30/2026 (needs renewal)
-      if (exp.indexOf("04/30/2026") === 0) {
+      if (exp.indexOf("2026-04-30") === 0 || exp.indexOf("04/30/2026") === 0) {
         // Capitalize name for the sheet
         var firstName = agent.first.charAt(0).toUpperCase() + agent.first.slice(1);
 
