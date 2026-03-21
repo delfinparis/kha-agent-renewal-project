@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-03-20
+[KHA] License Renewal Report — 2026-03-21
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     190
-KEEP (needs renewal):         735
-KEEP (no match in DFPR):      1105
-Total needing renewal:        1840
+KEEP (needs renewal):         734
+KEEP (no match in DFPR):      1104
+Total needing renewal:        1838
 
 --- Agents Who Renewed (190) ---
   Abdul Mohammed                      | expires 04/30/2028 (already renewed)
@@ -199,7 +199,7 @@ Total needing renewal:        1840
   Yosef Ismail                        | expires 04/30/2028 (already renewed)
   Zachary Rudzki                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (735) ---
+--- Agents Still Needing Renewal (734) ---
   AJ Dobson                           | expires 04/30/2026 (needs renewal)
   Aaron Franklin                      | expires 04/30/2026 (needs renewal)
   Aaron Greenberg                     | expires 04/30/2026 (needs renewal)
@@ -455,7 +455,6 @@ Total needing renewal:        1840
   Ingab Robins                        | expires 04/30/2026 (needs renewal)
   Ipek Gundogdu                       | expires 04/30/2026 (needs renewal)
   Irina Doros                         | expires 04/30/2026 (needs renewal)
-  Isiah Martin                        | expires 04/30/2026 (needs renewal)
   Iskra Araujo-Garcia                 | expires 04/30/2024 (needs renewal)
   Israel Vargas                       | expires 04/30/2024 (needs renewal)
   Ivan Avila                          | expires 04/30/2026 (needs renewal)
@@ -662,7 +661,6 @@ Total needing renewal:        1840
   Matthew Brown                       | expires 04/30/2026 (needs renewal)
   Matthew Davis                       | expires 04/30/2026 (needs renewal)
   Matthew Lucas                       | expires 04/30/2026 (needs renewal)
-  Max Opalinski                       | expires 04/30/2026 (needs renewal)
   Maya Garland                        | expires 04/30/2026 (needs renewal)
   Melanie Vaughn                      | expires 04/30/2026 (needs renewal)
   Melida Orbe                         | expires 04/30/2026 (needs renewal)
@@ -862,6 +860,7 @@ Total needing renewal:        1840
   Sylvia Magallanes                   | expires 04/30/2026 (needs renewal)
   Syreeta Houston                     | expires 04/30/2026 (needs renewal)
   Tabish Khan                         | expires 04/30/2026 (needs renewal)
+  Tai Lowery                          | expires 04/30/2026 (needs renewal)
   Talia Tucci                         | expires 04/30/2026 (needs renewal)
   Tameika Brooks                      | expires 04/30/2026 (needs renewal)
   Tamika Wells                        | expires 04/30/2026 (needs renewal)
