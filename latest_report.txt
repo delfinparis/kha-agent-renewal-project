@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-03-24
+[KHA] License Renewal Report — 2026-03-25
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     197
 KEEP (needs renewal):         727
-KEEP (no match in DFPR):      1104
-Total needing renewal:        1831
+KEEP (no match in DFPR):      1107
+Total needing renewal:        1834
 
 --- Agents Who Renewed (197) ---
   Abdul Mohammed                      | expires 04/30/2028 (already renewed)
