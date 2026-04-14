@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-04-13
+[KHA] License Renewal Report — 2026-04-14
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     305
-KEEP (needs renewal):         639
-KEEP (no match in DFPR):      1119
-Total needing renewal:        1758
+REMOVE (already renewed):     306
+KEEP (needs renewal):         640
+KEEP (no match in DFPR):      1116
+Total needing renewal:        1756
 
---- Agents Who Renewed (305) ---
+--- Agents Who Renewed (306) ---
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
   Abdul Mohammed                      | expires 04/30/2028 (already renewed)
   Abdullah Alfakih                    | expires 04/30/2028 (already renewed)
@@ -40,6 +40,7 @@ Total needing renewal:        1758
   Asher Rehana                        | expires 04/30/2027 (already renewed)
   Asima Shazzad                       | expires 04/30/2028 (already renewed)
   Augusto Norena                      | expires 04/30/2027 (already renewed)
+  Ben Utterback                       | expires 04/30/2028 (already renewed)
   Bianca Walker                       | expires 04/30/2028 (already renewed)
   Brad Etlin                          | expires 04/30/2028 (already renewed)
   Brandon Suzuki                      | expires 04/30/2028 (already renewed)
@@ -240,6 +241,7 @@ Total needing renewal:        1758
   Rakesh Kumar                        | expires 04/30/2028 (already renewed)
   Rakhy Nair                          | expires 04/30/2028 (already renewed)
   Ralph Waller                        | expires 04/30/2028 (already renewed)
+  Ramon Gonzalez                      | expires 04/30/2028 (already renewed)
   Raul Villa                          | expires 04/30/2028 (already renewed)
   Rebecca Wight                       | expires 04/30/2028 (already renewed)
   Rehan Masood                        | expires 04/30/2028 (already renewed)
@@ -306,7 +308,6 @@ Total needing renewal:        1758
   Wenxue Zhang                        | expires 04/30/2028 (already renewed)
   Whitney Walker                      | expires 04/30/2027 (already renewed)
   Wilane Boone                        | expires 04/30/2028 (already renewed)
-  William Barroso                     | expires 04/30/2028 (already renewed)
   Wolfgang Suess                      | expires 04/30/2028 (already renewed)
   Xin Fan                             | expires 04/30/2028 (already renewed)
   Yi Xue                              | expires 04/30/2028 (already renewed)
@@ -314,7 +315,7 @@ Total needing renewal:        1758
   Yosef Ismail                        | expires 04/30/2028 (already renewed)
   Zachary Rudzki                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (639) ---
+--- Agents Still Needing Renewal (640) ---
   AJ Dobson                           | expires 04/30/2026 (needs renewal)
   Aaron Franklin                      | expires 04/30/2026 (needs renewal)
   Aaron Winter                        | expires 04/30/2026 (needs renewal)
@@ -740,6 +741,7 @@ Total needing renewal:        1758
   Mike Duckworth                      | expires 04/30/2026 (needs renewal)
   Minal Patel                         | expires 04/30/2026 (needs renewal)
   Mino Emini                          | expires 04/30/2026 (needs renewal)
+  Mireya Daniel                       | expires 04/30/2026 (needs renewal)
   Mitchell Greenwald                  | expires 04/30/2026 (needs renewal)
   Mohammad Mohammad                   | expires 04/30/2026 (needs renewal)
   Mohammed Masiuddin                  | expires 04/30/2026 (needs renewal)
@@ -955,12 +957,13 @@ Total needing renewal:        1758
   Zenecia Anderson                    | expires 04/30/2026 (needs renewal)
   Zumreta Hadzic                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (42) ---
+--- Unmatched DFPR (Manual Review) (43) ---
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   SALEM OMAR                          | Exp: 04/30/2028
   LAPINSKAS UGNE                      | Exp: 04/30/2028
   ZHUANG TIANLEI                      | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
+  FARRIS ERICA                        | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
@@ -970,7 +973,6 @@ Total needing renewal:        1758
   XIN JIAKUN                          | Exp: 04/30/2027
   WHITMORE JOANNE                     | Exp: 04/30/2027
   QING XIN                            | Exp: 04/30/2028
-  RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
   WALKER-STARR APRIL                  | Exp: 04/30/2028
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
@@ -978,6 +980,7 @@ Total needing renewal:        1758
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   MACNEIL ROBERT                      | Exp: 04/30/2028
+  RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
@@ -986,13 +989,13 @@ Total needing renewal:        1758
   GLASER GARRET                       | Exp: 04/30/2028
   DEVINE MICHAEL                      | Exp: 04/30/2028
   FREERKS MELESA                      | Exp: 04/30/2028
-  ETLIN BRAD                          | Exp: 04/30/2028
   PASTORE KENA                        | Exp: 04/30/2028
   PHILLIPS SEDONIA                    | Exp: 04/30/2027
   BELLO ELIAS                         | Exp: 04/30/2027
   MODI NISHANT                        | Exp: 04/30/2028
   SCIORE GINA                         | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
+  ETLIN BRAD                          | Exp: 04/30/2028
   KRUPA MARTA                         | Exp: 04/30/2028
   TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
