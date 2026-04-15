@@ -1,10 +1,10 @@
-[KHA] License Renewal Report — 2026-04-14
+[KHA] License Renewal Report — 2026-04-15
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     306
-KEEP (needs renewal):         640
-KEEP (no match in DFPR):      1116
+KEEP (needs renewal):         639
+KEEP (no match in DFPR):      1117
 Total needing renewal:        1756
 
 --- Agents Who Renewed (306) ---
@@ -315,7 +315,7 @@ Total needing renewal:        1756
   Yosef Ismail                        | expires 04/30/2028 (already renewed)
   Zachary Rudzki                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (640) ---
+--- Agents Still Needing Renewal (639) ---
   AJ Dobson                           | expires 04/30/2026 (needs renewal)
   Aaron Franklin                      | expires 04/30/2026 (needs renewal)
   Aaron Winter                        | expires 04/30/2026 (needs renewal)
@@ -781,7 +781,6 @@ Total needing renewal:        1756
   Oswaldo Guezo                       | expires 04/30/2026 (needs renewal)
   Otto Ruiz                           | expires 04/30/2026 (needs renewal)
   Ovidijus Stasytis                   | expires 04/30/2026 (needs renewal)
-  Ozzie Calhoun                       | expires 04/30/2026 (needs renewal)
   Pablo Chusan                        | expires 04/30/2026 (needs renewal)
   Pamela Bell                         | expires 04/30/2026 (needs renewal)
   Pamela Kleinert                     | expires 04/30/2026 (needs renewal)
