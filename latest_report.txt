@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-04-21
+[KHA] License Renewal Report — 2026-04-22
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     384
-KEEP (needs renewal):         567
+REMOVE (already renewed):     385
+KEEP (needs renewal):         568
 KEEP (no match in DFPR):      1119
-Total needing renewal:        1686
+Total needing renewal:        1687
 
---- Agents Who Renewed (384) ---
+--- Agents Who Renewed (385) ---
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
   Abdul Mohammed                      | expires 04/30/2028 (already renewed)
   Abdullah Alfakih                    | expires 04/30/2028 (already renewed)
@@ -66,6 +66,7 @@ Total needing renewal:        1686
   Caroline Mesaf                      | expires 04/30/2028 (already renewed)
   Caroline Seufert                    | expires 04/30/2028 (already renewed)
   Catty Salgado                       | expires 04/30/2028 (already renewed)
+  Cennet Gundogdu                     | expires 04/30/2028 (already renewed)
   Chandra Roberts                     | expires 07/31/2026 (already renewed)
   Charles Wettersten                  | expires 04/30/2028 (already renewed)
   Chartiece Walker                    | expires 04/30/2028 (already renewed)
@@ -393,7 +394,7 @@ Total needing renewal:        1686
   Zakary Dana                         | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (567) ---
+--- Agents Still Needing Renewal (568) ---
   AJ Dobson                           | expires 04/30/2026 (needs renewal)
   Aaron Franklin                      | expires 04/30/2026 (needs renewal)
   Aaron Winter                        | expires 04/30/2026 (needs renewal)
@@ -545,6 +546,7 @@ Total needing renewal:        1686
   Ephrem Gebremedhin                  | expires 04/30/2026 (needs renewal)
   Eric Cooper                         | expires 04/30/2026 (needs renewal)
   Eric Grant                          | expires 04/30/2026 (needs renewal)
+  Eric Jackson                        | expires 04/30/2026 (needs renewal)
   Eric Rojas                          | expires 04/30/2026 (needs renewal)
   Erica Abt                           | expires 04/30/2026 (needs renewal)
   Ernest Caston                       | expires 04/30/2026 (needs renewal)
@@ -973,13 +975,13 @@ Total needing renewal:        1686
   WILLIAMS RICHARD                    | Exp: 04/30/2027
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
-  WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   CONWAY AZADEH                       | Exp: 04/30/2028
   XIN JIAKUN                          | Exp: 04/30/2027
   WHITMORE JOANNE                     | Exp: 04/30/2027
+  WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
@@ -1003,13 +1005,13 @@ Total needing renewal:        1686
   GLASER GARRET                       | Exp: 04/30/2028
   DEVINE MICHAEL                      | Exp: 04/30/2028
   FREERKS MELESA                      | Exp: 04/30/2028
-  ETLIN BRAD                          | Exp: 04/30/2028
   PASTORE KENA                        | Exp: 04/30/2028
   PHILLIPS SEDONIA                    | Exp: 04/30/2027
   BELLO ELIAS                         | Exp: 04/30/2027
   MODI NISHANT                        | Exp: 04/30/2028
   SCIORE GINA                         | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
+  ETLIN BRAD                          | Exp: 04/30/2028
   KRUPA MARTA                         | Exp: 04/30/2028
   TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
   EDWARDS LATONIA                     | Exp: 04/30/2028
