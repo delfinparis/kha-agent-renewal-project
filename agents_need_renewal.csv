@@ -1,12 +1,11 @@
 First Name,Last Name,License Number,monday_item_id,monday_group
 Kay,Oshodi,475199658,11822025050,Kale Agents
-Anthony,Siwinski,,11810524342,Kale Agents
 Shah,Syed,,11784409122,Kale Agents
 Jeff,Brixey,475182752,1285950589,Kale Agents
 Mireya,Daniel,475213317,11705050292,Kale Agents
 Abdullah Ali,Mohammed,475219042,11683647868,Kale Agents
 Muhammad Salman,Zubairy,475218957,11683662404,Kale Agents
-Daniel,Gilten,,11671827439,Kale Agents
+Daniel,Gilten,475187870,11671827439,Kale Agents
 Bella,Lapinskas,475205354,11615430499,Kale Agents
 Erica Monique,Purnell,475218827,11615410113,Kale Agents
 Xochitl,Ibarra,475170047,11594409640,Kale Agents
@@ -432,6 +431,8 @@ HomeSmartConnect,,,11762053707,Co-Ops
 Coldwell,Banker Realty 833 W. Lincoln,,11762208536,Co-Ops
 Compass,55 E. Erie #1C,,11783767265,Co-Ops
 RE/MAX,Top Performers 124 Waukegan,,11821922145,Co-Ops
+Keller,Williams Infinity,,11831980012,Co-Ops
+Real,Estate 99 LLC,,11832011099,Co-Ops
 A,KLONOWSKI,,8324734001,Call Leads
 MI,HOMES,,8324713850,Call Leads
 TUCSON,AZ,,8324636659,Call Leads
@@ -526,7 +527,6 @@ Monique,Booth,475182785,8703850349,Terminated Agents we want back
 Roshawnda,Bond,475214857,8693918165,Terminated Agents we want back
 Arielle,Henry,475197002,8444270656,Terminated Agents we want back
 Antwan,Lyons,475197405,8431991278,Terminated Agents we want back
-James,LaCassa,475170358,8412745470,Terminated Agents we want back
 Nona,Edwards,475214992,8280819252,Terminated Agents we want back
 LaMarr,Mckenzie,475214264,8269930630,Terminated Agents we want back
 Daniel,Bourdeau,475205820,8269298315,Terminated Agents we want back
@@ -833,7 +833,6 @@ Katelyn,Chen,475200763,1777605183,Terminated Agents we want back
 Anthony,,,1761358168,Terminated Agents we want back
 Venisha,Love,,1753611407,Terminated Agents we want back
 Kiana,Richard,,1752161692,Terminated Agents we want back
-Amadou,Tee Lam,,1751926558,Terminated Agents we want back
 Jonathan,,,1747206795,Terminated Agents we want back
 Linda,Salvetti,,1740444805,Terminated Agents we want back
 Wale,Bello,471022504,1740264820,Terminated Agents we want back
@@ -847,7 +846,7 @@ Daniel,,,1587182275,Terminated Agents we want back
 Geraldine,Healy,,1574943610,Terminated Agents we want back
 Catrina,,,1563565570,Terminated Agents we want back
 Anthony,,,1562448525,Terminated Agents we want back
-Abra,Everett,,1554346463,Terminated Agents we want back
+Abra,,,1554346463,Terminated Agents we want back
 Farkhanda,,,1553791523,Terminated Agents we want back
 Joseph,C Henley,,1550682518,Terminated Agents we want back
 Andrew,Dzurovcik,475194338,1547413985,Terminated Agents we want back
@@ -1306,7 +1305,7 @@ Angela,,,359616753,Terminated Agents we want back
 Karen,Horowitz,475144840,359616754,Terminated Agents we want back
 Timothy,Harstead,,359616757,Terminated Agents we want back
 Mitchell,Greenwald,475173676,359616758,Terminated Agents we want back
-Sarah,Eaves,,359616761,Terminated Agents we want back
+Sarah,,,359616761,Terminated Agents we want back
 Robert,Colucci,,359616762,Terminated Agents we want back
 C Robert,,,359616764,Terminated Agents we want back
 Quamal,Burton,,359616770,Terminated Agents we want back
@@ -1321,7 +1320,6 @@ Louis,Eisenstein,,359616796,Terminated Agents we want back
 Sunjeev,,,359616798,Terminated Agents we want back
 Joseph,Callan,,359616803,Terminated Agents we want back
 Kyle,Hadley,475181253,701820436,Terminated Agents we want back
-Amadou Tee,Lam,475172058,11074496695,Terminated Agents we want back
 Steve,Fobs,475087699,359616868,Terminated Agents we want back
 Matthew,Murphy,475199169,2526952745,Terminated Agents we want back
 Amanda,Khoury,475166047,359617362,Terminated Agents we want back
@@ -1331,15 +1329,12 @@ Autumn,Susberry,475188753,2560782999,Terminated Agents we want back
 Max,Opalinski,475213137,8429685319,Terminated Agents we want back
 Isiah,Martin,475174748,9344265984,Terminated Agents we want back
 Tiffany,Wells,,11251276900,Terminated Agents we want back
-Khair,Siddiqui,475182790,8821100765,Terminated Agents we want back
 Tara,Farnsworth,475202422,3807085919,Terminated Agents we want back
 Deneen,Dowd,475216174,9594387019,Terminated Agents we want back
 Jenny,Madere,475169305,18288668261,Terminated Agents we want back
-Imad,Shehade,475109499,9111312126,Terminated Agents we want back
 Ferdi,Dzelil,475213040,7511194844,Terminated Agents we want back
 Sade,Dixon,475211353,6029336080,Terminated Agents we want back
 Nikki,Tran,475177558,3594130200,Terminated Agents we want back
-Steven,Madison,475172620,8879411355,Terminated Agents we want back
 Cathy,Torres,475183647,1189850225,Terminated Agents we want back
 Vlad,Robu,,9820194908,Terminated Agents we want back
 Suryakant,Joshi,475208135,4727939789,Terminated Agents we want back
@@ -1351,6 +1346,7 @@ Luan,Seiko,475196565,3815599208,Terminated Agents we want back
 Shannon,Polk,475215259,8962421770,Terminated Agents we want back
 Ozzie,Calhoun,475207933,4666813653,Terminated Agents we want back
 Casey,Merchant,475217161,18151381897,Terminated Agents we want back
+Jenny,Madere,,414976438,Terminated Agents we want back
 Gregory,Rowe,,18387932250,Terminated Agents we do NOT want back
 Jose,Dedomenico,475215665,18068575565,Terminated Agents we do NOT want back
 Merle,Horwitz,475141509,10086103125,Terminated Agents we do NOT want back
@@ -1521,7 +1517,6 @@ Genesis,,,465438129,Terminated Agents we do NOT want back
 David,Velez,,458720980,Terminated Agents we do NOT want back
 Angel,,,440209993,Terminated Agents we do NOT want back
 Jennifer,Mandell,,415294465,Terminated Agents we do NOT want back
-Jenny,Madere,,414976438,Terminated Agents we do NOT want back
 Abidemi,,,414076065,Terminated Agents we do NOT want back
 Karen,Belletete,,413974550,Terminated Agents we do NOT want back
 Eugene,Beckles,475188942,412373544,Terminated Agents we do NOT want back
@@ -1566,7 +1561,7 @@ Ryan,,,359620330,Terminated Agents we do NOT want back
 Jabari,Sterling,,359620338,Terminated Agents we do NOT want back
 Sam,Rattner,,359620340,Terminated Agents we do NOT want back
 Alexander,Mancini,,359617355,Terminated Agents we do NOT want back
-Kornell,Lloyd,,359617366,Terminated Agents we do NOT want back
+Kornell,,,359617366,Terminated Agents we do NOT want back
 Nitalbhai,Patel,,359617374,Terminated Agents we do NOT want back
 Shuvael,,,359617386,Terminated Agents we do NOT want back
 Dolores,Pace,475148282,359617201,Terminated Agents we do NOT want back
@@ -1640,3 +1635,9 @@ Beverly,Haynes-Silas,475119033,359616793,Terminated Agents we do NOT want back
 Andrew,Gardner,,359616797,Terminated Agents we do NOT want back
 Michele,Chotoosingh,475172154,359616869,Terminated Agents we do NOT want back
 Rasheed,Shofidiya,475176690,359620407,Terminated Agents we do NOT want back
+Amadou,Tee Lam,,1751926558,Terminated Agents we do NOT want back
+Amadou Tee,Lam,475172058,11074496695,Terminated Agents we do NOT want back
+Imad,Shehade,475109499,9111312126,Terminated Agents we do NOT want back
+James,LaCassa,475170358,8412745470,Terminated Agents we do NOT want back
+Khair,Siddiqui,475182790,8821100765,Terminated Agents we do NOT want back
+Steven,Madison,475172620,8879411355,Terminated Agents we do NOT want back

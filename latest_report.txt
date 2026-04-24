@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-04-23
+[KHA] License Renewal Report — 2026-04-24
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     433
-KEEP (needs renewal):         522
+REMOVE (already renewed):     434
+KEEP (needs renewal):         523
 KEEP (no match in DFPR):      1119
-Total needing renewal:        1641
+Total needing renewal:        1642
 
---- Agents Who Renewed (433) ---
+--- Agents Who Renewed (434) ---
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
   Abdul Mohammed                      | expires 04/30/2028 (already renewed)
   Abdullah Alfakih                    | expires 04/30/2028 (already renewed)
@@ -46,6 +46,7 @@ Total needing renewal:        1641
   Annie Lam                           | expires 04/30/2028 (already renewed)
   Annie Roberts                       | expires 04/30/2028 (already renewed)
   Anthony Gonzalez                    | expires 04/30/2028 (already renewed)
+  Anthony Siwinski                    | expires 04/30/2028 (already renewed)
   Antonio Cox                         | expires 04/30/2028 (already renewed)
   Ariz Gohar                          | expires 04/30/2028 (already renewed)
   Arvin Javier                        | expires 04/30/2028 (already renewed)
@@ -442,7 +443,7 @@ Total needing renewal:        1641
   Zakary Dana                         | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (522) ---
+--- Agents Still Needing Renewal (523) ---
   AJ Dobson                           | expires 04/30/2026 (needs renewal)
   Aaron Franklin                      | expires 04/30/2026 (needs renewal)
   Aaron Winter                        | expires 04/30/2026 (needs renewal)
@@ -538,6 +539,7 @@ Total needing renewal:        1641
   Cynthia Logan                       | expires 04/30/2026 (needs renewal)
   Da'mon Wardlow                      | expires 04/30/2026 (needs renewal)
   Daniel Bourdeau                     | expires 04/30/2026 (needs renewal)
+  Daniel Gilten                       | expires 04/30/2026 (needs renewal)
   Danielle Anderson                   | expires 04/30/2024 (needs renewal)
   Dariusz Kaminski                    | expires 04/30/2026 (needs renewal)
   David Bovyn                         | expires 04/30/2026 (needs renewal)
@@ -987,7 +989,6 @@ Total needing renewal:        1641
   RANALLI DONALD                      | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   RISTOVA SNEZHANA                    | Exp: 04/30/2028
-  POLLOCK CHRIS                       | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   HENNINGTON DARIUS                   | Exp: 04/30/2028
@@ -1006,6 +1007,7 @@ Total needing renewal:        1641
   WALKER-STARR APRIL                  | Exp: 04/30/2028
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
   THOMAS KEEYA                        | Exp: 04/30/2028
+  POLLOCK CHRIS                       | Exp: 04/30/2028
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
