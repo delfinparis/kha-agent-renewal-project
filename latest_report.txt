@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-04-28
+[KHA] License Renewal Report — 2026-04-29
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     514
-KEEP (needs renewal):         445
-KEEP (no match in DFPR):      1117
-Total needing renewal:        1562
+KEEP (needs renewal):         446
+KEEP (no match in DFPR):      1118
+Total needing renewal:        1564
 
 --- Agents Who Renewed (514) ---
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
@@ -523,7 +523,7 @@ Total needing renewal:        1562
   Zakary Dana                         | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (445) ---
+--- Agents Still Needing Renewal (446) ---
   AJ Dobson                           | expires 04/30/2026 (needs renewal)
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Adam Ibrahim                        | expires 04/30/2026 (needs renewal)
@@ -597,6 +597,7 @@ Total needing renewal:        1562
   Chiara Graham                       | expires 04/30/2026 (needs renewal)
   Chris Oceguera                      | expires 04/30/2026 (needs renewal)
   Chris Placeres                      | expires 04/30/2026 (needs renewal)
+  Christian Chaidez                   | expires 04/30/2026 (needs renewal)
   Christopher Bolden                  | expires 04/30/2026 (needs renewal)
   Christopher Holyfield               | expires 04/30/2026 (needs renewal)
   Christopher Kirincic                | expires 04/30/2026 (needs renewal)
@@ -994,7 +995,6 @@ Total needing renewal:        1562
   XIN JIAKUN                          | Exp: 04/30/2027
   WHITMORE JOANNE                     | Exp: 04/30/2027
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
-  STRAIGHT LENA                       | Exp: 04/30/2028
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
@@ -1005,6 +1005,7 @@ Total needing renewal:        1562
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
+  STRAIGHT LENA                       | Exp: 04/30/2028
   MACNEIL ROBERT                      | Exp: 04/30/2028
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
@@ -1021,7 +1022,6 @@ Total needing renewal:        1562
   DEVINE MICHAEL                      | Exp: 04/30/2028
   FREERKS MELESA                      | Exp: 04/30/2028
   PASTORE KENA                        | Exp: 04/30/2028
-  ROSADO MORGAN                       | Exp: 04/30/2028
   PHILLIPS SEDONIA                    | Exp: 04/30/2027
   BELLO ELIAS                         | Exp: 04/30/2027
   MODI NISHANT                        | Exp: 04/30/2028
@@ -1030,6 +1030,7 @@ Total needing renewal:        1562
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   ETLIN BRAD                          | Exp: 04/30/2028
   KRUPA MARTA                         | Exp: 04/30/2028
+  ROSADO MORGAN                       | Exp: 04/30/2028
   DELANEY JENNIFER                    | Exp: 04/30/2028
   TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
   EDWARDS LATONIA                     | Exp: 04/30/2028
