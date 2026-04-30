@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-04-29
+[KHA] License Renewal Report — 2026-04-30
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     514
-KEEP (needs renewal):         446
+KEEP (needs renewal):         445
 KEEP (no match in DFPR):      1118
-Total needing renewal:        1564
+Total needing renewal:        1563
 
 --- Agents Who Renewed (514) ---
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
@@ -523,7 +523,7 @@ Total needing renewal:        1564
   Zakary Dana                         | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (446) ---
+--- Agents Still Needing Renewal (445) ---
   AJ Dobson                           | expires 04/30/2026 (needs renewal)
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Adam Ibrahim                        | expires 04/30/2026 (needs renewal)
@@ -641,7 +641,6 @@ Total needing renewal:        1564
   Ephrem Gebremedhin                  | expires 04/30/2026 (needs renewal)
   Eric Grant                          | expires 04/30/2026 (needs renewal)
   Eric Jackson                        | expires 04/30/2026 (needs renewal)
-  Erica Abt                           | expires 04/30/2026 (needs renewal)
   Ernest Caston                       | expires 04/30/2026 (needs renewal)
   Ernesto Villa                       | expires 04/30/2026 (needs renewal)
   Eugene Beckles                      | expires 04/30/2026 (needs renewal)
@@ -1022,6 +1021,7 @@ Total needing renewal:        1564
   DEVINE MICHAEL                      | Exp: 04/30/2028
   FREERKS MELESA                      | Exp: 04/30/2028
   PASTORE KENA                        | Exp: 04/30/2028
+  ROSADO MORGAN                       | Exp: 04/30/2028
   PHILLIPS SEDONIA                    | Exp: 04/30/2027
   BELLO ELIAS                         | Exp: 04/30/2027
   MODI NISHANT                        | Exp: 04/30/2028
@@ -1030,7 +1030,6 @@ Total needing renewal:        1564
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   ETLIN BRAD                          | Exp: 04/30/2028
   KRUPA MARTA                         | Exp: 04/30/2028
-  ROSADO MORGAN                       | Exp: 04/30/2028
   DELANEY JENNIFER                    | Exp: 04/30/2028
   TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
   EDWARDS LATONIA                     | Exp: 04/30/2028
