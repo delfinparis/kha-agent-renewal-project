@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-05-02
+[KHA] License Renewal Report — 2026-05-03
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     717
-KEEP (needs renewal):         242
-KEEP (no match in DFPR):      1120
-Total needing renewal:        1362
+REMOVE (already renewed):     716
+KEEP (needs renewal):         240
+KEEP (no match in DFPR):      1109
+Total needing renewal:        1349
 
---- Agents Who Renewed (717) ---
+--- Agents Who Renewed (716) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -41,7 +41,6 @@ Total needing renewal:        1362
   Aliya Abbasi                        | expires 04/30/2028 (already renewed)
   Alonzo Gamboa                       | expires 04/30/2028 (already renewed)
   Alysia Hamlet                       | expires 04/30/2028 (already renewed)
-  Amadou Lam                          | expires 04/30/2028 (already renewed)
   Ameera Ortiz                        | expires 04/30/2028 (already renewed)
   Amit Kapur                          | expires 04/30/2028 (already renewed)
   Amy Darling                         | expires 04/30/2028 (already renewed)
@@ -726,7 +725,7 @@ Total needing renewal:        1362
   Zakary Dana                         | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (242) ---
+--- Agents Still Needing Renewal (240) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Aja Phillips                        | expires 04/30/2026 (needs renewal)
@@ -816,14 +815,12 @@ Total needing renewal:        1362
   Jeff Osuji                          | expires 04/30/2026 (needs renewal)
   Jennifer Bahena                     | expires 04/30/2024 (needs renewal)
   Jenny Madere                        | expires 04/30/2026 (needs renewal)
-  Jerel Powell                        | expires 04/30/2026 (needs renewal)
   Jesse Frageman                      | expires 04/30/2026 (needs renewal)
   Jesse Myles                         | expires 04/30/2026 (needs renewal)
   Jessica Gilbert                     | expires 04/30/2026 (needs renewal)
   Jessica Ortiz                       | expires 04/30/2026 (needs renewal)
   Jody Williams                       | expires 04/30/2026 (needs renewal)
   Joe Napoli                          | expires 04/30/2026 (needs renewal)
-  Johana Vargas                       | expires 04/30/2026 (needs renewal)
   Johanne Maurice                     | expires 04/30/2026 (needs renewal)
   John Boyle                          | expires 04/30/2026 (needs renewal)
   Johnathan Scott                     | expires 04/30/2026 (needs renewal)
@@ -970,7 +967,7 @@ Total needing renewal:        1362
   Yeani Yi                            | expires 04/30/2026 (needs renewal)
   Zenecia Anderson                    | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (106) ---
+--- Unmatched DFPR (Manual Review) (105) ---
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -997,6 +994,7 @@ Total needing renewal:        1362
   XIN JIAKUN                          | Exp: 04/30/2027
   WHITMORE JOANNE                     | Exp: 04/30/2027
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
+  STRAIGHT LENA                       | Exp: 04/30/2028
   WELLS LAKITA                        | Exp: 04/30/2028
   STINSON DERRICK DAVID               | Exp: 04/30/2028
   QING XIN                            | Exp: 04/30/2028
@@ -1012,7 +1010,6 @@ Total needing renewal:        1362
   MURTISHI JETON                      | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
   WEED HOGAN KAREN                    | Exp: 04/30/2028
-  STRAIGHT LENA                       | Exp: 04/30/2028
   MACNEIL ROBERT                      | Exp: 04/30/2028
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
@@ -1049,6 +1046,7 @@ Total needing renewal:        1362
   KRUPA MARTA                         | Exp: 04/30/2028
   DELANEY JENNIFER                    | Exp: 04/30/2028
   TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
+  BOOTH LAKEISHA                      | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
   EDWARDS LATONIA                     | Exp: 04/30/2028
   SADIKU TEFIK                        | Exp: 04/30/2028
@@ -1058,7 +1056,6 @@ Total needing renewal:        1362
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
   KELLY PETER                         | Exp: 04/30/2027
-  MEDINA ALFREDO                      | Exp: 04/30/2028
   RUIZ OTTO                           | Exp: 04/30/2028
   COOPER LORRAINE                     | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
@@ -1066,12 +1063,11 @@ Total needing renewal:        1362
   SAVINO CATERINA                     | Exp: 04/30/2028
   XU LILI                             | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
-  BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
-  LIU ALEX                            | Exp: 04/30/2028
   BOLDEN CHRISTOPHER                  | Exp: 04/30/2028
+  LAM AMADOU                          | Exp: 04/30/2028
   SHLAIN VERA                         | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
