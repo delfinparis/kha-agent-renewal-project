@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-05-03
+[KHA] License Renewal Report — 2026-05-04
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     716
 KEEP (needs renewal):         240
-KEEP (no match in DFPR):      1109
-Total needing renewal:        1349
+KEEP (no match in DFPR):      1068
+Total needing renewal:        1308
 
 --- Agents Who Renewed (716) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -967,7 +967,7 @@ Total needing renewal:        1349
   Yeani Yi                            | expires 04/30/2026 (needs renewal)
   Zenecia Anderson                    | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (105) ---
+--- Unmatched DFPR (Manual Review) (99) ---
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -1037,14 +1037,10 @@ Total needing renewal:        1349
   PHILLIPS SEDONIA                    | Exp: 04/30/2027
   BELLO ELIAS                         | Exp: 04/30/2027
   MODI NISHANT                        | Exp: 04/30/2028
-  COMER ANNA                          | Exp: 04/30/2028
   SCIORE GINA                         | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
-  GEBREMEDHIN EPHREM                  | Exp: 04/30/2028
   BOOTH MONIQUE                       | Exp: 04/30/2028
-  ETLIN BRAD                          | Exp: 04/30/2028
   KRUPA MARTA                         | Exp: 04/30/2028
-  DELANEY JENNIFER                    | Exp: 04/30/2028
   TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
@@ -1066,10 +1062,8 @@ Total needing renewal:        1349
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
-  BOLDEN CHRISTOPHER                  | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   SHLAIN VERA                         | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
-  GRAHAM CHIARA                       | Exp: 04/30/2028
