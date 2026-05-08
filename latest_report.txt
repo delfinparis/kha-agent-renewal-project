@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-05-07
+[KHA] License Renewal Report — 2026-05-08
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     752
-KEEP (needs renewal):         201
-KEEP (no match in DFPR):      1077
-Total needing renewal:        1278
+KEEP (needs renewal):         200
+KEEP (no match in DFPR):      1080
+Total needing renewal:        1280
 
 --- Agents Who Renewed (752) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -761,7 +761,7 @@ Total needing renewal:        1278
   Zakary Dana                         | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (201) ---
+--- Agents Still Needing Renewal (200) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Aja Phillips                        | expires 04/30/2026 (needs renewal)
@@ -962,7 +962,6 @@ Total needing renewal:        1278
   Wen Li                              | expires 04/30/2026 (needs renewal)
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
-  Zenecia Anderson                    | expires 04/30/2026 (needs renewal)
 
 --- Unmatched DFPR (Manual Review) (108) ---
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
