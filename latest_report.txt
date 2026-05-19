@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-05-17
+[KHA] License Renewal Report — 2026-05-19
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     780
 KEEP (needs renewal):         167
-KEEP (no match in DFPR):      1028
-Total needing renewal:        1195
+KEEP (no match in DFPR):      975
+Total needing renewal:        1142
 
 --- Agents Who Renewed (780) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -958,7 +958,7 @@ Total needing renewal:        1195
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (105) ---
+--- Unmatched DFPR (Manual Review) (92) ---
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -1027,35 +1027,22 @@ Total needing renewal:        1195
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   HSU JIAMIENE                        | Exp: 04/30/2028
   SUAREZ ALISON                       | Exp: 04/30/2027
-  ABDULLAH RAFIQ                      | Exp: 04/30/2028
-  FREERKS MELESA                      | Exp: 04/30/2028
-  MEDAWAR TOMMY                       | Exp: 04/30/2028
-  PHILLIPS SEDONIA                    | Exp: 04/30/2027
-  BELLO ELIAS                         | Exp: 04/30/2027
-  MODI NISHANT                        | Exp: 04/30/2028
-  DEVINE MICHAEL                      | Exp: 04/30/2028
-  KRUPA MARTA                         | Exp: 04/30/2028
-  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
+  MEDAWAR TOMMY                       | Exp: 04/30/2028
+  BELLO ELIAS                         | Exp: 04/30/2027
+  ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
+  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
-  TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
-  BEARD RYAN                          | Exp: 04/30/2028
-  MACKEN PATRICE                      | Exp: 04/30/2028
+  BOOTH LAKEISHA                      | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
   SADIKU TEFIK                        | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
-  HERNANDEZ RAMON                     | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
-  KELLY PETER                         | Exp: 04/30/2027
-  RUIZ OTTO                           | Exp: 04/30/2028
   KAK SUNDEEP                         | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
-  ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
-  BOOTH MONIQUE                       | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
-  BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
