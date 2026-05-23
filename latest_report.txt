@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-05-21
+[KHA] License Renewal Report — 2026-05-23
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     781
-KEEP (needs renewal):         164
+REMOVE (already renewed):     785
+KEEP (needs renewal):         165
 KEEP (no match in DFPR):      942
-Total needing renewal:        1106
+Total needing renewal:        1107
 
---- Agents Who Renewed (781) ---
+--- Agents Who Renewed (785) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -33,6 +33,7 @@ Total needing renewal:        1106
   Alec Mikes                          | expires 04/30/2028 (already renewed)
   Alejandro Guevara                   | expires 04/30/2028 (already renewed)
   Alex Liu                            | expires 04/30/2028 (already renewed)
+  Alex Margulis                       | expires 04/30/2028 (already renewed)
   Alexander Amboian                   | expires 04/30/2028 (already renewed)
   Alexis Sethi                        | expires 04/30/2028 (already renewed)
   Alfin Koshy                         | expires 04/30/2028 (already renewed)
@@ -56,6 +57,7 @@ Total needing renewal:        1106
   Andrea Owens                        | expires 04/30/2028 (already renewed)
   Andrea Pesce                        | expires 04/30/2028 (already renewed)
   Andres Garibay                      | expires 04/30/2028 (already renewed)
+  Andrew Nathan                       | expires 04/30/2027 (already renewed)
   Andrew Taylor                       | expires 04/30/2028 (already renewed)
   Andrew Yurasek                      | expires 04/30/2028 (already renewed)
   Andy Andrade                        | expires 04/30/2027 (already renewed)
@@ -154,6 +156,7 @@ Total needing renewal:        1106
   Da'mon Wardlow                      | expires 04/30/2028 (already renewed)
   DaMita Marshall                     | expires 04/30/2028 (already renewed)
   Dalton Brown                        | expires 04/30/2028 (already renewed)
+  Damaris Aquino                      | expires 04/30/2028 (already renewed)
   Daniel Fudali                       | expires 04/30/2028 (already renewed)
   Daniel Gilten                       | expires 04/30/2028 (already renewed)
   Daniel Hengelmann                   | expires 04/30/2028 (already renewed)
@@ -312,6 +315,7 @@ Total needing renewal:        1106
   Jamey Johnson                       | expires 04/30/2028 (already renewed)
   Jane Jeon                           | expires 04/30/2028 (already renewed)
   Janet Casalina                      | expires 04/30/2028 (already renewed)
+  Janet Castro                        | expires 04/30/2028 (already renewed)
   Janet Ocampo                        | expires 04/30/2028 (already renewed)
   Janice Byfield                      | expires 04/30/2028 (already renewed)
   Janita Tyner                        | expires 04/30/2028 (already renewed)
@@ -790,11 +794,12 @@ Total needing renewal:        1106
   Zenecia Anderson                    | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (164) ---
+--- Agents Still Needing Renewal (165) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Aja Phillips                        | expires 04/30/2026 (needs renewal)
   Alisha Harris                       | expires 04/30/2026 (needs renewal)
+  Allyn Johnson                       | expires 04/30/2026 (needs renewal)
   Amanda Khoury                       | expires 04/30/2026 (needs renewal)
   Anais Barraza                       | expires 04/30/2026 (needs renewal)
   Andrew Dzurovcik                    | expires 04/30/2026 (needs renewal)
@@ -851,7 +856,6 @@ Total needing renewal:        1106
   Jada Shavers                        | expires 04/30/2026 (needs renewal)
   James Murray                        | expires 04/30/2024 (needs renewal)
   Jamye Paul                          | expires 04/30/2026 (needs renewal)
-  Janet Castro                        | expires 04/30/2026 (needs renewal)
   Jennifer Bahena                     | expires 04/30/2024 (needs renewal)
   Jenny Madere                        | expires 04/30/2026 (needs renewal)
   Jerel Powell                        | expires 04/30/2026 (needs renewal)
@@ -898,6 +902,7 @@ Total needing renewal:        1106
   Mitchell Greenwald                  | expires 04/30/2026 (needs renewal)
   Natasha Moore-Adeyomi               | expires 04/30/2026 (needs renewal)
   Nathalie Germain                    | expires 04/30/2026 (needs renewal)
+  Nathaniel Davis                     | expires 04/30/2026 (needs renewal)
   Nitalbhai Patel                     | expires 04/30/2026 (needs renewal)
   Noemi Gordon                        | expires 04/30/2026 (needs renewal)
   Nupur Sharma                        | expires 04/30/2026 (needs renewal)
@@ -1038,10 +1043,10 @@ Total needing renewal:        1106
   HARLOW LYLE                         | Exp: 04/30/2027
   LAM AMADOU                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
-  MARTINEZ ALBERTO                    | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
+  MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
