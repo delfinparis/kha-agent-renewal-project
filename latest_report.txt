@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-05-31
+[KHA] License Renewal Report — 2026-06-02
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     798
+REMOVE (already renewed):     797
 KEEP (needs renewal):         163
-KEEP (no match in DFPR):      934
-Total needing renewal:        1097
+KEEP (no match in DFPR):      935
+Total needing renewal:        1098
 
---- Agents Who Renewed (798) ---
+--- Agents Who Renewed (797) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -394,7 +394,6 @@ Total needing renewal:        1097
   Katie Smith                         | expires 04/30/2028 (already renewed)
   Katie Swartz                        | expires 04/30/2028 (already renewed)
   Kazi Wahab                          | expires 04/30/2028 (already renewed)
-  Kazz Dawson                         | expires 04/30/2028 (already renewed)
   Kean Chew                           | expires 04/30/2028 (already renewed)
   Keeya Thomas                        | expires 04/30/2028 (already renewed)
   Keith Martin                        | expires 04/30/2028 (already renewed)
@@ -975,6 +974,7 @@ Total needing renewal:        1097
 --- Unmatched DFPR (Manual Review) (89) ---
   WOODS ULMA                          | Exp: 04/30/2028
   STANOEV MIODRAG                     | Exp: 04/30/2028
+  SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
   LAPINSKAS UGNE                      | Exp: 04/30/2028
@@ -1053,7 +1053,6 @@ Total needing renewal:        1097
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
   LAM AMADOU                          | Exp: 04/30/2028
-  SAVINO CATERINA                     | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
