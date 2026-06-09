@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-06-07
+[KHA] License Renewal Report — 2026-06-09
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     796
-KEEP (needs renewal):         163
+REMOVE (already renewed):     797
+KEEP (needs renewal):         162
 KEEP (no match in DFPR):      935
-Total needing renewal:        1098
+Total needing renewal:        1097
 
---- Agents Who Renewed (796) ---
+--- Agents Who Renewed (797) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -531,6 +531,7 @@ Total needing renewal:        1098
   Michael Khalil                      | expires 04/30/2028 (already renewed)
   Michael Mathews                     | expires 04/30/2028 (already renewed)
   Michael Parrillo                    | expires 04/30/2028 (already renewed)
+  Michael Ricketts                    | expires 04/30/2028 (already renewed)
   Michael Visvadra                    | expires 04/30/2027 (already renewed)
   Michele Chotoosingh                 | expires 04/30/2028 (already renewed)
   Michelle Creed                      | expires 04/30/2028 (already renewed)
@@ -805,7 +806,7 @@ Total needing renewal:        1098
   Zenecia Anderson                    | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (163) ---
+--- Agents Still Needing Renewal (162) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Aja Phillips                        | expires 04/30/2026 (needs renewal)
@@ -904,7 +905,6 @@ Total needing renewal:        1098
   Marie Johnson                       | expires 04/30/2026 (needs renewal)
   Matthew Brown                       | expires 04/30/2026 (needs renewal)
   Matthew Murphy                      | expires 04/30/2026 (needs renewal)
-  Michael Ricketts                    | expires 04/30/2026 (needs renewal)
   Michael Wolski                      | expires 04/30/2026 (needs renewal)
   Mihaela Meta-One                    | expires 04/30/2026 (needs renewal)
   Mike Duckworth                      | expires 04/30/2026 (needs renewal)
