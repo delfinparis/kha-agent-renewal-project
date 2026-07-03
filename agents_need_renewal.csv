@@ -1,4 +1,8 @@
 First Name,Last Name,License Number,monday_item_id,monday_group
+Mario,Romano,,12435049001,Kale Agents
+George,Kourkouvis,,12413637368,Kale Agents
+Johny,Massih,,12413497375,Kale Agents
+Andres,Mota Ruiz,,12412378192,Kale Agents
 James,Richard,,12351421839,Kale Agents
 Alexandria,Huggins,,12294646197,Kale Agents
 Katie,Savino,475176052,700356659,Kale Agents
@@ -17,7 +21,6 @@ Leon,Wambo,471021184,10695422582,Kale Agents
 Jenny,Delaney,475193755,18358622965,Kale Agents
 Jody,Williams,475203248,9902837222,Kale Agents
 James,Pryma,475191612,9572377024,Kale Agents
-Emmanuel,Aranda,475186807,9495890794,Kale Agents
 Manuel,Guevara Moran,475194977,9446098518,Kale Agents
 Rick,Williams,471016511,9373968079,Kale Agents
 Jonathan,Wyatt,475209332,9057485222,Kale Agents
@@ -139,6 +142,8 @@ Serene,Realty 2600 S. Michigan,,12283668373,Co-Ops
 Fathom,Realty 24800 Chrisanta,,12296003072,Co-Ops
 Mark,Allen Realty 2015 W. Fullerton,,12301757707,Co-Ops
 My,TC Partner,,12353126636,Co-Ops
+@properties,806 N. Peoria,,12412813554,Co-Ops
+Jameson,Sotheby's 1050 N. Western,,12413326264,Co-Ops
 12089006949,- ON TIME SPO,,8314779793,Call Leads
 CHESTERTON,IN,,8320459439,Call Leads
 unknown,,,8320460943,Call Leads
@@ -218,9 +223,7 @@ Tiffany,Wells,,11251276900,Terminated Agents we want back
 Jenny,Madere,475169305,18288668261,Terminated Agents we want back
 Casey,Merchant,475217161,18151381897,Terminated Agents we want back
 Yaj,Patel,,18052093101,Terminated Agents we want back
-Jonathan,Tigchelaar,475217103,18026556049,Terminated Agents we want back
 Vlad,Robu,,9820194908,Terminated Agents we want back
-Dev,Rijal,475216486,9749192687,Terminated Agents we want back
 Charlie,DeWitt,475206866,9635530085,Terminated Agents we want back
 Deneen,Dowd,475216174,9594387019,Terminated Agents we want back
 Katelyn,Chen,475200763,9446105041,Terminated Agents we want back
@@ -895,7 +898,6 @@ Linda,Oliver,475170802,9407317639,Terminated Agents we do NOT want back
 Tangerine,Young,,9170933749,Terminated Agents we do NOT want back
 Steven,Madison,475172620,8879411355,Terminated Agents we do NOT want back
 Tolaya,Geredine,,8556216110,Terminated Agents we do NOT want back
-Richard,Hosmer,475170088,7736929608,Terminated Agents we do NOT want back
 Chenika,Veal,,7449386008,Terminated Agents we do NOT want back
 Liz,Hughbanks,475165710,6912187338,Terminated Agents we do NOT want back
 Celeste,Morawski,475161669,6758161871,Terminated Agents we do NOT want back
