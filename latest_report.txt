@@ -1,4 +1,4 @@
-[KHA] License Renewal Report — 2026-07-05
+[KHA] License Renewal Report — 2026-07-06
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
@@ -983,7 +983,7 @@ Total needing renewal:        1102
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (106) ---
+--- Unmatched DFPR (Manual Review) (88) ---
   WOODS ULMA                          | Exp: 04/30/2028
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
@@ -996,7 +996,6 @@ Total needing renewal:        1102
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
-  GLASER GARRET                       | Exp: 04/30/2028
   PRYMA JIM                           | Exp: 04/30/2028
   DELANEY JENNIFER                    | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
@@ -1005,9 +1004,6 @@ Total needing renewal:        1102
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
-  KACHOS STEPHANIE                    | Exp: 04/30/2027
-  PURNELL THOMMY                      | Exp: 04/30/2027
-  JAHANGIRI SIAMAK                    | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
@@ -1016,8 +1012,6 @@ Total needing renewal:        1102
   AUNG MAUNG SAN                      | Exp: 04/30/2028
   CONWAY AZADEH                       | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
-  CATLIN VANCE                        | Exp: 04/30/2027
-  WHITMORE JOANNE                     | Exp: 04/30/2027
   WHITMORE JOANNE                     | Exp: 04/30/2027
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   QING XIN                            | Exp: 04/30/2028
@@ -1031,7 +1025,6 @@ Total needing renewal:        1102
   WALKER-STARR APRIL                  | Exp: 04/30/2028
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
   CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
-  DAVID ERIC                          | Exp: 04/30/2027
   MURTISHI JETON                      | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
@@ -1044,10 +1037,7 @@ Total needing renewal:        1102
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
-  CIOBANU RELU                        | Exp: 04/30/2027
-  DRAKE DEBRA                         | Exp: 04/30/2027
   XIN JIAKUN                          | Exp: 04/30/2027
-  JACKSON CHIQUITA                    | Exp: 07/31/2026
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
@@ -1058,17 +1048,13 @@ Total needing renewal:        1102
   STRAIGHT LENA                       | Exp: 04/30/2028
   WELLS LAKITA                        | Exp: 04/30/2028
   STINSON DERRICK DAVID               | Exp: 04/30/2028
-  GOMEZ ALAN                          | Exp: 04/30/2028
   GAZAFER SYLEJMAN                    | Exp: 04/30/2028
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   HSU JIAMIENE                        | Exp: 04/30/2028
   DASILVA JONAH                       | Exp: 04/30/2028
   SUAREZ ALISON                       | Exp: 04/30/2027
-  QAISER NOUMAN                       | Exp: 04/30/2028
   MEDAWAR TOMMY                       | Exp: 04/30/2028
   BELLO ELIAS                         | Exp: 04/30/2027
-  BELLO ELIAS                         | Exp: 04/30/2027
-  BROUGHTON TIVIA                     | Exp: 07/31/2026
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
@@ -1076,14 +1062,10 @@ Total needing renewal:        1102
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
-  WALKER WHITNEY                      | Exp: 04/30/2027
-  PRINCE STACI                        | Exp: 04/30/2027
   LAM AMADOU                          | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
-  MARR TROY                           | Exp: 07/31/2026
-  SCHEIDT KRYSTAL                     | Exp: 07/31/2026
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
