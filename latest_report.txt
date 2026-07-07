@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-07-06
+[KHA] License Renewal Report — 2026-07-07
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     815
+REMOVE (already renewed):     813
 KEEP (needs renewal):         157
 KEEP (no match in DFPR):      945
 Total needing renewal:        1102
 
---- Agents Who Renewed (815) ---
+--- Agents Who Renewed (813) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -246,7 +246,6 @@ Total needing renewal:        1102
   Evan Taylor                         | expires 07/31/2026 (already renewed)
   Fabiola Hernandez                   | expires 07/31/2026 (already renewed)
   Fahrudin Dzanovic                   | expires 04/30/2027 (already renewed)
-  Faiza Butt                          | expires 04/30/2028 (already renewed)
   Farah Kothari                       | expires 04/30/2028 (already renewed)
   Farshad Davachi                     | expires 04/30/2028 (already renewed)
   Faruk Masoud                        | expires 04/30/2028 (already renewed)
@@ -284,7 +283,6 @@ Total needing renewal:        1102
   Halina Komperda                     | expires 04/30/2028 (already renewed)
   Hameedah Amatullah                  | expires 04/30/2028 (already renewed)
   Hanna Lam                           | expires 04/30/2028 (already renewed)
-  Hannah Neely                        | expires 04/30/2028 (already renewed)
   Harinath Annapragada                | expires 04/30/2028 (already renewed)
   Harini Prasad                       | expires 04/30/2028 (already renewed)
   Hasan Sameer                        | expires 04/30/2028 (already renewed)
@@ -1009,6 +1007,7 @@ Total needing renewal:        1102
   BARRAZA LUCIA                       | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
+  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   AUNG MAUNG SAN                      | Exp: 04/30/2028
   CONWAY AZADEH                       | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
@@ -1024,7 +1023,6 @@ Total needing renewal:        1102
   SUELL AJIA                          | Exp: 04/30/2028
   WALKER-STARR APRIL                  | Exp: 04/30/2028
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
-  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   MURTISHI JETON                      | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
@@ -1055,6 +1053,7 @@ Total needing renewal:        1102
   SUAREZ ALISON                       | Exp: 04/30/2027
   MEDAWAR TOMMY                       | Exp: 04/30/2028
   BELLO ELIAS                         | Exp: 04/30/2027
+  ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
@@ -1063,7 +1062,6 @@ Total needing renewal:        1102
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
   LAM AMADOU                          | Exp: 04/30/2028
-  ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
