@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-07-07
+[KHA] License Renewal Report — 2026-07-08
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     813
 KEEP (needs renewal):         157
-KEEP (no match in DFPR):      945
-Total needing renewal:        1102
+KEEP (no match in DFPR):      946
+Total needing renewal:        1103
 
 --- Agents Who Renewed (813) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -981,14 +981,18 @@ Total needing renewal:        1102
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (88) ---
+--- Unmatched DFPR (Manual Review) (114) ---
+  KRIST-KRUEGER KATHLEEN              | Exp: 04/30/2028
   WOODS ULMA                          | Exp: 04/30/2028
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
+  YOUNG MICHELLE                      | Exp: 04/30/2028
   LAPINSKAS UGNE                      | Exp: 04/30/2028
   ZHUANG TIANLEI                      | Exp: 04/30/2028
+  SPILOTRO JASMIN                     | Exp: 04/30/2028
+  DANIEL MIREYA                       | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
   PURNELL ERICA                       | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
@@ -998,18 +1002,34 @@ Total needing renewal:        1102
   DELANEY JENNIFER                    | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
+  JOHNSON JODY                        | Exp: 04/30/2028
+  ORTIZ AMEERA                        | Exp: 04/30/2028
+  SENKOW PIOTR                        | Exp: 04/30/2028
   WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
+  TOUSSAINT MARCUS                    | Exp: 04/30/2028
+  HERNANDEZ RAMON                     | Exp: 04/30/2028
+  YANG LUYANG                         | Exp: 04/30/2028
+  BOONE WILANE                        | Exp: 04/30/2028
+  SUPTAVEEYING SINCHAI                | Exp: 04/30/2028
+  GORODESS DAVID                      | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
+  CURTIS RHYAN                        | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
   CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
+  SAAVEDRA WALMER                     | Exp: 04/30/2028
+  DAMORE JOSEPH                       | Exp: 04/30/2028
   AUNG MAUNG SAN                      | Exp: 04/30/2028
+  ROBINSON ELIZABETH                  | Exp: 04/30/2028
+  GARG SOURABH                        | Exp: 04/30/2028
+  COVARRUBIAS CRYSTAL                 | Exp: 04/30/2028
   CONWAY AZADEH                       | Exp: 04/30/2028
+  LU JOHN                             | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
   WHITMORE JOANNE                     | Exp: 04/30/2027
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
@@ -1050,7 +1070,11 @@ Total needing renewal:        1102
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   HSU JIAMIENE                        | Exp: 04/30/2028
   DASILVA JONAH                       | Exp: 04/30/2028
+  MARKOVIC ANA                        | Exp: 04/30/2028
   SUAREZ ALISON                       | Exp: 04/30/2027
+  RENDON GABRIEL                      | Exp: 04/30/2028
+  WETTERSTEN CHARLES                  | Exp: 04/30/2028
+  CRAIGHEAD CATHERINE                 | Exp: 04/30/2028
   MEDAWAR TOMMY                       | Exp: 04/30/2028
   BELLO ELIAS                         | Exp: 04/30/2027
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
@@ -1059,6 +1083,7 @@ Total needing renewal:        1102
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
+  WEST MASON                          | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
   LAM AMADOU                          | Exp: 04/30/2028
@@ -1070,3 +1095,4 @@ Total needing renewal:        1102
   REHMAN SALMAN                       | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
+  SULEJMANI RODRIGO                   | Exp: 04/30/2028
