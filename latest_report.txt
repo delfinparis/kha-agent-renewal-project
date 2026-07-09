@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-07-08
+[KHA] License Renewal Report — 2026-07-09
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     813
+REMOVE (already renewed):     812
 KEEP (needs renewal):         157
 KEEP (no match in DFPR):      946
 Total needing renewal:        1103
 
---- Agents Who Renewed (813) ---
+--- Agents Who Renewed (812) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -136,7 +136,6 @@ Total needing renewal:        1103
   Chiara Graham                       | expires 04/30/2028 (already renewed)
   Chiquita Jackson                    | expires 07/31/2026 (already renewed)
   Chris Arce                          | expires 04/30/2028 (already renewed)
-  Chris Oceguera                      | expires 04/30/2028 (already renewed)
   Chris Placeres                      | expires 04/30/2028 (already renewed)
   Chris Pollock                       | expires 04/30/2028 (already renewed)
   Christian Chaidez                   | expires 04/30/2028 (already renewed)
@@ -1038,6 +1037,7 @@ Total needing renewal:        1103
   BELL CHARLES                        | Exp: 04/30/2028
   ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
+  HASSAN SYED                         | Exp: 04/30/2028
   OLMOS ESTRADA CONSTANCE             | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
@@ -1051,7 +1051,6 @@ Total needing renewal:        1103
   MEYER LUZ                           | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
-  HASSAN SYED                         | Exp: 04/30/2028
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
@@ -1070,9 +1069,9 @@ Total needing renewal:        1103
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   HSU JIAMIENE                        | Exp: 04/30/2028
   DASILVA JONAH                       | Exp: 04/30/2028
+  RENDON GABRIEL                      | Exp: 04/30/2028
   MARKOVIC ANA                        | Exp: 04/30/2028
   SUAREZ ALISON                       | Exp: 04/30/2027
-  RENDON GABRIEL                      | Exp: 04/30/2028
   WETTERSTEN CHARLES                  | Exp: 04/30/2028
   CRAIGHEAD CATHERINE                 | Exp: 04/30/2028
   MEDAWAR TOMMY                       | Exp: 04/30/2028
