@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-07-11
+[KHA] License Renewal Report — 2026-07-12
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     819
 KEEP (needs renewal):         157
-KEEP (no match in DFPR):      945
-Total needing renewal:        1102
+KEEP (no match in DFPR):      947
+Total needing renewal:        1104
 
 --- Agents Who Renewed (819) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
