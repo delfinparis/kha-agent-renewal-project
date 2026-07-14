@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-07-12
+[KHA] License Renewal Report — 2026-07-14
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     819
+REMOVE (already renewed):     821
 KEEP (needs renewal):         157
 KEEP (no match in DFPR):      947
 Total needing renewal:        1104
 
---- Agents Who Renewed (819) ---
+--- Agents Who Renewed (821) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -137,6 +137,7 @@ Total needing renewal:        1104
   Chiara Graham                       | expires 04/30/2028 (already renewed)
   Chiquita Jackson                    | expires 07/31/2026 (already renewed)
   Chris Arce                          | expires 04/30/2028 (already renewed)
+  Chris Oceguera                      | expires 04/30/2028 (already renewed)
   Chris Placeres                      | expires 04/30/2028 (already renewed)
   Chris Pollock                       | expires 04/30/2028 (already renewed)
   Christian Chaidez                   | expires 04/30/2028 (already renewed)
@@ -734,6 +735,7 @@ Total needing renewal:        1104
   Stephen Smith                       | expires 04/30/2027 (already renewed)
   Steve Peterson                      | expires 04/30/2028 (already renewed)
   Steve Shah                          | expires 04/30/2028 (already renewed)
+  Steven Birch                        | expires 04/30/2028 (already renewed)
   Sugunakar Vangala                   | expires 04/30/2028 (already renewed)
   Summar Othman                       | expires 04/30/2028 (already renewed)
   Sundeep Kak                         | expires 04/30/2028 (already renewed)
