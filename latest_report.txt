@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-07-14
+[KHA] License Renewal Report — 2026-07-16
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     821
-KEEP (needs renewal):         157
-KEEP (no match in DFPR):      947
-Total needing renewal:        1104
+KEEP (needs renewal):         158
+KEEP (no match in DFPR):      949
+Total needing renewal:        1107
 
 --- Agents Who Renewed (821) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -830,7 +830,7 @@ Total needing renewal:        1104
   Zenecia Anderson                    | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (157) ---
+--- Agents Still Needing Renewal (158) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Alisha Harris                       | expires 04/30/2026 (needs renewal)
@@ -848,6 +848,7 @@ Total needing renewal:        1104
   Audrey DePaulo                      | expires 04/30/2026 (needs renewal)
   Autumn Susberry                     | expires 04/30/2026 (needs renewal)
   Beverly Haynes-Silas                | expires 04/30/2024 (needs renewal)
+  Bret Broaddus                       | expires 04/30/2026 (needs renewal)
   Brian Harbison                      | expires 04/30/2026 (needs renewal)
   Brittany Davis                      | expires 07/31/2024 (needs renewal)
   Bryant Mooney                       | expires 04/30/2026 (needs renewal)
