@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-07-23
+[KHA] License Renewal Report — 2026-07-24
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     824
+REMOVE (already renewed):     823
 KEEP (needs renewal):         164
-KEEP (no match in DFPR):      951
-Total needing renewal:        1115
+KEEP (no match in DFPR):      952
+Total needing renewal:        1116
 
---- Agents Who Renewed (824) ---
+--- Agents Who Renewed (823) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -497,7 +497,6 @@ Total needing renewal:        1115
   Malachy Okeke                       | expires 04/30/2028 (already renewed)
   Manali Tated                        | expires 04/30/2028 (already renewed)
   Mara Greenberg                      | expires 04/30/2028 (already renewed)
-  Marcin Krasnowski                   | expires 04/30/2028 (already renewed)
   Marco Rodriguez                     | expires 04/30/2027 (already renewed)
   Marco Tang                          | expires 04/30/2028 (already renewed)
   Marcus Toussaint                    | expires 04/30/2028 (already renewed)
