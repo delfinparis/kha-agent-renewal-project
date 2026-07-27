@@ -1,4 +1,4 @@
-[KHA] License Renewal Report — 2026-07-25
+[KHA] License Renewal Report — 2026-07-27
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
@@ -151,7 +151,7 @@ Total needing renewal:        1116
   Christopher Malone                  | expires 04/30/2028 (already renewed)
   Christopher Royal                   | expires 04/30/2028 (already renewed)
   Clarissa Hogue                      | expires 04/30/2028 (already renewed)
-  Colin Tahi                          | expires 07/31/2026 (already renewed)
+  Colin Tahi                          | expires 07/31/2028 (already renewed)
   Collins Bonnema                     | expires 04/30/2028 (already renewed)
   Consuelo Pacheco                    | expires 04/30/2028 (already renewed)
   Corey Howard                        | expires 04/30/2028 (already renewed)
@@ -247,7 +247,7 @@ Total needing renewal:        1116
   Eugene Beckles                      | expires 04/30/2028 (already renewed)
   Eugenia Brown                       | expires 04/30/2028 (already renewed)
   Eunice Garcia                       | expires 04/30/2028 (already renewed)
-  Evan Taylor                         | expires 07/31/2026 (already renewed)
+  Evan Taylor                         | expires 07/31/2028 (already renewed)
   Fabiola Hernandez                   | expires 07/31/2026 (already renewed)
   Fahrudin Dzanovic                   | expires 04/30/2027 (already renewed)
   Faiza Butt                          | expires 04/30/2028 (already renewed)
