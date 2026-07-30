@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-07-29
+[KHA] License Renewal Report — 2026-07-30
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     826
+REMOVE (already renewed):     825
 KEEP (needs renewal):         164
-KEEP (no match in DFPR):      950
-Total needing renewal:        1114
+KEEP (no match in DFPR):      952
+Total needing renewal:        1116
 
---- Agents Who Renewed (826) ---
+--- Agents Who Renewed (825) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -779,7 +779,6 @@ Total needing renewal:        1114
   Tiffany Hirsch                      | expires 04/30/2028 (already renewed)
   Tiffany Hondras                     | expires 04/30/2028 (already renewed)
   Tim McManigal                       | expires 04/30/2028 (already renewed)
-  Timothy Littleton                   | expires 04/30/2028 (already renewed)
   Timothy Ritchey                     | expires 04/30/2028 (already renewed)
   Tivia Broughton                     | expires 07/31/2026 (already renewed)
   Todd Hornberger                     | expires 04/30/2028 (already renewed)
@@ -1072,6 +1071,7 @@ Total needing renewal:        1114
   SUAREZ ALISON                       | Exp: 04/30/2027
   MEDAWAR TOMMY                       | Exp: 04/30/2028
   BELLO ELIAS                         | Exp: 04/30/2027
+  ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
@@ -1079,7 +1079,6 @@ Total needing renewal:        1114
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
-  ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
