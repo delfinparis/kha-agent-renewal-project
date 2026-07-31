@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-07-30
+[KHA] License Renewal Report — 2026-07-31
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     825
-KEEP (needs renewal):         164
-KEEP (no match in DFPR):      952
-Total needing renewal:        1116
+REMOVE (already renewed):     826
+KEEP (needs renewal):         163
+KEEP (no match in DFPR):      954
+Total needing renewal:        1117
 
---- Agents Who Renewed (825) ---
+--- Agents Who Renewed (826) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -87,6 +87,7 @@ Total needing renewal:        1116
   Aryelle Smith                       | expires 04/30/2028 (already renewed)
   Ashaunte Matthews                   | expires 04/30/2028 (already renewed)
   Asher Rehana                        | expires 04/30/2027 (already renewed)
+  Ashley Moss                         | expires 04/30/2028 (already renewed)
   Ashley Roybal                       | expires 04/30/2028 (already renewed)
   Asima Shazzad                       | expires 04/30/2028 (already renewed)
   Atala Diaz                          | expires 04/30/2028 (already renewed)
@@ -137,7 +138,7 @@ Total needing renewal:        1116
   Chartiece Walker                    | expires 04/30/2028 (already renewed)
   Chelsea Beck                        | expires 04/30/2028 (already renewed)
   Chiara Graham                       | expires 04/30/2028 (already renewed)
-  Chiquita Jackson                    | expires 07/31/2026 (already renewed)
+  Chiquita Jackson                    | expires 07/31/2028 (already renewed)
   Chris Arce                          | expires 04/30/2028 (already renewed)
   Chris Oceguera                      | expires 04/30/2028 (already renewed)
   Chris Placeres                      | expires 04/30/2028 (already renewed)
@@ -443,7 +444,7 @@ Total needing renewal:        1116
   Kimberly Ziyavo                     | expires 04/30/2028 (already renewed)
   Kristen OVerlock                    | expires 04/30/2028 (already renewed)
   Kristy Ma                           | expires 04/30/2028 (already renewed)
-  Krystal Scheidt                     | expires 07/31/2026 (already renewed)
+  Krystal Scheidt                     | expires 07/31/2028 (already renewed)
   Kyle Hadley                         | expires 04/30/2028 (already renewed)
   Kyle Olszewski                      | expires 04/30/2028 (already renewed)
   LaMarr Mckenzie                     | expires 04/30/2028 (already renewed)
@@ -834,7 +835,7 @@ Total needing renewal:        1116
   Zenecia Anderson                    | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (164) ---
+--- Agents Still Needing Renewal (163) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Alisha Harris                       | expires 04/30/2026 (needs renewal)
@@ -847,7 +848,6 @@ Total needing renewal:        1116
   Angel Johnson Rooker                | expires 04/30/2026 (needs renewal)
   Antwan Lyons                        | expires 04/30/2026 (needs renewal)
   Aquanetta Baker                     | expires 04/30/2026 (needs renewal)
-  Ashley Moss                         | expires 04/30/2026 (needs renewal)
   Ashley Myers                        | expires 04/30/2026 (needs renewal)
   Asiya Iskakova                      | expires 04/30/2026 (needs renewal)
   Audrey DePaulo                      | expires 04/30/2026 (needs renewal)
@@ -1034,7 +1034,6 @@ Total needing renewal:        1116
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   BELL CHARLES                        | Exp: 04/30/2028
-  ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
@@ -1046,6 +1045,7 @@ Total needing renewal:        1116
   MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
+  ADAMS LINDSAY                       | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
   HASSAN SYED                         | Exp: 04/30/2028
