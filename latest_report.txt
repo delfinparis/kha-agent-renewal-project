@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-01
+[KHA] License Renewal Report — 2026-08-03
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     825
+REMOVE (already renewed):     827
 KEEP (needs renewal):         163
-KEEP (no match in DFPR):      954
-Total needing renewal:        1117
+KEEP (no match in DFPR):      952
+Total needing renewal:        1115
 
---- Agents Who Renewed (825) ---
+--- Agents Who Renewed (827) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -37,6 +37,7 @@ Total needing renewal:        1117
   Alex Liu                            | expires 04/30/2028 (already renewed)
   Alex Margulis                       | expires 04/30/2028 (already renewed)
   Alexander Amboian                   | expires 04/30/2028 (already renewed)
+  Alexandria Huggins                  | expires 04/30/2028 (already renewed)
   Alexis Sethi                        | expires 04/30/2028 (already renewed)
   Alfin Koshy                         | expires 04/30/2028 (already renewed)
   Alfredo Medina                      | expires 04/30/2028 (already renewed)
@@ -274,6 +275,7 @@ Total needing renewal:        1117
   Garret Glaser                       | expires 04/30/2028 (already renewed)
   Garvin John                         | expires 04/30/2028 (already renewed)
   Genesis Bencivenga                  | expires 04/30/2028 (already renewed)
+  George Kourkouvis                   | expires 04/30/2028 (already renewed)
   George Mounsef                      | expires 04/30/2028 (already renewed)
   George Olufunmi                     | expires 04/30/2028 (already renewed)
   George Tai                          | expires 04/30/2028 (already renewed)
