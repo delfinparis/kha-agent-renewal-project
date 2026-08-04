@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-03
+[KHA] License Renewal Report — 2026-08-04
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     827
+REMOVE (already renewed):     826
 KEEP (needs renewal):         163
 KEEP (no match in DFPR):      952
 Total needing renewal:        1115
 
---- Agents Who Renewed (827) ---
+--- Agents Who Renewed (826) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -769,7 +769,6 @@ Total needing renewal:        1115
   Ted Angelopoulos                    | expires 04/30/2028 (already renewed)
   Teddy Larez                         | expires 04/30/2028 (already renewed)
   Tefik Sadiku                        | expires 04/30/2028 (already renewed)
-  Teresa Reynolds                     | expires 07/31/2028 (already renewed)
   Terrall Jordan                      | expires 04/30/2028 (already renewed)
   Teslim Salami                       | expires 04/30/2028 (already renewed)
   Theodore John Floros                | expires 04/30/2028 (already renewed)
