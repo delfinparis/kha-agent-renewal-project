@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-04
+[KHA] License Renewal Report — 2026-08-05
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     826
+REMOVE (already renewed):     828
 KEEP (needs renewal):         163
-KEEP (no match in DFPR):      952
-Total needing renewal:        1115
+KEEP (no match in DFPR):      951
+Total needing renewal:        1114
 
---- Agents Who Renewed (826) ---
+--- Agents Who Renewed (828) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -78,6 +78,7 @@ Total needing renewal:        1115
   Anthony Canty                       | expires 04/30/2027 (already renewed)
   Anthony Gonzalez                    | expires 04/30/2028 (already renewed)
   Anthony Siwinski                    | expires 04/30/2028 (already renewed)
+  Antonia Di Meola                    | expires 04/30/2028 (already renewed)
   Antonio Cox                         | expires 04/30/2028 (already renewed)
   Arielle Henry                       | expires 04/30/2028 (already renewed)
   Ariz Gohar                          | expires 04/30/2028 (already renewed)
@@ -401,6 +402,7 @@ Total needing renewal:        1115
   Jugad Sidhu                         | expires 04/30/2028 (already renewed)
   Julie Chen                          | expires 04/30/2028 (already renewed)
   Julie Valenzuela                    | expires 04/30/2028 (already renewed)
+  Julissa Hernandez                   | expires 04/30/2028 (already renewed)
   Jun Li                              | expires 04/30/2028 (already renewed)
   Junaid Fahmi                        | expires 04/30/2028 (already renewed)
   Jurgen Frank                        | expires 04/30/2028 (already renewed)
@@ -1034,7 +1036,6 @@ Total needing renewal:        1115
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   BELL CHARLES                        | Exp: 04/30/2028
-  ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
@@ -1046,6 +1047,7 @@ Total needing renewal:        1115
   MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
+  ADAMS LINDSAY                       | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
   HASSAN SYED                         | Exp: 04/30/2028
@@ -1071,7 +1073,6 @@ Total needing renewal:        1115
   SUAREZ ALISON                       | Exp: 04/30/2027
   MEDAWAR TOMMY                       | Exp: 04/30/2028
   BELLO ELIAS                         | Exp: 04/30/2027
-  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
@@ -1087,5 +1088,6 @@ Total needing renewal:        1115
   GUNO DOMINADOR                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
+  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028

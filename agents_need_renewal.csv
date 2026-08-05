@@ -1,10 +1,8 @@
 First Name,Last Name,License Number,monday_item_id,monday_group
-Antonia,Di Meola,,12676951598,Kale Agents
 Kimberly,Griggs,,12676698628,Kale Agents
 Andres,Montoya,,12662478993,Kale Agents
 Sanjay,Patel,,12662484408,Kale Agents
 Kaitlyn,Alphonse,,12601382077,Kale Agents
-Julissa,Hernandez,,12532113046,Kale Agents
 Katie,Savino,475176052,700356659,Kale Agents
 Schanee,Woods,475157051,11965308822,Kale Agents
 Kay,Oshodi,475199658,11822025050,Kale Agents
@@ -148,6 +146,7 @@ Luxury,Living 405 W. Superior,,12540606213,Co-Ops
 Transaction,Coordinator Services,,12553032063,Co-Ops
 eXp,Realty PO Box 850813,,12564324879,Co-Ops
 Baird,& Warner 4553 N. Lincoln,,12640802062,Co-Ops
+The,Nav Agency 171 N. Aberdeen,,12718933708,Co-Ops
 12089006949,- ON TIME SPO,,8314779793,Call Leads
 CHESTERTON,IN,,8320459439,Call Leads
 unknown,,,8320460943,Call Leads
@@ -307,7 +306,6 @@ Ariyanna,Sutton,,5180460725,Terminated Agents we want back
 Shavell,Burch,,5163361208,Terminated Agents we want back
 Dawn,Barnett,475193110,5094508185,Terminated Agents we want back
 John,Boyle,475197203,5073107439,Terminated Agents we want back
-Jasmine,Dixon,475186205,5063522579,Terminated Agents we want back
 Delisa,Mosley,,5047105338,Terminated Agents we want back
 Jessica,Ortiz,475205383,5031573021,Terminated Agents we want back
 Eddie,Tien,,5021939741,Terminated Agents we want back
@@ -426,7 +424,6 @@ Clint,,,2578270128,Terminated Agents we want back
 Alison,,,2578270305,Terminated Agents we want back
 Breanna,Green,,2572276937,Terminated Agents we want back
 Sean,O'Dowd,,2566440595,Terminated Agents we want back
-Autumn,Susberry,475188753,2560782999,Terminated Agents we want back
 Amy,Van Hook,,2550427357,Terminated Agents we want back
 Gloria,Finelli,475182551,2526911648,Terminated Agents we want back
 Matthew,Murphy,475199169,2526952745,Terminated Agents we want back
@@ -1114,3 +1111,5 @@ Jane,Koenig,,359617224,Terminated Agents we do NOT want back
 Joan,Palinski,,359617216,Terminated Agents we do NOT want back
 Thomas,Foreman,,359616884,Terminated Agents we do NOT want back
 Bret,Broaddus,475157735,18376487754,Terminated Agents we do NOT want back
+Autumn,Susberry,475188753,2560782999,Terminated Agents we do NOT want back
+Jasmine,Dixon,475186205,5063522579,Terminated Agents we do NOT want back
