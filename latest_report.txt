@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-05
+[KHA] License Renewal Report — 2026-08-06
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     828
+REMOVE (already renewed):     832
 KEEP (needs renewal):         163
-KEEP (no match in DFPR):      951
-Total needing renewal:        1114
+KEEP (no match in DFPR):      952
+Total needing renewal:        1115
 
---- Agents Who Renewed (828) ---
+--- Agents Who Renewed (832) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -502,6 +502,7 @@ Total needing renewal:        1114
   Malachy Okeke                       | expires 04/30/2028 (already renewed)
   Manali Tated                        | expires 04/30/2028 (already renewed)
   Mara Greenberg                      | expires 04/30/2028 (already renewed)
+  Marcin Krasnowski                   | expires 04/30/2028 (already renewed)
   Marco Rodriguez                     | expires 04/30/2027 (already renewed)
   Marco Tang                          | expires 04/30/2028 (already renewed)
   Marcus Toussaint                    | expires 04/30/2028 (already renewed)
@@ -527,6 +528,7 @@ Total needing renewal:        1114
   Mary Mucci                          | expires 04/30/2028 (already renewed)
   Marzena Pisarczyk                   | expires 04/30/2028 (already renewed)
   Mason West                          | expires 04/30/2028 (already renewed)
+  Matej Culjak                        | expires 04/30/2028 (already renewed)
   Matt Pearlman                       | expires 04/30/2028 (already renewed)
   Matthew Amir                        | expires 04/30/2028 (already renewed)
   Matthew Borkowski                   | expires 04/30/2028 (already renewed)
@@ -771,6 +773,7 @@ Total needing renewal:        1114
   Ted Angelopoulos                    | expires 04/30/2028 (already renewed)
   Teddy Larez                         | expires 04/30/2028 (already renewed)
   Tefik Sadiku                        | expires 04/30/2028 (already renewed)
+  Teresa Reynolds                     | expires 07/31/2028 (already renewed)
   Terrall Jordan                      | expires 04/30/2028 (already renewed)
   Teslim Salami                       | expires 04/30/2028 (already renewed)
   Theodore John Floros                | expires 04/30/2028 (already renewed)
@@ -782,6 +785,7 @@ Total needing renewal:        1114
   Tiffany Hirsch                      | expires 04/30/2028 (already renewed)
   Tiffany Hondras                     | expires 04/30/2028 (already renewed)
   Tim McManigal                       | expires 04/30/2028 (already renewed)
+  Timothy Littleton                   | expires 04/30/2028 (already renewed)
   Timothy Ritchey                     | expires 04/30/2028 (already renewed)
   Tivia Broughton                     | expires 07/31/2026 (already renewed)
   Todd Hornberger                     | expires 04/30/2028 (already renewed)
@@ -1002,7 +1006,7 @@ Total needing renewal:        1114
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (88) ---
+--- Unmatched DFPR (Manual Review) (89) ---
   WOODS ULMA                          | Exp: 04/30/2028
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
@@ -1085,6 +1089,7 @@ Total needing renewal:        1114
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
+  GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
