@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-09
+[KHA] License Renewal Report — 2026-08-13
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     832
-KEEP (needs renewal):         163
-KEEP (no match in DFPR):      955
+REMOVE (already renewed):     833
+KEEP (needs renewal):         162
+KEEP (no match in DFPR):      956
 Total needing renewal:        1118
 
---- Agents Who Renewed (832) ---
+--- Agents Who Renewed (833) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -690,6 +690,7 @@ Total needing renewal:        1118
   Sa Zhao                             | expires 04/30/2028 (already renewed)
   Sabrina Cowan                       | expires 04/30/2028 (already renewed)
   Sabrina Mcneal                      | expires 04/30/2028 (already renewed)
+  Sade Dixon                          | expires 04/30/2028 (already renewed)
   Sally Baker                         | expires 04/30/2028 (already renewed)
   Salman Hakimzadeh                   | expires 04/30/2028 (already renewed)
   Salman Rehman                       | expires 04/30/2028 (already renewed)
@@ -841,7 +842,7 @@ Total needing renewal:        1118
   Zenecia Anderson                    | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (163) ---
+--- Agents Still Needing Renewal (162) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Alisha Harris                       | expires 04/30/2026 (needs renewal)
@@ -968,7 +969,6 @@ Total needing renewal:        1118
   Roberto Vinci                       | expires 04/30/2026 (needs renewal)
   Roman Henclewski                    | expires 04/30/2026 (needs renewal)
   Roshawnda Bond                      | expires 04/30/2026 (needs renewal)
-  Sade Dixon                          | expires 04/30/2026 (needs renewal)
   Sandra Muellner                     | expires 04/30/2026 (needs renewal)
   Sandy Castro                        | expires 04/30/2026 (needs renewal)
   Sean Cunningham                     | expires 04/30/2024 (needs renewal)
