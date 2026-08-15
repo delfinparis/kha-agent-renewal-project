@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-08-14
+[KHA] License Renewal Report — 2026-08-15
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     831
 KEEP (needs renewal):         162
-KEEP (no match in DFPR):      960
-Total needing renewal:        1122
+KEEP (no match in DFPR):      962
+Total needing renewal:        1124
 
 --- Agents Who Renewed (831) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -26,6 +26,7 @@ Total needing renewal:        1122
   Adrienne Wonzer                     | expires 04/30/2028 (already renewed)
   Agnes Donnadieu                     | expires 04/30/2028 (already renewed)
   Agnieszka Jurowska                  | expires 04/30/2028 (already renewed)
+  Aida Roldan                         | expires 04/30/2028 (already renewed)
   Aileen Cordero                      | expires 04/30/2028 (already renewed)
   Aja Phillips                        | expires 04/30/2028 (already renewed)
   Ala Abdelrahim                      | expires 04/30/2028 (already renewed)
@@ -269,7 +270,6 @@ Total needing renewal:        1122
   Fred Bernacchi                      | expires 04/30/2028 (already renewed)
   Fred Joshua                         | expires 04/30/2028 (already renewed)
   Frede Tavera                        | expires 04/30/2028 (already renewed)
-  Gabriel Franken                     | expires 04/30/2028 (already renewed)
   Gabriel Jackson                     | expires 04/30/2028 (already renewed)
   Gabriel Rendon                      | expires 04/30/2028 (already renewed)
   Garret Glaser                       | expires 04/30/2028 (already renewed)
@@ -575,6 +575,7 @@ Total needing renewal:        1122
   Monica Ilea                         | expires 04/30/2028 (already renewed)
   Monica Wong                         | expires 04/30/2028 (already renewed)
   Monique Booth                       | expires 04/30/2028 (already renewed)
+  Monique Brewer                      | expires 04/30/2028 (already renewed)
   Morgan Basham                       | expires 04/30/2028 (already renewed)
   Muaz Farooq                         | expires 04/30/2028 (already renewed)
   Mudassar Bashir                     | expires 04/30/2028 (already renewed)
@@ -760,7 +761,6 @@ Total needing renewal:        1122
   Tabish Khan                         | expires 04/30/2028 (already renewed)
   Tai Lowery                          | expires 04/30/2028 (already renewed)
   Talia Tucci                         | expires 04/30/2028 (already renewed)
-  Tamara Bright                       | expires 04/30/2028 (already renewed)
   Tamika Wells                        | expires 04/30/2028 (already renewed)
   Tan Su                              | expires 04/30/2027 (already renewed)
   Tanhia Romero                       | expires 04/30/2028 (already renewed)
@@ -1004,7 +1004,7 @@ Total needing renewal:        1122
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (89) ---
+--- Unmatched DFPR (Manual Review) (90) ---
   WOODS ULMA                          | Exp: 04/30/2028
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
@@ -1073,6 +1073,7 @@ Total needing renewal:        1122
   HSU JIAMIENE                        | Exp: 04/30/2028
   DASILVA JONAH                       | Exp: 04/30/2028
   SUAREZ ALISON                       | Exp: 04/30/2027
+  VOS EAMON                           | Exp: 04/30/2028
   MEDAWAR TOMMY                       | Exp: 04/30/2028
   BELLO ELIAS                         | Exp: 04/30/2027
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
