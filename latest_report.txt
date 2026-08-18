@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-17
+[KHA] License Renewal Report — 2026-08-18
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     831
+REMOVE (already renewed):     832
 KEEP (needs renewal):         162
-KEEP (no match in DFPR):      962
-Total needing renewal:        1124
+KEEP (no match in DFPR):      964
+Total needing renewal:        1126
 
---- Agents Who Renewed (831) ---
+--- Agents Who Renewed (832) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -761,6 +761,7 @@ Total needing renewal:        1124
   Tabish Khan                         | expires 04/30/2028 (already renewed)
   Tai Lowery                          | expires 04/30/2028 (already renewed)
   Talia Tucci                         | expires 04/30/2028 (already renewed)
+  Tamara Bright                       | expires 04/30/2028 (already renewed)
   Tamika Wells                        | expires 04/30/2028 (already renewed)
   Tan Su                              | expires 04/30/2027 (already renewed)
   Tanhia Romero                       | expires 04/30/2028 (already renewed)
