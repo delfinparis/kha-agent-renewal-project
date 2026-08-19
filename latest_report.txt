@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-18
+[KHA] License Renewal Report — 2026-08-19
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     832
+REMOVE (already renewed):     831
 KEEP (needs renewal):         162
 KEEP (no match in DFPR):      964
 Total needing renewal:        1126
 
---- Agents Who Renewed (832) ---
+--- Agents Who Renewed (831) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -287,7 +287,6 @@ Total needing renewal:        1126
   Graham Bell                         | expires 04/30/2028 (already renewed)
   Gregory Powell                      | expires 04/30/2028 (already renewed)
   Gregory Walzel                      | expires 04/30/2028 (already renewed)
-  Griselda Ortega                     | expires 04/30/2028 (already renewed)
   Halina Komperda                     | expires 04/30/2028 (already renewed)
   Hameedah Amatullah                  | expires 04/30/2028 (already renewed)
   Hanna Lam                           | expires 04/30/2028 (already renewed)
