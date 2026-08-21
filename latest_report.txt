@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-20
+[KHA] License Renewal Report — 2026-08-21
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     831
+REMOVE (already renewed):     830
 KEEP (needs renewal):         162
-KEEP (no match in DFPR):      964
-Total needing renewal:        1126
+KEEP (no match in DFPR):      966
+Total needing renewal:        1128
 
---- Agents Who Renewed (831) ---
+--- Agents Who Renewed (830) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -697,7 +697,6 @@ Total needing renewal:        1126
   Samer Abunaser                      | expires 04/30/2028 (already renewed)
   Samuel Razo                         | expires 04/30/2028 (already renewed)
   Samuel Sykes                        | expires 04/30/2028 (already renewed)
-  Sandra Avila                        | expires 04/30/2028 (already renewed)
   Sandrine Scott                      | expires 04/30/2028 (already renewed)
   Sanhita Agnihotri                   | expires 04/30/2028 (already renewed)
   Sanjay Kumar                        | expires 04/30/2028 (already renewed)
