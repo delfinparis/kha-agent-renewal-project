@@ -1,4 +1,5 @@
 First Name,Last Name,License Number,monday_item_id,monday_group
+Anthony,Gelazius,,12868527051,Kale Agents
 Alina,Moisuc,,12859116219,Kale Agents
 Umraan,Syed,,12808301610,Kale Agents
 Revae,Schneider,,12740950633,Kale Agents
@@ -82,6 +83,14 @@ QA,FAKE COACH - DO NOT USE,,12509895821,Kale Agents
 QA,FAKE COACHEE - DO NOT USE,,12509895750,Kale Agents
 Rea,Endaya,,12821157768,Agent Intake / Review
 TEST,- Rea Endaya,,12821385953,Agent Intake / Review
+QA,SYNTHETIC • Transfer Needed Yes • 2026-08-21,,12863431998,Agent Intake / Review
+QA,SYNTHETIC WORKFORM • Transfer Yes • 2026-08-21,,12867493456,Agent Intake / Review
+QA,SYNTHETIC POSTFIX • Existing 3 Tx • Transfer Yes • 2026-08-21,,12867533946,Agent Intake / Review
+QA,SYNTHETIC WORKFORM • Transfer Yes • 2026-08-21 FINAL,,12868287918,Agent Intake / Review
+QA,FINAL 1 New Licensee Yes 2026 08 21,,12868530362,Agent Intake / Review
+QA,FINAL 2 No Transactions 2026 08 21,,12868525911,Agent Intake / Review
+QA,FINAL 3 License Issue Yes 2026 08 21,,12868550488,Agent Intake / Review
+QA,FINAL 4 Clean Experienced 2026 08 21,,12868516369,Agent Intake / Review
 Rob,,,12795179389,DEMO • Agent Intake / Review
 Rob,,,12795216262,DEMO • Agent Intake / Review
 Rob,,,12798990830,DEMO • Agent Intake / Review
