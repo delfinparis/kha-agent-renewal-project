@@ -1,4 +1,6 @@
 First Name,Last Name,License Number,monday_item_id,monday_group
+George,Arvanitis,,12894364640,Kale Agents
+Adeel,Makda,,12881260285,Kale Agents
 Anthony,Gelazius,,12868527051,Kale Agents
 Alina,Moisuc,,12859116219,Kale Agents
 Umraan,Syed,,12808301610,Kale Agents
@@ -11,6 +13,7 @@ Sanjay,Patel,,12662484408,Kale Agents
 Kaitlyn,Alphonse,,12601382077,Kale Agents
 Katie,Savino,475176052,700356659,Kale Agents
 Schanee,Woods,475157051,11965308822,Kale Agents
+Leon,Wambo,471021184,10695422582,Kale Agents
 Kay,Oshodi,475199658,11822025050,Kale Agents
 Muhammad Salman,Zubairy,475218957,11683662404,Kale Agents
 Erica Monique,Purnell,475218827,11615410113,Kale Agents
@@ -20,7 +23,6 @@ Tania,Zhuang,475206675,11251321662,Kale Agents
 Neil,Stanoev,475175365,11168047078,Kale Agents
 Victor,Canelas,475157660,11164126900,Kale Agents
 Siddiq,Sherwani,475218218,11050396537,Kale Agents
-Leon,Wambo,471021184,10695422582,Kale Agents
 Jenny,Delaney,475193755,18358622965,Kale Agents
 Jody,Williams,475203248,9902837222,Kale Agents
 James,Pryma,475191612,9572377024,Kale Agents
@@ -91,6 +93,7 @@ QA,FINAL 1 New Licensee Yes 2026 08 21,,12868530362,Agent Intake / Review
 QA,FINAL 2 No Transactions 2026 08 21,,12868525911,Agent Intake / Review
 QA,FINAL 3 License Issue Yes 2026 08 21,,12868550488,Agent Intake / Review
 QA,FINAL 4 Clean Experienced 2026 08 21,,12868516369,Agent Intake / Review
+TEST,Rea Endaya,,12881750076,Agent Intake / Review
 Rob,,,12795179389,DEMO • Agent Intake / Review
 Rob,,,12795216262,DEMO • Agent Intake / Review
 Rob,,,12798990830,DEMO • Agent Intake / Review
