@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-08-30
+[KHA] License Renewal Report — 2026-08-31
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     832
-KEEP (needs renewal):         162
+KEEP (needs renewal):         161
 KEEP (no match in DFPR):      979
-Total needing renewal:        1141
+Total needing renewal:        1140
 
 --- Agents Who Renewed (832) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -479,6 +479,7 @@ Total needing renewal:        1141
   Lisa Hall                           | expires 04/30/2028 (already renewed)
   Lisa Mays                           | expires 04/30/2028 (already renewed)
   Lisette Baltazar                    | expires 04/30/2028 (already renewed)
+  Lonnie Thomas                       | expires 04/30/2028 (already renewed)
   Lonzo Harris                        | expires 04/30/2028 (already renewed)
   Lorenzo Ricks                       | expires 04/30/2028 (already renewed)
   Lori Dake                           | expires 04/30/2027 (already renewed)
@@ -708,7 +709,6 @@ Total needing renewal:        1141
   Sayde Martinez                      | expires 04/30/2028 (already renewed)
   Scott DuPart                        | expires 04/30/2028 (already renewed)
   Scott Jean                          | expires 04/30/2028 (already renewed)
-  Scott Turner                        | expires 04/30/2028 (already renewed)
   Sedonia Phillips                    | expires 04/30/2027 (already renewed)
   Selma Kacar                         | expires 04/30/2028 (already renewed)
   Settawoot Siripreechapong           | expires 04/30/2028 (already renewed)
@@ -841,7 +841,7 @@ Total needing renewal:        1141
   Zenecia Anderson                    | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (162) ---
+--- Agents Still Needing Renewal (161) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Alisha Harris                       | expires 04/30/2026 (needs renewal)
@@ -934,7 +934,6 @@ Total needing renewal:        1141
   Lindsey Churchill                   | expires 04/30/2024 (needs renewal)
   Linh Dang                           | expires 04/30/2026 (needs renewal)
   Liz Hughbanks                       | expires 04/30/2026 (needs renewal)
-  Lonnie Thomas                       | expires 04/30/2026 (needs renewal)
   Louis Leathers                      | expires 04/30/2026 (needs renewal)
   Luan Seiko                          | expires 04/30/2026 (needs renewal)
   Lun Ye Woods                        | expires 07/31/2024 (needs renewal)
@@ -1005,7 +1004,7 @@ Total needing renewal:        1141
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (91) ---
+--- Unmatched DFPR (Manual Review) (92) ---
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   WOODS ULMA                          | Exp: 04/30/2028
   STANOEV MIODRAG                     | Exp: 04/30/2028
@@ -1087,6 +1086,7 @@ Total needing renewal:        1141
   HARLOW LYLE                         | Exp: 04/30/2027
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
+  THOMAS LONNIE                       | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
