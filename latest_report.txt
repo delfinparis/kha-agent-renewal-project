@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-08-31
+[KHA] License Renewal Report — 2026-09-01
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     832
+REMOVE (already renewed):     831
 KEEP (needs renewal):         161
-KEEP (no match in DFPR):      979
-Total needing renewal:        1140
+KEEP (no match in DFPR):      980
+Total needing renewal:        1141
 
---- Agents Who Renewed (832) ---
+--- Agents Who Renewed (831) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -325,7 +325,6 @@ Total needing renewal:        1140
   James Garrison                      | expires 04/30/2028 (already renewed)
   James Gentile                       | expires 04/30/2028 (already renewed)
   James LaCassa                       | expires 04/30/2028 (already renewed)
-  James LaRue                         | expires 04/30/2028 (already renewed)
   James Mason                         | expires 04/30/2028 (already renewed)
   James Matheny                       | expires 04/30/2028 (already renewed)
   James Pink                          | expires 04/30/2028 (already renewed)
@@ -1013,6 +1012,7 @@ Total needing renewal:        1140
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
   LAPINSKAS UGNE                      | Exp: 04/30/2028
   ZHUANG TIANLEI                      | Exp: 04/30/2028
+  THOMAS LONNIE                       | Exp: 04/30/2028
   PURNELL ERICA                       | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
@@ -1086,7 +1086,6 @@ Total needing renewal:        1140
   HARLOW LYLE                         | Exp: 04/30/2027
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
-  THOMAS LONNIE                       | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
