@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-01
+[KHA] License Renewal Report — 2026-09-02
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     831
-KEEP (needs renewal):         161
-KEEP (no match in DFPR):      980
-Total needing renewal:        1141
+REMOVE (already renewed):     835
+KEEP (needs renewal):         160
+KEEP (no match in DFPR):      978
+Total needing renewal:        1138
 
---- Agents Who Renewed (831) ---
+--- Agents Who Renewed (835) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -60,6 +60,7 @@ Total needing renewal:        1141
   Andrea Owens                        | expires 04/30/2028 (already renewed)
   Andrea Pesce                        | expires 04/30/2028 (already renewed)
   Andres Garibay                      | expires 04/30/2028 (already renewed)
+  Andres Montoya                      | expires 04/30/2028 (already renewed)
   Andres Mota Ruiz                    | expires 04/30/2028 (already renewed)
   Andrew Nathan                       | expires 04/30/2027 (already renewed)
   Andrew Taylor                       | expires 04/30/2028 (already renewed)
@@ -442,6 +443,7 @@ Total needing renewal:        1141
   Kim Hamilton                        | expires 04/30/2028 (already renewed)
   Kim Woods                           | expires 04/30/2028 (already renewed)
   Kimberly Bulow                      | expires 04/30/2028 (already renewed)
+  Kimberly Griggs                     | expires 04/30/2028 (already renewed)
   Kimberly Townsend                   | expires 04/30/2028 (already renewed)
   Kimberly Ziyavo                     | expires 04/30/2028 (already renewed)
   Kristen OVerlock                    | expires 04/30/2028 (already renewed)
@@ -702,6 +704,7 @@ Total needing renewal:        1141
   Sandrine Scott                      | expires 04/30/2028 (already renewed)
   Sanhita Agnihotri                   | expires 04/30/2028 (already renewed)
   Sanjay Kumar                        | expires 04/30/2028 (already renewed)
+  Sanjay Patel                        | expires 04/30/2028 (already renewed)
   Sarah Heise                         | expires 04/30/2028 (already renewed)
   Sarita Scherpereel                  | expires 04/30/2027 (already renewed)
   Sathish Sekar                       | expires 04/30/2028 (already renewed)
@@ -802,6 +805,7 @@ Total needing renewal:        1141
   Vanessa Gonzalez                    | expires 04/30/2027 (already renewed)
   Varun Khanna                        | expires 04/30/2028 (already renewed)
   Varun Malhotra                      | expires 04/30/2028 (already renewed)
+  Vasyl Levchenko                     | expires 04/30/2028 (already renewed)
   Vera Shlain                         | expires 04/30/2028 (already renewed)
   Vernita Miller                      | expires 04/30/2028 (already renewed)
   Vianney Magsino                     | expires 04/30/2028 (already renewed)
@@ -840,7 +844,7 @@ Total needing renewal:        1141
   Zenecia Anderson                    | expires 04/30/2028 (already renewed)
   Zumreta Hadzic                      | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (161) ---
+--- Agents Still Needing Renewal (160) ---
   Abdelrahman Kadadha                 | expires 04/30/2026 (needs renewal)
   Aileen Youkhanis                    | expires 04/30/2026 (needs renewal)
   Alisha Harris                       | expires 04/30/2026 (needs renewal)
@@ -992,7 +996,6 @@ Total needing renewal:        1141
   Umme-Hani Carbide                   | expires 04/30/2026 (needs renewal)
   Vanessa Martinez-Torres             | expires 04/30/2026 (needs renewal)
   Vasundhra Kumar                     | expires 04/30/2026 (needs renewal)
-  Vasyl Levchenko                     | expires 04/30/2026 (needs renewal)
   Victoria Cruz                       | expires 04/30/2026 (needs renewal)
   Vincent Bolden                      | expires 04/30/2026 (needs renewal)
   Vinhtuong Nguyen                    | expires 04/30/2026 (needs renewal)
@@ -1025,9 +1028,9 @@ Total needing renewal:        1141
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
-  BARRAZA LUCIA                       | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
+  BARRAZA LUCIA                       | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
   CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
@@ -1079,13 +1082,13 @@ Total needing renewal:        1141
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
-  BOOTH LAKEISHA                      | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
+  BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
