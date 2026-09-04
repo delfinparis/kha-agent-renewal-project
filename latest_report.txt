@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-03
+[KHA] License Renewal Report — 2026-09-04
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     837
+REMOVE (already renewed):     836
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      976
-Total needing renewal:        1136
+KEEP (no match in DFPR):      981
+Total needing renewal:        1141
 
---- Agents Who Renewed (837) ---
+--- Agents Who Renewed (836) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -430,7 +430,6 @@ Total needing renewal:        1136
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
   Kenyatta Butcher                    | expires 04/30/2028 (already renewed)
   Ketki Parmar                        | expires 04/30/2028 (already renewed)
-  Kevin Barnett                       | expires 04/30/2028 (already renewed)
   Kevin Coleman                       | expires 04/30/2028 (already renewed)
   Kevin Delgado                       | expires 04/30/2028 (already renewed)
   Kevin Forrest                       | expires 04/30/2028 (already renewed)
@@ -1008,7 +1007,7 @@ Total needing renewal:        1136
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (90) ---
+--- Unmatched DFPR (Manual Review) (92) ---
   WOODS ULMA                          | Exp: 04/30/2028
   STANOEV MIODRAG                     | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
@@ -1089,7 +1088,9 @@ Total needing renewal:        1136
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
+  FOGUE WAMBO LEON                    | Exp: 04/30/2027
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
+  WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
