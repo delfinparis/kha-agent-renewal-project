@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-09-09
+[KHA] License Renewal Report — 2026-09-10
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     841
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      977
-Total needing renewal:        1137
+KEEP (no match in DFPR):      976
+Total needing renewal:        1136
 
 --- Agents Who Renewed (841) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -356,6 +356,7 @@ Total needing renewal:        1137
   Jeff Mayra                          | expires 04/30/2028 (already renewed)
   Jeff Osuji                          | expires 04/30/2028 (already renewed)
   Jennifer Hall                       | expires 04/30/2028 (already renewed)
+  Jennifer Holt-Tucker                | expires 04/30/2028 (already renewed)
   Jennifer Rodriguez                  | expires 04/30/2028 (already renewed)
   Jennifer Wei                        | expires 04/30/2028 (already renewed)
   Jennifer Willis- Doyle              | expires 04/30/2028 (already renewed)
@@ -430,7 +431,6 @@ Total needing renewal:        1137
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
   Kenyatta Butcher                    | expires 04/30/2028 (already renewed)
   Ketki Parmar                        | expires 04/30/2028 (already renewed)
-  Kevin Coleman                       | expires 04/30/2028 (already renewed)
   Kevin Delgado                       | expires 04/30/2028 (already renewed)
   Kevin Forrest                       | expires 04/30/2028 (already renewed)
   Kevin McCann                        | expires 04/30/2028 (already renewed)
@@ -1012,7 +1012,7 @@ Total needing renewal:        1137
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (93) ---
+--- Unmatched DFPR (Manual Review) (92) ---
   WOODS ULMA                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -1022,7 +1022,6 @@ Total needing renewal:        1137
   ZHUANG TIANLEI                      | Exp: 04/30/2028
   THOMAS LONNIE                       | Exp: 04/30/2028
   PURNELL ERICA                       | Exp: 04/30/2028
-  ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
   PRYMA JIM                           | Exp: 04/30/2028
@@ -1039,6 +1038,7 @@ Total needing renewal:        1137
   BARRAZA LUCIA                       | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
+  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   AUNG MAUNG SAN                      | Exp: 04/30/2028
   CONWAY AZADEH                       | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
@@ -1048,12 +1048,12 @@ Total needing renewal:        1137
   BELL CHARLES                        | Exp: 04/30/2028
   ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
+  HASSAN SYED                         | Exp: 04/30/2028
   OLMOS ESTRADA CONSTANCE             | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
   WALKER-STARR APRIL                  | Exp: 04/30/2028
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
-  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   MURTISHI JETON                      | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   MACNEIL ROBERT                      | Exp: 04/30/2028
@@ -1061,7 +1061,6 @@ Total needing renewal:        1137
   MEYER LUZ                           | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
-  HASSAN SYED                         | Exp: 04/30/2028
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
