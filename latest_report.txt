@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-14
+[KHA] License Renewal Report — 2026-09-15
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     841
+REMOVE (already renewed):     842
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      978
-Total needing renewal:        1138
+KEEP (no match in DFPR):      979
+Total needing renewal:        1139
 
---- Agents Who Renewed (841) ---
+--- Agents Who Renewed (842) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -425,12 +425,13 @@ Total needing renewal:        1138
   Kelli Harsch                        | expires 04/30/2028 (already renewed)
   Kelly Chapman                       | expires 04/30/2028 (already renewed)
   Kelly RIch                          | expires 04/30/2028 (already renewed)
-  Kelly Walkner                       | expires 04/30/2028 (already renewed)
   Kena Pastore                        | expires 04/30/2028 (already renewed)
   Kenneth Furth                       | expires 04/30/2028 (already renewed)
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
   Kenyatta Butcher                    | expires 04/30/2028 (already renewed)
   Ketki Parmar                        | expires 04/30/2028 (already renewed)
+  Kevin Barnett                       | expires 04/30/2028 (already renewed)
+  Kevin Coleman                       | expires 04/30/2028 (already renewed)
   Kevin Delgado                       | expires 04/30/2028 (already renewed)
   Kevin Forrest                       | expires 04/30/2028 (already renewed)
   Kevin McCann                        | expires 04/30/2028 (already renewed)
@@ -1012,7 +1013,7 @@ Total needing renewal:        1138
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (92) ---
+--- Unmatched DFPR (Manual Review) (93) ---
   WOODS ULMA                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -1105,3 +1106,4 @@ Total needing renewal:        1138
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   LOPEZ FRANCISCO                     | Exp: 04/30/2028
+  ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
