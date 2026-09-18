@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-17
+[KHA] License Renewal Report — 2026-09-18
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     842
+REMOVE (already renewed):     845
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      982
-Total needing renewal:        1142
+KEEP (no match in DFPR):      979
+Total needing renewal:        1139
 
---- Agents Who Renewed (842) ---
+--- Agents Who Renewed (845) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -19,6 +19,7 @@ Total needing renewal:        1142
   Adam Barrera                        | expires 04/30/2028 (already renewed)
   Adam Ibrahim                        | expires 04/30/2028 (already renewed)
   Adarsh Parikh                       | expires 04/30/2028 (already renewed)
+  Adeel Makda                         | expires 04/30/2028 (already renewed)
   Adrian Martinez                     | expires 04/30/2028 (already renewed)
   Adriana Hernandez                   | expires 04/30/2028 (already renewed)
   Adriana Mroczka                     | expires 04/30/2028 (already renewed)
@@ -78,6 +79,7 @@ Total needing renewal:        1142
   Annie Lam                           | expires 04/30/2028 (already renewed)
   Annie Roberts                       | expires 04/30/2028 (already renewed)
   Anthony Canty                       | expires 04/30/2027 (already renewed)
+  Anthony Gelazius                    | expires 04/30/2028 (already renewed)
   Anthony Gonzalez                    | expires 04/30/2028 (already renewed)
   Anthony Siwinski                    | expires 04/30/2028 (already renewed)
   Antonia Di Meola                    | expires 04/30/2028 (already renewed)
@@ -804,6 +806,7 @@ Total needing renewal:        1142
   Trisha Japlit-Lee                   | expires 04/30/2028 (already renewed)
   Trisha Koors                        | expires 04/30/2028 (already renewed)
   Troy Marr                           | expires 07/31/2026 (already renewed)
+  Tyrone Hueston                      | expires 04/30/2028 (already renewed)
   Ubair Siddiqui                      | expires 04/30/2028 (already renewed)
   VICTOR CANELAS                      | expires 04/30/2028 (already renewed)
   Vadim Shifrin                       | expires 04/30/2028 (already renewed)
@@ -1020,7 +1023,6 @@ Total needing renewal:        1142
   MROZ DANUTA                         | Exp: 04/30/2028
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
   LAPINSKAS UGNE                      | Exp: 04/30/2028
-  ZHUANG TIANLEI                      | Exp: 04/30/2028
   THOMAS LONNIE                       | Exp: 04/30/2028
   PURNELL ERICA                       | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
@@ -1029,6 +1031,7 @@ Total needing renewal:        1142
   DELANEY JENNIFER                    | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
+  ZHUANG TIANLEI                      | Exp: 04/30/2028
   WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
@@ -1039,7 +1042,6 @@ Total needing renewal:        1142
   BARRAZA LUCIA                       | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
-  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   AUNG MAUNG SAN                      | Exp: 04/30/2028
   CONWAY AZADEH                       | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
@@ -1049,12 +1051,12 @@ Total needing renewal:        1142
   BELL CHARLES                        | Exp: 04/30/2028
   ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
-  HASSAN SYED                         | Exp: 04/30/2028
   OLMOS ESTRADA CONSTANCE             | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
   WALKER-STARR APRIL                  | Exp: 04/30/2028
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
+  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   MURTISHI JETON                      | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   MACNEIL ROBERT                      | Exp: 04/30/2028
@@ -1062,6 +1064,7 @@ Total needing renewal:        1142
   MEYER LUZ                           | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
+  HASSAN SYED                         | Exp: 04/30/2028
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
@@ -1094,7 +1097,6 @@ Total needing renewal:        1142
   HARLOW LYLE                         | Exp: 04/30/2027
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
-  FOGUE WAMBO LEON                    | Exp: 04/30/2027
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
@@ -1107,3 +1109,4 @@ Total needing renewal:        1142
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   LOPEZ FRANCISCO                     | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
+  FOGUE WAMBO LEON                    | Exp: 04/30/2027
