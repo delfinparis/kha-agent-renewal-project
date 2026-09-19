@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-18
+[KHA] License Renewal Report — 2026-09-19
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     845
+REMOVE (already renewed):     846
 KEEP (needs renewal):         160
 KEEP (no match in DFPR):      979
 Total needing renewal:        1139
 
---- Agents Who Renewed (845) ---
+--- Agents Who Renewed (846) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -106,6 +106,7 @@ Total needing renewal:        1139
   Bernina Norton                      | expires 04/30/2028 (already renewed)
   Bianca Walker                       | expires 04/30/2028 (already renewed)
   Biekhal Alkhalifa                   | expires 04/30/2028 (already renewed)
+  Bosede Enyiema                      | expires 04/30/2028 (already renewed)
   Brad Etlin                          | expires 04/30/2028 (already renewed)
   Brahmam Gandham                     | expires 04/30/2028 (already renewed)
   Brandon Engle                       | expires 04/30/2028 (already renewed)
@@ -1104,9 +1105,9 @@ Total needing renewal:        1139
   GUNO DOMINADOR                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
-  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   LOPEZ FRANCISCO                     | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
+  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
