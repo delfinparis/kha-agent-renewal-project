@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-21
+[KHA] License Renewal Report — 2026-09-22
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     846
+REMOVE (already renewed):     845
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      979
-Total needing renewal:        1139
+KEEP (no match in DFPR):      980
+Total needing renewal:        1140
 
---- Agents Who Renewed (846) ---
+--- Agents Who Renewed (845) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -769,7 +769,6 @@ Total needing renewal:        1139
   Syed Lateef                         | expires 04/30/2028 (already renewed)
   Sylvia Magallanes                   | expires 04/30/2028 (already renewed)
   Syreeta Houston                     | expires 04/30/2028 (already renewed)
-  TaCara Thomas                       | expires 04/30/2028 (already renewed)
   Tabish Khan                         | expires 04/30/2028 (already renewed)
   Tai Lowery                          | expires 04/30/2028 (already renewed)
   Talia Tucci                         | expires 04/30/2028 (already renewed)
@@ -1070,6 +1069,7 @@ Total needing renewal:        1139
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   XIN JIAKUN                          | Exp: 04/30/2027
+  WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
@@ -1099,15 +1099,14 @@ Total needing renewal:        1139
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
-  WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
+  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   LOPEZ FRANCISCO                     | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
-  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
