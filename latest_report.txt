@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-22
+[KHA] License Renewal Report — 2026-09-23
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     845
+REMOVE (already renewed):     846
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      980
-Total needing renewal:        1140
+KEEP (no match in DFPR):      979
+Total needing renewal:        1139
 
---- Agents Who Renewed (845) ---
+--- Agents Who Renewed (846) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -245,6 +245,7 @@ Total needing renewal:        1140
   Eric Hu                             | expires 04/30/2028 (already renewed)
   Eric Jackson                        | expires 04/30/2028 (already renewed)
   Eric Rojas                          | expires 04/30/2028 (already renewed)
+  Erica Purnell                       | expires 04/30/2028 (already renewed)
   Erick Zambrano                      | expires 04/30/2028 (already renewed)
   Erik Palmerin                       | expires 04/30/2028 (already renewed)
   Erikka English                      | expires 04/30/2028 (already renewed)
@@ -1023,15 +1024,14 @@ Total needing renewal:        1140
   MROZ DANUTA                         | Exp: 04/30/2028
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
   LAPINSKAS UGNE                      | Exp: 04/30/2028
+  ZHUANG TIANLEI                      | Exp: 04/30/2028
   THOMAS LONNIE                       | Exp: 04/30/2028
-  PURNELL ERICA                       | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
   PRYMA JIM                           | Exp: 04/30/2028
   DELANEY JENNIFER                    | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
-  ZHUANG TIANLEI                      | Exp: 04/30/2028
   WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
@@ -1039,7 +1039,6 @@ Total needing renewal:        1140
   ZALESKI MARIA                       | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
-  BARRAZA LUCIA                       | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
   AUNG MAUNG SAN                      | Exp: 04/30/2028
@@ -1069,6 +1068,7 @@ Total needing renewal:        1140
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   XIN JIAKUN                          | Exp: 04/30/2027
+  JACKSON CHIQUITA                    | Exp: 07/31/2028
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
@@ -1096,6 +1096,7 @@ Total needing renewal:        1140
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
+  TAHI COLIN                          | Exp: 07/31/2028
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
