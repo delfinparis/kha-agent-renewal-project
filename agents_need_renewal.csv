@@ -75,8 +75,8 @@ Mary,Maxwell,471009058,359617399,Kale Agents
 Bob,DePalma,475122090,359616789,Kale Agents
 Yelena,Straight,475154272,359620383,Kale Agents
 Elena,Awan,475145875,743731929,Kale Agents
-QA,FAKE COACH - DO NOT USE,,12509895821,Kale Agents
-QA,FAKE COACHEE - DO NOT USE,,12509895750,Kale Agents
+N/A,N/A,N/A,12509895821,Kale Agents
+N/A,N/A,N/A,12509895750,Kale Agents
 Shah,Syed,475214428,11784409122,Kale Agents
 Cassandra,Seawood,475112197,1546908616,Kale Agents
 Rea,Endaya,,12821157768,Agent Intake / Review
@@ -90,6 +90,7 @@ QA,FINAL 2 No Transactions 2026 08 21,,12868525911,Agent Intake / Review
 QA,FINAL 3 License Issue Yes 2026 08 21,,12868550488,Agent Intake / Review
 QA,FINAL 4 Clean Experienced 2026 08 21,,12868516369,Agent Intake / Review
 TEST,Rea Endaya,,12881750076,Agent Intake / Review
+Brian,Wilson,,13117566564,Agent Intake / Review
 Rob,,,12795179389,DEMO • Agent Intake / Review
 Rob,,,12795216262,DEMO • Agent Intake / Review
 Rob,,,12798990830,DEMO • Agent Intake / Review
@@ -925,6 +926,7 @@ Jesse,Frageman,475165745,1872295786,Terminated Agents we want back
 Mitch,Gundogdu,475151605,359616790,Terminated Agents we want back
 George,Arvanitis,,12894364640,Terminated Agents we want back
 Muhammad Salman,Zubairy,475218957,11683662404,Terminated Agents we want back
+Lucia,Ontiveros,475193529,5894868356,Terminated Agents we want back
 Amadou Tee,Lam,475172058,11074496695,Terminated Agents we do NOT want back
 Gregory,Rowe,,18387932250,Terminated Agents we do NOT want back
 Michael,Wolski,475136805,9657097076,Terminated Agents we do NOT want back
