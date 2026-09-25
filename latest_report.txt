@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-24
+[KHA] License Renewal Report — 2026-09-25
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     848
+REMOVE (already renewed):     847
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      981
-Total needing renewal:        1141
+KEEP (no match in DFPR):      984
+Total needing renewal:        1144
 
---- Agents Who Renewed (848) ---
+--- Agents Who Renewed (847) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -340,7 +340,6 @@ Total needing renewal:        1141
   James Wong                          | expires 04/30/2028 (already renewed)
   Jamey Johnson                       | expires 04/30/2028 (already renewed)
   Jane Jeon                           | expires 04/30/2028 (already renewed)
-  Janet Casalina                      | expires 04/30/2028 (already renewed)
   Janet Castro                        | expires 04/30/2028 (already renewed)
   Janet Ocampo                        | expires 04/30/2028 (already renewed)
   Janice Byfield                      | expires 04/30/2028 (already renewed)
@@ -1019,7 +1018,7 @@ Total needing renewal:        1141
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (94) ---
+--- Unmatched DFPR (Manual Review) (92) ---
   WOODS ULMA                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -1070,7 +1069,6 @@ Total needing renewal:        1141
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   XIN JIAKUN                          | Exp: 04/30/2027
-  JACKSON CHIQUITA                    | Exp: 07/31/2028
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
@@ -1098,7 +1096,6 @@ Total needing renewal:        1141
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
-  TAHI COLIN                          | Exp: 07/31/2028
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
