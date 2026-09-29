@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-09-27
+[KHA] License Renewal Report — 2026-09-29
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     852
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      980
-Total needing renewal:        1140
+KEEP (no match in DFPR):      982
+Total needing renewal:        1142
 
 --- Agents Who Renewed (852) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -1074,7 +1074,6 @@ Total needing renewal:        1140
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   XIN JIAKUN                          | Exp: 04/30/2027
-  WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
@@ -1104,6 +1103,7 @@ Total needing renewal:        1140
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
+  WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
