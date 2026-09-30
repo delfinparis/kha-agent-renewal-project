@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-09-29
+[KHA] License Renewal Report — 2026-09-30
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     852
+REMOVE (already renewed):     853
 KEEP (needs renewal):         160
-KEEP (no match in DFPR):      982
-Total needing renewal:        1142
+KEEP (no match in DFPR):      980
+Total needing renewal:        1140
 
---- Agents Who Renewed (852) ---
+--- Agents Who Renewed (853) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -117,6 +117,7 @@ Total needing renewal:        1142
   Brian Thomas                        | expires 04/30/2028 (already renewed)
   Brian Vega                          | expires 04/30/2028 (already renewed)
   Brian Wacht                         | expires 04/30/2028 (already renewed)
+  Brian Wilson                        | expires 04/30/2027 (already renewed)
   Brittany Chapple                    | expires 04/30/2028 (already renewed)
   Brittany Holyfield                  | expires 04/30/2028 (already renewed)
   Bryan Keubeng                       | expires 04/30/2028 (already renewed)
@@ -451,6 +452,7 @@ Total needing renewal:        1142
   Kim Woods                           | expires 04/30/2028 (already renewed)
   Kimberly Bulow                      | expires 04/30/2028 (already renewed)
   Kimberly Griggs                     | expires 04/30/2028 (already renewed)
+  Kimberly Piccirilli                 | expires 04/30/2028 (already renewed)
   Kimberly Townsend                   | expires 04/30/2028 (already renewed)
   Kimberly Ziyavo                     | expires 04/30/2028 (already renewed)
   Kristen OVerlock                    | expires 04/30/2028 (already renewed)
@@ -815,7 +817,6 @@ Total needing renewal:        1142
   Tyrone Hueston                      | expires 04/30/2028 (already renewed)
   Ubair Siddiqui                      | expires 04/30/2028 (already renewed)
   Umraan Syed                         | expires 04/30/2028 (already renewed)
-  VICTOR CANELAS                      | expires 04/30/2028 (already renewed)
   Vadim Shifrin                       | expires 04/30/2028 (already renewed)
   Vance Catlin                        | expires 04/30/2027 (already renewed)
   Vandita Pateriya                    | expires 04/30/2028 (already renewed)
@@ -1054,7 +1055,6 @@ Total needing renewal:        1142
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   BELL CHARLES                        | Exp: 04/30/2028
-  ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
@@ -1066,6 +1066,7 @@ Total needing renewal:        1142
   MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
+  ADAMS LINDSAY                       | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
   HASSAN SYED                         | Exp: 04/30/2028
