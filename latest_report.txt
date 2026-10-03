@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-02
+[KHA] License Renewal Report — 2026-10-03
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     849
+REMOVE (already renewed):     847
 KEEP (needs renewal):         160
 KEEP (no match in DFPR):      980
 Total needing renewal:        1140
 
---- Agents Who Renewed (849) ---
+--- Agents Who Renewed (847) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -135,7 +135,6 @@ Total needing renewal:        1140
   Cassandra Muhammad                  | expires 04/30/2028 (already renewed)
   Catherine Craighead                 | expires 04/30/2028 (already renewed)
   Catty Salgado                       | expires 04/30/2028 (already renewed)
-  Cennet Gundogdu                     | expires 04/30/2028 (already renewed)
   Cesar Arana                         | expires 04/30/2028 (already renewed)
   Cesar Gonzalez                      | expires 04/30/2028 (already renewed)
   Chad Rapsky                         | expires 04/30/2028 (already renewed)
@@ -234,7 +233,6 @@ Total needing renewal:        1140
   Eliana Smaglinski                   | expires 04/30/2028 (already renewed)
   Elijah Olasunkanmi                  | expires 04/30/2028 (already renewed)
   Elizabeth Elie                      | expires 04/30/2028 (already renewed)
-  Elizabeth Ortega                    | expires 04/30/2028 (already renewed)
   Elizabeth Robinson                  | expires 04/30/2028 (already renewed)
   Elyahu Herszberg                    | expires 04/30/2028 (already renewed)
   Emily Beaufort                      | expires 04/30/2028 (already renewed)
@@ -1035,11 +1033,11 @@ Total needing renewal:        1140
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
   ZHUANG TIANLEI                      | Exp: 04/30/2028
+  WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
-  WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
