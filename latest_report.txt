@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-05
+[KHA] License Renewal Report — 2026-10-06
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     847
+REMOVE (already renewed):     846
 KEEP (needs renewal):         160
 KEEP (no match in DFPR):      980
 Total needing renewal:        1140
 
---- Agents Who Renewed (847) ---
+--- Agents Who Renewed (846) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -70,7 +70,6 @@ Total needing renewal:        1140
   Andy Andrade                        | expires 04/30/2027 (already renewed)
   Angela Beckham                      | expires 04/30/2028 (already renewed)
   Anjali Khetarpal                    | expires 04/30/2028 (already renewed)
-  Anju Gogana                         | expires 04/30/2028 (already renewed)
   Ankica Kikas                        | expires 04/30/2028 (already renewed)
   Anna Comer                          | expires 04/30/2028 (already renewed)
   Anna Forkan                         | expires 04/30/2028 (already renewed)
@@ -1140,6 +1139,7 @@ Total needing renewal:        1140
   GUNO DOMINADOR                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
+  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
@@ -1150,4 +1150,3 @@ Total needing renewal:        1140
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   JORDAN ROBERT D                     | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
-  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
