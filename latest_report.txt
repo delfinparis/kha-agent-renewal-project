@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-07
+[KHA] License Renewal Report — 2026-10-08
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     856
+REMOVE (already renewed):     857
 KEEP (needs renewal):         160
 KEEP (no match in DFPR):      981
 Total needing renewal:        1141
 
---- Agents Who Renewed (856) ---
+--- Agents Who Renewed (857) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -687,6 +687,7 @@ Total needing renewal:        1141
   Renee Matthews-Cravens              | expires 04/30/2028 (already renewed)
   Revae Schneider                     | expires 04/30/2028 (already renewed)
   Rhyan Curtis                        | expires 04/30/2028 (already renewed)
+  Ricardo Jimenez                     | expires 04/30/2028 (already renewed)
   Richard Hosmer                      | expires 04/30/2028 (already renewed)
   Richard Vazquez                     | expires 04/30/2028 (already renewed)
   Rimonda Roeil                       | expires 04/30/2028 (already renewed)
@@ -1198,7 +1199,6 @@ Total needing renewal:        1141
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
-  SHOFIDIYA RASHEED                   | Exp: 04/30/2028
   BARROSO WILLIAM                     | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
@@ -1213,6 +1213,7 @@ Total needing renewal:        1141
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   REYNOLDS TERESA                     | Exp: 07/31/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
+  SHOFIDIYA RASHEED                   | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   LEVCHENKO VASYL                     | Exp: 04/30/2028
   LEVCHENKO VASYL                     | Exp: 04/30/2028
