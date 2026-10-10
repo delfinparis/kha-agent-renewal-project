@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-09
+[KHA] License Renewal Report — 2026-10-10
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     862
+REMOVE (already renewed):     861
 KEEP (needs renewal):         159
 KEEP (no match in DFPR):      979
 Total needing renewal:        1138
 
---- Agents Who Renewed (862) ---
+--- Agents Who Renewed (861) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -337,7 +337,6 @@ Total needing renewal:        1138
   James LaCassa                       | expires 04/30/2028 (already renewed)
   James LaRue                         | expires 04/30/2028 (already renewed)
   James Mason                         | expires 04/30/2028 (already renewed)
-  James Matheny                       | expires 04/30/2028 (already renewed)
   James Pink                          | expires 04/30/2028 (already renewed)
   James Richard                       | expires 04/30/2028 (already renewed)
   James Walsh                         | expires 04/30/2028 (already renewed)
@@ -1057,13 +1056,13 @@ Total needing renewal:        1138
   PHILLIPS SEDONIA                    | Exp: 04/30/2027
   SCHERPEREEL SARITA                  | Exp: 04/30/2027
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
+  MUSKAL CATHLEEN                     | Exp: 04/30/2028
   SEUFERT CAROLINE R                  | Exp: 04/30/2028
   BARRE MELISSA                       | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
   CULLINA DAVID                       | Exp: 04/30/2028
   HORNBERGER TODD                     | Exp: 04/30/2028
   WYATT JONATHAN ALLEN                | Exp: 04/30/2028
-  MUSKAL CATHLEEN                     | Exp: 04/30/2028
   WONG JAMES                          | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
