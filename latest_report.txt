@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-10-12
+[KHA] License Renewal Report — 2026-10-13
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     861
 KEEP (needs renewal):         159
-KEEP (no match in DFPR):      979
-Total needing renewal:        1138
+KEEP (no match in DFPR):      981
+Total needing renewal:        1140
 
 --- Agents Who Renewed (861) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -1098,7 +1098,6 @@ Total needing renewal:        1138
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MODI NISHANT                        | Exp: 04/30/2028
-  MUSKAL CATHLEEN                     | Exp: 04/30/2028
   ORTIZ MARIA                         | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
   LIU ALEX                            | Exp: 04/30/2028
@@ -1117,6 +1116,7 @@ Total needing renewal:        1138
   MAEDA MARINA                        | Exp: 04/30/2028
   WILLIS-DOYLE JENNIFER               | Exp: 04/30/2028
   JAHANGIRI SIAMAK                    | Exp: 04/30/2028
+  MUSKAL CATHLEEN                     | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
