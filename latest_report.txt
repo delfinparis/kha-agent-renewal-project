@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-10-14
+[KHA] License Renewal Report — 2026-10-15
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     861
 KEEP (needs renewal):         159
-KEEP (no match in DFPR):      981
-Total needing renewal:        1140
+KEEP (no match in DFPR):      980
+Total needing renewal:        1139
 
 --- Agents Who Renewed (861) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -1031,7 +1031,7 @@ Total needing renewal:        1140
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (92) ---
+--- Unmatched DFPR (Manual Review) (91) ---
   WOODS ULMA                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -1045,7 +1045,6 @@ Total needing renewal:        1140
   DELANEY JENNIFER                    | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
-  ZHUANG TIANLEI                      | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
@@ -1062,6 +1061,7 @@ Total needing renewal:        1140
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   BELL CHARLES                        | Exp: 04/30/2028
+  ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
@@ -1073,7 +1073,6 @@ Total needing renewal:        1140
   MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
-  ADAMS LINDSAY                       | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
   HASSAN SYED                         | Exp: 04/30/2028
@@ -1115,6 +1114,7 @@ Total needing renewal:        1140
   BOVYN DAVID                         | Exp: 04/30/2028
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
+  REHMAN SALMAN                       | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
@@ -1122,5 +1122,4 @@ Total needing renewal:        1140
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   GUNO DOMINADOR                      | Exp: 04/30/2028
-  REHMAN SALMAN                       | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
