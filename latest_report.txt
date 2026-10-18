@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-16
+[KHA] License Renewal Report — 2026-10-18
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     858
+REMOVE (already renewed):     852
 KEEP (needs renewal):         159
-KEEP (no match in DFPR):      980
-Total needing renewal:        1139
+KEEP (no match in DFPR):      981
+Total needing renewal:        1140
 
---- Agents Who Renewed (858) ---
+--- Agents Who Renewed (852) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -87,7 +87,6 @@ Total needing renewal:        1139
   Antonio Cox                         | expires 04/30/2028 (already renewed)
   Arielle Henry                       | expires 04/30/2028 (already renewed)
   Ariz Gohar                          | expires 04/30/2028 (already renewed)
-  Armarion Bryant                     | expires 04/30/2028 (already renewed)
   Armond Davis                        | expires 04/30/2028 (already renewed)
   Artem Maydan                        | expires 04/30/2028 (already renewed)
   Arvin Javier                        | expires 04/30/2028 (already renewed)
@@ -408,7 +407,6 @@ Total needing renewal:        1139
   Joshua Deanes                       | expires 04/30/2028 (already renewed)
   Joshua Garcia                       | expires 04/30/2027 (already renewed)
   Juan Peguero                        | expires 04/30/2028 (already renewed)
-  Judy Wilson-Rose                    | expires 04/30/2028 (already renewed)
   Jugad Sidhu                         | expires 04/30/2028 (already renewed)
   Julia Nicholas                      | expires 04/30/2028 (already renewed)
   Julie Chen                          | expires 04/30/2028 (already renewed)
@@ -417,7 +415,6 @@ Total needing renewal:        1139
   Jun Li                              | expires 04/30/2028 (already renewed)
   Junaid Fahmi                        | expires 04/30/2028 (already renewed)
   Jurgen Frank                        | expires 04/30/2028 (already renewed)
-  Juwan Cross                         | expires 04/30/2028 (already renewed)
   Kaitlyn Alphonse                    | expires 04/30/2028 (already renewed)
   Kari Torkelson                      | expires 04/30/2028 (already renewed)
   Karolina Kowalczyk                  | expires 04/30/2028 (already renewed)
@@ -520,7 +517,6 @@ Total needing renewal:        1139
   Mara Greenberg                      | expires 04/30/2028 (already renewed)
   Marcin Krasnowski                   | expires 04/30/2028 (already renewed)
   Marco Rodriguez                     | expires 04/30/2027 (already renewed)
-  Marco Tang                          | expires 04/30/2028 (already renewed)
   Marcus Toussaint                    | expires 04/30/2028 (already renewed)
   Marcus Troutman                     | expires 04/30/2028 (already renewed)
   Margarita Slabada                   | expires 04/30/2028 (already renewed)
@@ -616,7 +612,6 @@ Total needing renewal:        1139
   Nicholas Katsafados                 | expires 04/30/2027 (already renewed)
   Nick Patterson                      | expires 04/30/2027 (already renewed)
   Nicole Cato                         | expires 04/30/2028 (already renewed)
-  Nicole Frlan                        | expires 04/30/2028 (already renewed)
   Nicole Nellums                      | expires 04/30/2028 (already renewed)
   Nicole Valenzuela                   | expires 04/30/2028 (already renewed)
   Nicoll Garry                        | expires 04/30/2028 (already renewed)
@@ -769,7 +764,6 @@ Total needing renewal:        1139
   Stephen Smith                       | expires 04/30/2027 (already renewed)
   Steve Shah                          | expires 04/30/2028 (already renewed)
   Steven Birch                        | expires 04/30/2028 (already renewed)
-  Sugunakar Vangala                   | expires 04/30/2028 (already renewed)
   Summar Othman                       | expires 04/30/2028 (already renewed)
   Sundeep Kak                         | expires 04/30/2028 (already renewed)
   Sung Yoo                            | expires 04/30/2028 (already renewed)
@@ -1099,17 +1093,18 @@ Total needing renewal:        1139
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
+  BOOTH LAKEISHA                      | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
+  GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
-  BOOTH LAKEISHA                      | Exp: 04/30/2028
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
-  GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
+  GUNO DOMINADOR                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
@@ -1118,5 +1113,4 @@ Total needing renewal:        1139
   LOPEZ FRANCISCO                     | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
-  GUNO DOMINADOR                      | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
