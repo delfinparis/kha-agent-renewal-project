@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-23
+[KHA] License Renewal Report — 2026-10-24
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     862
+REMOVE (already renewed):     861
 KEEP (needs renewal):         159
-KEEP (no match in DFPR):      983
-Total needing renewal:        1142
+KEEP (no match in DFPR):      982
+Total needing renewal:        1141
 
---- Agents Who Renewed (862) ---
+--- Agents Who Renewed (861) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -313,7 +313,6 @@ Total needing renewal:        1142
   Hughie Walsh                        | expires 04/30/2028 (already renewed)
   Hussam Adi                          | expires 04/30/2028 (already renewed)
   Iesha Thomas                        | expires 04/30/2028 (already renewed)
-  Ignacio Ochoa                       | expires 04/30/2028 (already renewed)
   Ike Ezeokafor                       | expires 04/30/2028 (already renewed)
   Imad Shehade                        | expires 04/30/2028 (already renewed)
   Imran Mohammed                      | expires 04/30/2028 (already renewed)
@@ -613,7 +612,6 @@ Total needing renewal:        1142
   Nenad Dragojlovich                  | expires 04/30/2028 (already renewed)
   Netonia Burrell                     | expires 04/30/2028 (already renewed)
   Nicci Keating                       | expires 04/30/2028 (already renewed)
-  Nicholas Bailey                     | expires 04/30/2027 (already renewed)
   Nicholas Chiaramonte                | expires 04/30/2028 (already renewed)
   Nicholas Coticchio                  | expires 04/30/2028 (already renewed)
   Nicholas Katsafados                 | expires 04/30/2027 (already renewed)
@@ -855,6 +853,7 @@ Total needing renewal:        1142
   Whitney Walker                      | expires 04/30/2027 (already renewed)
   Wilane Boone                        | expires 04/30/2028 (already renewed)
   William Barroso                     | expires 04/30/2028 (already renewed)
+  William Pizzo                       | expires 04/30/2028 (already renewed)
   Willie Garcia                       | expires 04/30/2028 (already renewed)
   Wolfgang Suess                      | expires 04/30/2028 (already renewed)
   Xin Fan                             | expires 04/30/2028 (already renewed)
@@ -1074,6 +1073,7 @@ Total needing renewal:        1142
   MURTISHI JETON                      | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   CLYMER KRISTOPHER                   | Exp: 04/30/2028
+  WELLS LAKITA                        | Exp: 04/30/2028
   MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
   DASILVA JONAH                       | Exp: 04/30/2028
@@ -1090,7 +1090,6 @@ Total needing renewal:        1142
   AWAN CARMEN                         | Exp: 04/30/2028
   WEED HOGAN KAREN                    | Exp: 04/30/2028
   STRAIGHT LENA                       | Exp: 04/30/2028
-  WELLS LAKITA                        | Exp: 04/30/2028
   STINSON DERRICK DAVID               | Exp: 04/30/2028
   GAZAFER SYLEJMAN                    | Exp: 04/30/2028
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
@@ -1115,6 +1114,7 @@ Total needing renewal:        1142
   DEPALMA ROBERT                      | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
+  REHMAN SALMAN                       | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
@@ -1123,5 +1123,4 @@ Total needing renewal:        1142
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
   GUNO DOMINADOR                      | Exp: 04/30/2028
-  REHMAN SALMAN                       | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
