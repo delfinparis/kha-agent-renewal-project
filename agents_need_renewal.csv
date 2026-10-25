@@ -70,8 +70,6 @@ Derrick,Stinson,475157401,359620366,Kale Agents
 Mary,Maxwell,471009058,359617399,Kale Agents
 Yelena,Straight,475154272,359620383,Kale Agents
 Elena,Awan,475145875,743731929,Kale Agents
-N/A,N/A,N/A,12509895821,Kale Agents
-N/A,N/A,N/A,12509895750,Kale Agents
 Shah,Syed,475214428,11784409122,Kale Agents
 Rea,Endaya,,12821157768,Agent Intake / Review
 TEST,- Rea Endaya,,12821385953,Agent Intake / Review
@@ -1140,3 +1138,5 @@ Bret,Broaddus,475157735,18376487754,Terminated Agents we do NOT want back
 Autumn,Susberry,475188753,2560782999,Terminated Agents we do NOT want back
 Jasmine,Dixon,475186205,5063522579,Terminated Agents we do NOT want back
 Leon,Wambo,471021184,10695422582,Terminated Agents we do NOT want back
+N/A,N/A,N/A,12509895821,QA Fixtures - DO NOT USE
+N/A,N/A,N/A,12509895750,QA Fixtures - DO NOT USE
