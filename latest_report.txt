@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-26
+[KHA] License Renewal Report — 2026-10-27
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     862
+REMOVE (already renewed):     859
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      982
-Total needing renewal:        1140
+KEEP (no match in DFPR):      983
+Total needing renewal:        1141
 
---- Agents Who Renewed (862) ---
+--- Agents Who Renewed (859) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -552,7 +552,6 @@ Total needing renewal:        1140
   Matt Pearlman                       | expires 04/30/2028 (already renewed)
   Matthew Amir                        | expires 04/30/2028 (already renewed)
   Matthew Borkowski                   | expires 04/30/2028 (already renewed)
-  Matthew Davis                       | expires 04/30/2028 (already renewed)
   Matthew Geisel                      | expires 04/30/2028 (already renewed)
   Matthew Lucas                       | expires 04/30/2028 (already renewed)
   Matthew MacLagan                    | expires 04/30/2027 (already renewed)
@@ -671,7 +670,6 @@ Total needing renewal:        1140
   Piotr Senkow                        | expires 04/30/2028 (already renewed)
   Qiankun Chen                        | expires 04/30/2028 (already renewed)
   Qutbuddin Dalal                     | expires 04/30/2028 (already renewed)
-  Rachel Somers                       | expires 04/30/2028 (already renewed)
   Rafiq Abdullah                      | expires 04/30/2028 (already renewed)
   Raj Patel                           | expires 04/30/2027 (already renewed)
   Rakesh Kumar                        | expires 04/30/2028 (already renewed)
@@ -740,7 +738,6 @@ Total needing renewal:        1140
   Shalita Ativie                      | expires 04/30/2028 (already renewed)
   Shamar Gregg                        | expires 04/30/2028 (already renewed)
   Shannon Polk                        | expires 04/30/2028 (already renewed)
-  Sharlene Kirsch                     | expires 04/30/2028 (already renewed)
   Sharon Harrison                     | expires 04/30/2028 (already renewed)
   Sharon Wolfson                      | expires 04/30/2028 (already renewed)
   Shasha Miao                         | expires 04/30/2028 (already renewed)
@@ -1082,6 +1079,7 @@ Total needing renewal:        1140
   JOHNSON JODY                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
   COTICCHIO NICHOLAS                  | Exp: 04/30/2028
+  WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   MILLER VERNITA                      | Exp: 04/30/2028
   ALQAISI WALEED                      | Exp: 04/30/2028
   GREEN JACQUELINE                    | Exp: 04/30/2028
@@ -1107,7 +1105,6 @@ Total needing renewal:        1140
   FEDOROV PAVLO                       | Exp: 04/30/2028
   MROCZKA ADRIANA                     | Exp: 04/30/2028
   TATED MANALI                        | Exp: 04/30/2028
-  WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   FORKAN ANNA                         | Exp: 04/30/2028
   ALFAKIH ABDULLAH                    | Exp: 04/30/2028
   SALAMI TESLIM                       | Exp: 04/30/2028
@@ -1133,6 +1130,7 @@ Total needing renewal:        1140
   ALKHALIFA BIEKHAL                   | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
+  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   AFRIFAH PATRICK                     | Exp: 04/30/2028
   LUCAS MATTHEW                       | Exp: 04/30/2028
   BERKOWITZ HOWARD                    | Exp: 04/30/2028
@@ -1184,8 +1182,9 @@ Total needing renewal:        1140
   POLLOCK CHRIS                       | Exp: 04/30/2028
   PACHECO CONSUELO                    | Exp: 04/30/2028
   HENNINGTON DARIUS                   | Exp: 04/30/2028
-  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   CIOBANU RELU                        | Exp: 04/30/2027
+  XIN JIAKUN                          | Exp: 04/30/2027
+  XIN JIAKUN                          | Exp: 04/30/2027
   GARCIA JOSHUA                       | Exp: 04/30/2027
   MURTISHI JETON                      | Exp: 04/30/2028
   MURTISHI JETON                      | Exp: 04/30/2028
@@ -1204,8 +1203,6 @@ Total needing renewal:        1140
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   ORTIZ OLIVIA                        | Exp: 04/30/2027
-  XIN JIAKUN                          | Exp: 04/30/2027
-  XIN JIAKUN                          | Exp: 04/30/2027
   JACKSON CHIQUITA                    | Exp: 07/31/2028
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
