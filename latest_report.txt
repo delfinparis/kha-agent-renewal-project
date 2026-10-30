@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-10-29
+[KHA] License Renewal Report — 2026-10-30
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     859
+REMOVE (already renewed):     862
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      984
-Total needing renewal:        1142
+KEEP (no match in DFPR):      985
+Total needing renewal:        1143
 
---- Agents Who Renewed (859) ---
+--- Agents Who Renewed (862) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -211,7 +211,6 @@ Total needing renewal:        1142
   Derek Denson                        | expires 04/30/2028 (already renewed)
   Desalegn Kassa                      | expires 04/30/2028 (already renewed)
   Desiree Phipps                      | expires 04/30/2028 (already renewed)
-  Destiny Hite                        | expires 04/30/2028 (already renewed)
   Dev Rijal                           | expires 04/30/2028 (already renewed)
   Dexter Henley Jr                    | expires 04/30/2028 (already renewed)
   Dharon Golding                      | expires 04/30/2028 (already renewed)
@@ -251,7 +250,6 @@ Total needing renewal:        1142
   Erica Purnell                       | expires 04/30/2028 (already renewed)
   Erick Zambrano                      | expires 04/30/2028 (already renewed)
   Erik Palmerin                       | expires 04/30/2028 (already renewed)
-  Erikka English                      | expires 04/30/2028 (already renewed)
   Ernest Caston                       | expires 04/30/2028 (already renewed)
   Ernesto Villa                       | expires 04/30/2028 (already renewed)
   Errol Jones                         | expires 04/30/2028 (already renewed)
@@ -314,6 +312,7 @@ Total needing renewal:        1142
   Hussam Adi                          | expires 04/30/2028 (already renewed)
   Ibrahim Patel                       | expires 04/30/2028 (already renewed)
   Iesha Thomas                        | expires 04/30/2028 (already renewed)
+  Ignacio Ochoa                       | expires 04/30/2028 (already renewed)
   Ike Ezeokafor                       | expires 04/30/2028 (already renewed)
   Imad Shehade                        | expires 04/30/2028 (already renewed)
   Imran Mohammed                      | expires 04/30/2028 (already renewed)
@@ -529,7 +528,6 @@ Total needing renewal:        1142
   MariCarmen Soto                     | expires 04/30/2028 (already renewed)
   Maria Behrens                       | expires 04/30/2028 (already renewed)
   Maria Carreno                       | expires 04/30/2028 (already renewed)
-  Maria Ortiz                         | expires 04/30/2028 (already renewed)
   Mariah Hall                         | expires 04/30/2028 (already renewed)
   Marie Castle                        | expires 04/30/2028 (already renewed)
   Marie Levin                         | expires 04/30/2028 (already renewed)
@@ -552,6 +550,7 @@ Total needing renewal:        1142
   Matt Pearlman                       | expires 04/30/2028 (already renewed)
   Matthew Amir                        | expires 04/30/2028 (already renewed)
   Matthew Borkowski                   | expires 04/30/2028 (already renewed)
+  Matthew Davis                       | expires 04/30/2028 (already renewed)
   Matthew Geisel                      | expires 04/30/2028 (already renewed)
   Matthew Lucas                       | expires 04/30/2028 (already renewed)
   Matthew MacLagan                    | expires 04/30/2027 (already renewed)
@@ -593,6 +592,7 @@ Total needing renewal:        1142
   Mohammed Siddiqui                   | expires 04/30/2028 (already renewed)
   Moira Cahill                        | expires 04/30/2028 (already renewed)
   Molly Shellenberg                   | expires 04/30/2028 (already renewed)
+  Monica Ilea                         | expires 04/30/2028 (already renewed)
   Monica Wong                         | expires 04/30/2028 (already renewed)
   Monique Booth                       | expires 04/30/2028 (already renewed)
   Monique Brewer                      | expires 04/30/2028 (already renewed)
@@ -612,6 +612,7 @@ Total needing renewal:        1142
   Nenad Dragojlovich                  | expires 04/30/2028 (already renewed)
   Netonia Burrell                     | expires 04/30/2028 (already renewed)
   Nicci Keating                       | expires 04/30/2028 (already renewed)
+  Nicholas Bailey                     | expires 04/30/2027 (already renewed)
   Nicholas Chiaramonte                | expires 04/30/2028 (already renewed)
   Nicholas Coticchio                  | expires 04/30/2028 (already renewed)
   Nicholas Katsafados                 | expires 04/30/2027 (already renewed)
@@ -670,6 +671,7 @@ Total needing renewal:        1142
   Piotr Senkow                        | expires 04/30/2028 (already renewed)
   Qiankun Chen                        | expires 04/30/2028 (already renewed)
   Qutbuddin Dalal                     | expires 04/30/2028 (already renewed)
+  Rachel Somers                       | expires 04/30/2028 (already renewed)
   Rafiq Abdullah                      | expires 04/30/2028 (already renewed)
   Raj Patel                           | expires 04/30/2027 (already renewed)
   Rakesh Kumar                        | expires 04/30/2028 (already renewed)
@@ -738,6 +740,7 @@ Total needing renewal:        1142
   Shalita Ativie                      | expires 04/30/2028 (already renewed)
   Shamar Gregg                        | expires 04/30/2028 (already renewed)
   Shannon Polk                        | expires 04/30/2028 (already renewed)
+  Sharlene Kirsch                     | expires 04/30/2028 (already renewed)
   Sharon Harrison                     | expires 04/30/2028 (already renewed)
   Sharon Wolfson                      | expires 04/30/2028 (already renewed)
   Shasha Miao                         | expires 04/30/2028 (already renewed)
