@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-11-03
+[KHA] License Renewal Report — 2026-11-04
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     862
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      988
-Total needing renewal:        1146
+KEEP (no match in DFPR):      987
+Total needing renewal:        1145
 
 --- Agents Who Renewed (862) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -1031,7 +1031,7 @@ Total needing renewal:        1146
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (92) ---
+--- Unmatched DFPR (Manual Review) (91) ---
   WOODS ULMA                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
@@ -1042,7 +1042,6 @@ Total needing renewal:        1146
   WILLIAMS RICHARD                    | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
   PRYMA JIM                           | Exp: 04/30/2028
-  DELANEY JENNIFER                    | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
   WYATT JONATHAN ALLEN                | Exp: 04/30/2028
