@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-11-06
+[KHA] License Renewal Report — 2026-11-07
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     862
+REMOVE (already renewed):     864
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      990
-Total needing renewal:        1148
+KEEP (no match in DFPR):      994
+Total needing renewal:        1152
 
---- Agents Who Renewed (862) ---
+--- Agents Who Renewed (864) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -211,6 +211,7 @@ Total needing renewal:        1148
   Derek Denson                        | expires 04/30/2028 (already renewed)
   Desalegn Kassa                      | expires 04/30/2028 (already renewed)
   Desiree Phipps                      | expires 04/30/2028 (already renewed)
+  Destiny Hite                        | expires 04/30/2028 (already renewed)
   Dev Rijal                           | expires 04/30/2028 (already renewed)
   Dexter Henley Jr                    | expires 04/30/2028 (already renewed)
   Dharon Golding                      | expires 04/30/2028 (already renewed)
@@ -250,6 +251,7 @@ Total needing renewal:        1148
   Erica Purnell                       | expires 04/30/2028 (already renewed)
   Erick Zambrano                      | expires 04/30/2028 (already renewed)
   Erik Palmerin                       | expires 04/30/2028 (already renewed)
+  Erikka English                      | expires 04/30/2028 (already renewed)
   Ernest Caston                       | expires 04/30/2028 (already renewed)
   Ernesto Villa                       | expires 04/30/2028 (already renewed)
   Errol Jones                         | expires 04/30/2028 (already renewed)
@@ -528,6 +530,7 @@ Total needing renewal:        1148
   MariCarmen Soto                     | expires 04/30/2028 (already renewed)
   Maria Behrens                       | expires 04/30/2028 (already renewed)
   Maria Carreno                       | expires 04/30/2028 (already renewed)
+  Maria Ortiz                         | expires 04/30/2028 (already renewed)
   Mariah Hall                         | expires 04/30/2028 (already renewed)
   Marie Castle                        | expires 04/30/2028 (already renewed)
   Marie Levin                         | expires 04/30/2028 (already renewed)
@@ -568,7 +571,6 @@ Total needing renewal:        1148
   Melvin Gonzalez                     | expires 04/30/2028 (already renewed)
   Merle Horwitz                       | expires 04/30/2028 (already renewed)
   Michael Bergeson                    | expires 04/30/2028 (already renewed)
-  Michael Devine                      | expires 04/30/2028 (already renewed)
   Michael Dukes                       | expires 04/30/2028 (already renewed)
   Michael Gomez                       | expires 04/30/2028 (already renewed)
   Michael Khalil                      | expires 04/30/2028 (already renewed)
