@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-11-08
+[KHA] License Renewal Report — 2026-11-10
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     864
+REMOVE (already renewed):     863
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      994
-Total needing renewal:        1152
+KEEP (no match in DFPR):      995
+Total needing renewal:        1153
 
---- Agents Who Renewed (864) ---
+--- Agents Who Renewed (863) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -442,7 +442,6 @@ Total needing renewal:        1152
   Kena Pastore                        | expires 04/30/2028 (already renewed)
   Kenneth Furth                       | expires 04/30/2028 (already renewed)
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
-  Kenyatta Butcher                    | expires 04/30/2028 (already renewed)
   Ketki Parmar                        | expires 04/30/2028 (already renewed)
   Kevin Barnett                       | expires 04/30/2028 (already renewed)
   Kevin Coleman                       | expires 04/30/2028 (already renewed)
@@ -1033,9 +1032,8 @@ Total needing renewal:        1152
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (91) ---
+--- Unmatched DFPR (Manual Review) (90) ---
   WOODS ULMA                          | Exp: 04/30/2028
-  SAVINO CATERINA                     | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
@@ -1073,6 +1071,7 @@ Total needing renewal:        1152
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
   XIN JIAKUN                          | Exp: 04/30/2027
   MURTISHI JETON                      | Exp: 04/30/2028
+  ATSAVES PAT                         | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   CLYMER KRISTOPHER                   | Exp: 04/30/2028
   WELLS LAKITA                        | Exp: 04/30/2028
@@ -1087,7 +1086,6 @@ Total needing renewal:        1152
   PATTERSON NICK                      | Exp: 04/30/2027
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
-  ATSAVES PAT                         | Exp: 04/30/2028
   AWAN CARMEN                         | Exp: 04/30/2028
   WEED HOGAN KAREN                    | Exp: 04/30/2028
   STRAIGHT LENA                       | Exp: 04/30/2028
