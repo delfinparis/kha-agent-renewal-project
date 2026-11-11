@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-11-10
+[KHA] License Renewal Report — 2026-11-11
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     863
+REMOVE (already renewed):     862
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      995
-Total needing renewal:        1153
+KEEP (no match in DFPR):      996
+Total needing renewal:        1154
 
---- Agents Who Renewed (863) ---
+--- Agents Who Renewed (862) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -282,7 +282,6 @@ Total needing renewal:        1153
   Gabriel Jackson                     | expires 04/30/2028 (already renewed)
   Gabriel Rendon                      | expires 04/30/2028 (already renewed)
   Gabrielle Arrington                 | expires 04/30/2028 (already renewed)
-  Garret Glaser                       | expires 04/30/2028 (already renewed)
   Garvin John                         | expires 04/30/2028 (already renewed)
   Genesis Bencivenga                  | expires 04/30/2028 (already renewed)
   George Kourkouvis                   | expires 04/30/2028 (already renewed)
@@ -1058,6 +1057,7 @@ Total needing renewal:        1153
   CONWAY AZADEH                       | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
   WHITMORE JOANNE                     | Exp: 04/30/2027
+  MACNEIL ROBERT                      | Exp: 04/30/2028
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   BELL CHARLES                        | Exp: 04/30/2028
@@ -1075,7 +1075,6 @@ Total needing renewal:        1153
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   CLYMER KRISTOPHER                   | Exp: 04/30/2028
   WELLS LAKITA                        | Exp: 04/30/2028
-  MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
   DASILVA JONAH                       | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
