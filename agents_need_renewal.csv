@@ -1,17 +1,12 @@
 First Name,Last Name,License Number,monday_item_id,monday_group
-Blanca,Trevino,,13516366675,Kale Agents
+Blanca,Trevino,475212341,13516366675,Kale Agents
 Elin,Muha,,13509578003,Kale Agents
 Oleksii,Aksonov,,13494151581,Kale Agents
-Kaleab,Kiflegiorgis,,13491541841,Kale Agents
-Jacob,Lyons,,13491515946,Kale Agents
-Fatima,Issa,,13479535310,Kale Agents
-Michelle,Patterson,,13479500825,Kale Agents
-Crystal,Nwaokocha,,13447406962,Kale Agents
-Amin,Saade,,13386688203,Kale Agents
+Kaleab,Kiflegiorgis,475208028,13491541841,Kale Agents
 Andre,Martin,475205626,6126491855,Kale Agents
 Laura,Pizzo,475193531,13326453959,Kale Agents
 William,Pizzo,475193705,13315999891,Kale Agents
-Carlos,Cobo,,13270514604,Kale Agents
+Carlos,Cobo,475221035,13270514604,Kale Agents
 Maricarmen,Soto,475220513,13243294968,Kale Agents
 Julia,Nicholas,475220645,13222356291,Kale Agents
 Brian,Wilson,471022958,13109813115,Kale Agents
@@ -92,7 +87,6 @@ TEST,Rea Endaya,,12881750076,Agent Intake / Review
 Sharlene,Kirsch,,12950925587,Agent Intake / Review
 Kim,Piccirilli,,13131510608,Agent Intake / Review
 Nick,Chiaramonte,,13155121026,Agent Intake / Review
-Kaleab,Kiflegiorgis,,13494719560,Agent Intake / Review
 Elin,Muha,,13511309040,Agent Intake / Review
 Rob,,,12795179389,DEMO • Agent Intake / Review
 Rob,,,12795216262,DEMO • Agent Intake / Review
@@ -938,6 +932,7 @@ Lucia,Ontiveros,475193529,5894868356,Terminated Agents we want back
 Cassandra,Seawood,475112197,1546908616,Terminated Agents we want back
 Bob,DePalma,475122090,359616789,Terminated Agents we want back
 Tania,Zhuang,475206675,11251321662,Terminated Agents we want back
+Katie,Savino,475176052,700356659,Terminated Agents we want back
 Amadou Tee,Lam,475172058,11074496695,Terminated Agents we do NOT want back
 Gregory,Rowe,,18387932250,Terminated Agents we do NOT want back
 Michael,Wolski,475136805,9657097076,Terminated Agents we do NOT want back
@@ -1150,6 +1145,7 @@ Bret,Broaddus,475157735,18376487754,Terminated Agents we do NOT want back
 Autumn,Susberry,475188753,2560782999,Terminated Agents we do NOT want back
 Jasmine,Dixon,475186205,5063522579,Terminated Agents we do NOT want back
 Leon,Wambo,471021184,10695422582,Terminated Agents we do NOT want back
+Jenny,Delaney,475193755,18358622965,Terminated Agents we do NOT want back
 N/A,N/A,N/A,12509895821,QA Fixtures - DO NOT USE
 N/A,N/A,N/A,12509895750,QA Fixtures - DO NOT USE
 TEST,Dummy,,13433618203,QA Fixtures - DO NOT USE

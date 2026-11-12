@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-11-11
+[KHA] License Renewal Report — 2026-11-12
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     862
+REMOVE (already renewed):     871
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      996
-Total needing renewal:        1154
+KEEP (no match in DFPR):      992
+Total needing renewal:        1150
 
---- Agents Who Renewed (862) ---
+--- Agents Who Renewed (871) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -50,6 +50,7 @@ Total needing renewal:        1154
   Alysia Hamlet                       | expires 04/30/2028 (already renewed)
   Ambrose Arrieta                     | expires 04/30/2028 (already renewed)
   Ameera Ortiz                        | expires 04/30/2028 (already renewed)
+  Amin Saade                          | expires 04/30/2028 (already renewed)
   Amir Abed                           | expires 04/30/2028 (already renewed)
   Amit Kapur                          | expires 04/30/2028 (already renewed)
   Amy Darling                         | expires 04/30/2028 (already renewed)
@@ -107,6 +108,7 @@ Total needing renewal:        1154
   Bernina Norton                      | expires 04/30/2028 (already renewed)
   Bianca Walker                       | expires 04/30/2028 (already renewed)
   Biekhal Alkhalifa                   | expires 04/30/2028 (already renewed)
+  Blanca Trevino                      | expires 04/30/2028 (already renewed)
   Bosede Enyiema                      | expires 04/30/2028 (already renewed)
   Bowei Yan                           | expires 04/30/2028 (already renewed)
   Brad Etlin                          | expires 04/30/2028 (already renewed)
@@ -169,6 +171,7 @@ Total needing renewal:        1154
   Cortney Marshall                    | expires 04/30/2028 (already renewed)
   Crystal Covarrubias                 | expires 04/30/2028 (already renewed)
   Crystal Martinez                    | expires 04/30/2028 (already renewed)
+  Crystal Nwaokocha                   | expires 04/30/2028 (already renewed)
   Crystal Smith                       | expires 04/30/2028 (already renewed)
   Cynthia Logan                       | expires 04/30/2028 (already renewed)
   Da'mon Wardlow                      | expires 04/30/2028 (already renewed)
@@ -266,6 +269,7 @@ Total needing renewal:        1154
   Farah Kothari                       | expires 04/30/2028 (already renewed)
   Farshad Davachi                     | expires 04/30/2028 (already renewed)
   Faruk Masoud                        | expires 04/30/2028 (already renewed)
+  Fatima Issa                         | expires 04/30/2028 (already renewed)
   Fatima Raza                         | expires 04/30/2028 (already renewed)
   Fatmir Bekiri                       | expires 04/30/2028 (already renewed)
   Felicia Smiley                      | expires 04/30/2028 (already renewed)
@@ -325,6 +329,7 @@ Total needing renewal:        1154
   Ivona Pejchinoska                   | expires 04/30/2028 (already renewed)
   Jacinta Johnson                     | expires 04/30/2028 (already renewed)
   Jack Lemuz                          | expires 04/30/2028 (already renewed)
+  Jacob Lyons                         | expires 04/30/2028 (already renewed)
   Jacob Szymanski                     | expires 04/30/2028 (already renewed)
   Jacqueline Green                    | expires 04/30/2028 (already renewed)
   Jada Keyes                          | expires 04/30/2028 (already renewed)
@@ -420,6 +425,7 @@ Total needing renewal:        1154
   Jurgen Frank                        | expires 04/30/2028 (already renewed)
   Juwan Cross                         | expires 04/30/2028 (already renewed)
   Kaitlyn Alphonse                    | expires 04/30/2028 (already renewed)
+  Kaleab Kiflegiorgis                 | expires 04/30/2028 (already renewed)
   Kari Torkelson                      | expires 04/30/2028 (already renewed)
   Karolina Kowalczyk                  | expires 04/30/2028 (already renewed)
   Kassia Cerda                        | expires 04/30/2028 (already renewed)
@@ -441,6 +447,7 @@ Total needing renewal:        1154
   Kena Pastore                        | expires 04/30/2028 (already renewed)
   Kenneth Furth                       | expires 04/30/2028 (already renewed)
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
+  Kenyatta Butcher                    | expires 04/30/2028 (already renewed)
   Ketki Parmar                        | expires 04/30/2028 (already renewed)
   Kevin Barnett                       | expires 04/30/2028 (already renewed)
   Kevin Coleman                       | expires 04/30/2028 (already renewed)
@@ -569,6 +576,7 @@ Total needing renewal:        1154
   Melvin Gonzalez                     | expires 04/30/2028 (already renewed)
   Merle Horwitz                       | expires 04/30/2028 (already renewed)
   Michael Bergeson                    | expires 04/30/2028 (already renewed)
+  Michael Devine                      | expires 04/30/2028 (already renewed)
   Michael Dukes                       | expires 04/30/2028 (already renewed)
   Michael Gomez                       | expires 04/30/2028 (already renewed)
   Michael Khalil                      | expires 04/30/2028 (already renewed)
@@ -579,6 +587,7 @@ Total needing renewal:        1154
   Michele Chotoosingh                 | expires 04/30/2028 (already renewed)
   Michelle Creed                      | expires 04/30/2028 (already renewed)
   Michelle Pantel                     | expires 04/30/2028 (already renewed)
+  Michelle Patterson                  | expires 04/30/2028 (already renewed)
   Michelle Stegmueller                | expires 04/30/2028 (already renewed)
   Michelle Stephens                   | expires 04/30/2028 (already renewed)
   Michelle Young                      | expires 04/30/2028 (already renewed)
@@ -1031,33 +1040,33 @@ Total needing renewal:        1154
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (90) ---
+--- Unmatched DFPR (Manual Review) (94) ---
   WOODS ULMA                          | Exp: 04/30/2028
-  SALEM OMAR                          | Exp: 04/30/2028
+  PATTERSON MICHELLE                  | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
   LAPINSKAS UGNE                      | Exp: 04/30/2028
   THOMAS LONNIE                       | Exp: 04/30/2028
+  COBO MACIAS CARLOS                  | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
+  SALEM OMAR                          | Exp: 04/30/2028
   PRYMA JIM                           | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
-  WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
+  WYATT JONATHAN ALLEN                | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
-  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   AUNG MAUNG SAN                      | Exp: 04/30/2028
   CONWAY AZADEH                       | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
   WHITMORE JOANNE                     | Exp: 04/30/2027
-  MACNEIL ROBERT                      | Exp: 04/30/2028
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   BELL CHARLES                        | Exp: 04/30/2028
@@ -1069,12 +1078,12 @@ Total needing renewal:        1154
   SUELL AJIA                          | Exp: 04/30/2028
   WALKER-STARR APRIL                  | Exp: 04/30/2028
   BRUMELL DOMINIQUE                   | Exp: 04/30/2028
-  XIN JIAKUN                          | Exp: 04/30/2027
+  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   MURTISHI JETON                      | Exp: 04/30/2028
-  ATSAVES PAT                         | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   CLYMER KRISTOPHER                   | Exp: 04/30/2028
   WELLS LAKITA                        | Exp: 04/30/2028
+  MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
   DASILVA JONAH                       | Exp: 04/30/2028
   MEYER LUZ                           | Exp: 04/30/2028
@@ -1083,8 +1092,10 @@ Total needing renewal:        1154
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
+  XIN JIAKUN                          | Exp: 04/30/2027
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
+  ATSAVES PAT                         | Exp: 04/30/2028
   AWAN CARMEN                         | Exp: 04/30/2028
   WEED HOGAN KAREN                    | Exp: 04/30/2028
   STRAIGHT LENA                       | Exp: 04/30/2028
@@ -1110,9 +1121,8 @@ Total needing renewal:        1154
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
-  BOVYN DAVID                         | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
-  REHMAN SALMAN                       | Exp: 04/30/2028
+  SAVINO CATERINA                     | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
@@ -1120,5 +1130,8 @@ Total needing renewal:        1154
   ZHUANG TIANLEI                      | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
+  BOVYN DAVID                         | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
+  REHMAN SALMAN                       | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
+  DELANEY JENNIFER                    | Exp: 04/30/2028
