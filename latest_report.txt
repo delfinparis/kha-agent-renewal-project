@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-11-13
+[KHA] License Renewal Report — 2026-11-14
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     871
+REMOVE (already renewed):     872
 KEEP (needs renewal):         158
 KEEP (no match in DFPR):      991
 Total needing renewal:        1149
 
---- Agents Who Renewed (871) ---
+--- Agents Who Renewed (872) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -646,6 +646,7 @@ Total needing renewal:        1149
   Nouman Qaiser                       | expires 04/30/2028 (already renewed)
   Nusrath Mohammed                    | expires 04/30/2028 (already renewed)
   Obinna Ekwueme                      | expires 04/30/2027 (already renewed)
+  Oleksii Aksonov                     | expires 04/30/2028 (already renewed)
   Olga Kobylinska                     | expires 04/30/2028 (already renewed)
   Olga Kowalski                       | expires 04/30/2028 (already renewed)
   Olga Otkina                         | expires 04/30/2028 (already renewed)
@@ -1172,9 +1173,6 @@ Total needing renewal:        1149
   SIRIPREECHAPONG SETTAWOOT           | Exp: 04/30/2028
   SIRIPREECHAPONG SETTAWOOT           | Exp: 04/30/2028
   SIRIPREECHAPONG SETTAWOOT           | Exp: 04/30/2028
-  HOLYFIELD BRITTANY                  | Exp: 04/30/2028
-  HOLYFIELD BRITTANY                  | Exp: 04/30/2028
-  HOLYFIELD BRITTANY                  | Exp: 04/30/2028
   OKEKE MALACHY                       | Exp: 04/30/2028
   OKEKE MALACHY                       | Exp: 04/30/2028
   OKEKE MALACHY                       | Exp: 04/30/2028
@@ -1219,6 +1217,9 @@ Total needing renewal:        1149
   ROMERO TANHIA                       | Exp: 04/30/2028
   ROMERO TANHIA                       | Exp: 04/30/2028
   ROMERO TANHIA                       | Exp: 04/30/2028
+  HOLYFIELD BRITTANY                  | Exp: 04/30/2028
+  HOLYFIELD BRITTANY                  | Exp: 04/30/2028
+  HOLYFIELD BRITTANY                  | Exp: 04/30/2028
   SMITH CARL                          | Exp: 04/30/2028
   SMITH CARL                          | Exp: 04/30/2028
   SMITH CARL                          | Exp: 04/30/2028
@@ -1233,7 +1234,6 @@ Total needing renewal:        1149
   ALKHALIFA BIEKHAL                   | Exp: 04/30/2028
   ALKHALIFA BIEKHAL                   | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
-  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   LUCAS MATTHEW                       | Exp: 04/30/2028
   LUCAS MATTHEW                       | Exp: 04/30/2028
   LUCAS MATTHEW                       | Exp: 04/30/2028
@@ -1336,7 +1336,7 @@ Total needing renewal:        1149
   ADI HUSSAM                          | Exp: 04/30/2028
   ADI HUSSAM                          | Exp: 04/30/2028
   ADI HUSSAM                          | Exp: 04/30/2028
-  XIN JIAKUN                          | Exp: 04/30/2027
+  CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
   MURTISHI JETON                      | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
   TYNER JANITA                        | Exp: 04/30/2028
@@ -1371,6 +1371,7 @@ Total needing renewal:        1149
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
+  XIN JIAKUN                          | Exp: 04/30/2027
   PEGUERO JUAN                        | Exp: 04/30/2028
   PEGUERO JUAN                        | Exp: 04/30/2028
   PEGUERO JUAN                        | Exp: 04/30/2028
