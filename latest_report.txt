@@ -1,13 +1,13 @@
-[KHA] License Renewal Report — 2026-11-16
+[KHA] License Renewal Report — 2026-11-17
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     871
+REMOVE (already renewed):     868
 KEEP (needs renewal):         158
-KEEP (no match in DFPR):      993
-Total needing renewal:        1151
+KEEP (no match in DFPR):      994
+Total needing renewal:        1152
 
---- Agents Who Renewed (871) ---
+--- Agents Who Renewed (868) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
   Aaron Franklin                      | expires 04/30/2028 (already renewed)
   Aaron Greenberg                     | expires 04/30/2028 (already renewed)
@@ -58,7 +58,6 @@ Total needing renewal:        1151
   Ana Markovic                        | expires 04/30/2028 (already renewed)
   Ana Valverde                        | expires 04/30/2028 (already renewed)
   Andre Martin                        | expires 04/30/2028 (already renewed)
-  Andrea Abonce                       | expires 04/30/2028 (already renewed)
   Andrea Benavidez                    | expires 04/30/2028 (already renewed)
   Andrea Crockwell                    | expires 04/30/2028 (already renewed)
   Andrea Owens                        | expires 04/30/2028 (already renewed)
@@ -685,7 +684,6 @@ Total needing renewal:        1151
   Raj Patel                           | expires 04/30/2027 (already renewed)
   Rakesh Kumar                        | expires 04/30/2028 (already renewed)
   Rakhy Nair                          | expires 04/30/2028 (already renewed)
-  Ralph Waller                        | expires 04/30/2028 (already renewed)
   Ramon Gonzalez                      | expires 04/30/2028 (already renewed)
   Ramon Hernandez                     | expires 04/30/2028 (already renewed)
   Rasheed Shofidiya                   | expires 04/30/2028 (already renewed)
@@ -756,7 +754,6 @@ Total needing renewal:        1151
   Shawn Woodie                        | expires 04/30/2028 (already renewed)
   Shea Rousselle                      | expires 04/30/2028 (already renewed)
   Sheldon House                       | expires 04/30/2028 (already renewed)
-  Shengyu Xu                          | expires 04/30/2027 (already renewed)
   Shenika Banks                       | expires 04/30/2028 (already renewed)
   Sheree Bradley                      | expires 04/30/2028 (already renewed)
   Sherod Craig                        | expires 04/30/2028 (already renewed)
@@ -1097,6 +1094,7 @@ Total needing renewal:        1151
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
   HASSAN SYED                         | Exp: 04/30/2028
   GANDHAM BRAHMAM                     | Exp: 04/30/2028
+  WOLFSON SHARON                      | Exp: 04/30/2028
   HU ERIC                             | Exp: 04/30/2028
   MOHAMMED ABDUL                      | Exp: 04/30/2028
   OLUFUNMI GEORGE                     | Exp: 04/30/2028
@@ -1125,7 +1123,6 @@ Total needing renewal:        1151
   SETHI ALEXIS                        | Exp: 04/30/2028
   CERNESTEAN NICUSOR                  | Exp: 04/30/2028
   OLSZEWSKI KYLE                      | Exp: 04/30/2028
-  WOLFSON SHARON                      | Exp: 04/30/2028
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
@@ -1170,24 +1167,24 @@ Total needing renewal:        1151
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
+  BOVYN DAVID                         | Exp: 04/30/2028
   DEVINE MICHAEL                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   BARROSO WILLIAM                     | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
   PASTORE KENA                        | Exp: 04/30/2028
+  BECKLES EUGENE                      | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
   LOPEZ FRANCISCO                     | Exp: 04/30/2028
   ZHUANG TIANLEI                      | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
-  BOVYN DAVID                         | Exp: 04/30/2028
   GARRY NICOLL                        | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
   SIDDIQUI KHAIR                      | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
-  BECKLES EUGENE                      | Exp: 04/30/2028
   DELANEY JENNIFER                    | Exp: 04/30/2028
