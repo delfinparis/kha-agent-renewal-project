@@ -1,4 +1,4 @@
-[KHA] License Renewal Report — 2026-11-17
+[KHA] License Renewal Report — 2026-11-18
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
@@ -1037,16 +1037,8 @@ Total needing renewal:        1152
   Widalis Munoz                       | expires 04/30/2026 (needs renewal)
   William Walker                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (150) ---
-  WILLIAMS LAWRENCE                   | Exp: 04/30/2027
-  WILSON BRIAN                        | Exp: 04/30/2027
+--- Unmatched DFPR (Manual Review) (93) ---
   WOODS ULMA                          | Exp: 04/30/2028
-  BRIXEY JEFF                         | Exp: 04/30/2028
-  HOLT DONNA                          | Exp: 04/30/2028
-  ARRINGTON GABRIELLE                 | Exp: 04/30/2028
-  CHIARAMONTE NICHOLAS                | Exp: 04/30/2028
-  TERRELL JASON                       | Exp: 04/30/2028
-  SWARTZ KATIE                        | Exp: 04/30/2028
   PATTERSON MICHELLE                  | Exp: 04/30/2028
   MROZ DANUTA                         | Exp: 04/30/2028
   OSHODI OLAITAN KAY                  | Exp: 04/30/2028
@@ -1054,29 +1046,17 @@ Total needing renewal:        1152
   THOMAS LONNIE                       | Exp: 04/30/2028
   COBO MACIAS CARLOS                  | Exp: 04/30/2028
   WILLIAMS RICHARD                    | Exp: 04/30/2027
-  REHANA ASHOUR                       | Exp: 04/30/2027
   STANOEV MIODRAG                     | Exp: 04/30/2028
-  CATLIN LEROI                        | Exp: 04/30/2028
-  ETLIN BRAD                          | Exp: 04/30/2028
-  SLABADA MARGARITA                   | Exp: 04/30/2028
   SALEM OMAR                          | Exp: 04/30/2028
   PRYMA JIM                           | Exp: 04/30/2028
   MORAN MANUEL                        | Exp: 04/30/2028
   JOHNSON JODY                        | Exp: 04/30/2028
   SHERWANI MUHAMMAD                   | Exp: 04/30/2028
-  PHILLIPS SEDONIA                    | Exp: 04/30/2027
-  SCHERPEREEL SARITA                  | Exp: 04/30/2027
   PERKOWSKI KAZIMIERZ                 | Exp: 04/30/2028
   MUSKAL CATHLEEN                     | Exp: 04/30/2028
   ZALESKI MARIA                       | Exp: 04/30/2028
-  MCCANN KEVIN                        | Exp: 04/30/2028
-  AMIR MATTHEW                        | Exp: 04/30/2028
-  SHAH STEVEN                         | Exp: 04/30/2028
-  CARTER SPARKLE                      | Exp: 04/30/2028
-  NORTON STEPHEN                      | Exp: 04/30/2028
   NORTON STEPHEN                      | Exp: 04/30/2028
   MANCILLA VANESSA                    | Exp: 04/30/2028
-  MAUGERI M. VIRGINIA                 | Exp: 04/30/2028
   QIU JIYAO                           | Exp: 04/30/2028
   DELGADO RICARDO                     | Exp: 04/30/2028
   CARDELLO-RODRIGUEZ KAREN            | Exp: 04/30/2028
@@ -1084,23 +1064,12 @@ Total needing renewal:        1152
   CONWAY AZADEH                       | Exp: 04/30/2028
   LANDETA PANTOJA MELANIE A           | Exp: 04/30/2028
   WHITMORE JOANNE                     | Exp: 04/30/2027
-  SMITH STEPHEN                       | Exp: 04/30/2027
-  BLAUVISSE LIHI                      | Exp: 04/30/2028
-  LUGO YVONNE                         | Exp: 04/30/2028
   QING XIN                            | Exp: 04/30/2028
   GAZAFER AJRIJE                      | Exp: 04/30/2028
   BELL CHARLES                        | Exp: 04/30/2028
   ADAMS LINDSAY                       | Exp: 04/30/2028
   GAMAZON MASANGCAY NANETTE           | Exp: 04/30/2028
   HASSAN SYED                         | Exp: 04/30/2028
-  GANDHAM BRAHMAM                     | Exp: 04/30/2028
-  WOLFSON SHARON                      | Exp: 04/30/2028
-  HU ERIC                             | Exp: 04/30/2028
-  MOHAMMED ABDUL                      | Exp: 04/30/2028
-  OLUFUNMI GEORGE                     | Exp: 04/30/2028
-  KOBYLINSKA OLGA                     | Exp: 04/30/2028
-  HOUSE SHELDON                       | Exp: 04/30/2028
-  OLMOS ESTRADA CONSTANCE             | Exp: 04/30/2028
   OLMOS ESTRADA CONSTANCE             | Exp: 04/30/2028
   TAWFIK MILENA                       | Exp: 04/30/2028
   SUELL AJIA                          | Exp: 04/30/2028
@@ -1109,9 +1078,7 @@ Total needing renewal:        1152
   XIN JIAKUN                          | Exp: 04/30/2027
   MURTISHI JETON                      | Exp: 04/30/2028
   CHAVEZ ULIER L                      | Exp: 04/30/2028
-  TYNER JANITA                        | Exp: 04/30/2028
   CLYMER KRISTOPHER                   | Exp: 04/30/2028
-  WELLS LAKITA                        | Exp: 04/30/2028
   WELLS LAKITA                        | Exp: 04/30/2028
   MACNEIL ROBERT                      | Exp: 04/30/2028
   EVERETT SHEVAZ                      | Exp: 04/30/2028
@@ -1119,72 +1086,48 @@ Total needing renewal:        1152
   MEYER LUZ                           | Exp: 04/30/2028
   KHAN SALMAN                         | Exp: 04/30/2028
   KING RAQUEL                         | Exp: 04/30/2028
-  ZOZZARO FRANCESCA                   | Exp: 04/30/2028
-  SETHI ALEXIS                        | Exp: 04/30/2028
-  CERNESTEAN NICUSOR                  | Exp: 04/30/2028
-  OLSZEWSKI KYLE                      | Exp: 04/30/2028
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
   PATTERSON NICK                      | Exp: 04/30/2027
-  DAKE LORI                           | Exp: 04/30/2027
-  AREL SHLOMO                         | Exp: 04/30/2027
   HEIDENRY NICHOLAS                   | Exp: 04/30/2028
   RODRIGUEZ FRANCISCO                 | Exp: 04/30/2028
   ATSAVES PAT                         | Exp: 04/30/2028
   AWAN CARMEN                         | Exp: 04/30/2028
   WEED HOGAN KAREN                    | Exp: 04/30/2028
   STRAIGHT LENA                       | Exp: 04/30/2028
-  STRAIGHT LENA                       | Exp: 04/30/2028
-  STINSON DERRICK DAVID               | Exp: 04/30/2028
   STINSON DERRICK DAVID               | Exp: 04/30/2028
   GAZAFER SYLEJMAN                    | Exp: 04/30/2028
   RIOSZERTUCHEBARRANTE JUAN           | Exp: 04/30/2028
   HSU JIAMIENE                        | Exp: 04/30/2028
-  DARLING AMY                         | Exp: 04/30/2028
   SYED SHAH NAWAZ ALI                 | Exp: 04/30/2028
   SUAREZ ALISON                       | Exp: 04/30/2027
-  SUAREZ ALISON                       | Exp: 04/30/2027
   VOS EAMON                           | Exp: 04/30/2028
-  KRUPA MARTA                         | Exp: 04/30/2028
-  DOROS IRINA                         | Exp: 04/30/2028
   ROSADO MORGAN                       | Exp: 04/30/2028
   MEDAWAR TOMMY                       | Exp: 04/30/2028
   BELLO ELIAS                         | Exp: 04/30/2027
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
-  GARCIA WILLIE                       | Exp: 04/30/2028
   CRUMBLEY BARNETT DAWN               | Exp: 04/30/2028
   BOOTH LAKEISHA                      | Exp: 04/30/2028
   ENG MATTHEW CALEB                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   HARLOW LYLE                         | Exp: 04/30/2027
   HARLOW LYLE                         | Exp: 04/30/2027
-  CANTY ANTHONY                       | Exp: 04/30/2027
   GUNDOGDU MUCAHIT                    | Exp: 04/30/2028
-  MAYS LISA                           | Exp: 04/30/2028
   MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
-  MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
-  TOWNSEND LUKE                       | Exp: 04/30/2027
   GIBSON SANDRA FELECIA               | Exp: 04/30/2028
   WOODEN-SEAWOOD CASSANDRA            | Exp: 04/30/2028
   DEPALMA ROBERT                      | Exp: 04/30/2028
   BOVYN DAVID                         | Exp: 04/30/2028
-  DEVINE MICHAEL                      | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
-  BARROSO WILLIAM                     | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
-  PASTORE KENA                        | Exp: 04/30/2028
-  BECKLES EUGENE                      | Exp: 04/30/2028
   TAYLOR SHAUNESE                     | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
   LOPEZ FRANCISCO                     | Exp: 04/30/2028
   ZHUANG TIANLEI                      | Exp: 04/30/2028
   ZUBAIRY MUHAMMAD                    | Exp: 04/30/2028
   FOGUE WAMBO LEON                    | Exp: 04/30/2027
-  GARRY NICOLL                        | Exp: 04/30/2028
   GUNO DOMINADOR                      | Exp: 04/30/2028
-  SIDDIQUI KHAIR                      | Exp: 04/30/2028
   REHMAN SALMAN                       | Exp: 04/30/2028
-  HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   HENDERSON-DIXON JASMINE             | Exp: 04/30/2028
   DELANEY JENNIFER                    | Exp: 04/30/2028
