@@ -1,11 +1,11 @@
-[KHA] License Renewal Report — 2026-11-20
+[KHA] License Renewal Report — 2026-11-21
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     647
 KEEP (needs renewal):         102
-KEEP (no match in DFPR):      1275
-Total needing renewal:        1377
+KEEP (no match in DFPR):      1274
+Total needing renewal:        1376
 
 --- Agents Who Renewed (647) ---
   AJ Dobson                           | expires 04/30/2028 (already renewed)
@@ -160,6 +160,7 @@ Total needing renewal:        1377
   Deanna Ursetta                      | expires 04/30/2028 (already renewed)
   Debi Drake                          | expires 04/30/2027 (already renewed)
   Delfin Paris                        | expires 04/30/2028 (already renewed)
+  Derec Wright                        | expires 04/30/2028 (already renewed)
   Derek Denson                        | expires 04/30/2028 (already renewed)
   Desalegn Kassa                      | expires 04/30/2028 (already renewed)
   Dexter Henley Jr                    | expires 04/30/2028 (already renewed)
@@ -442,7 +443,6 @@ Total needing renewal:        1377
   Molly Shellenberg                   | expires 04/30/2028 (already renewed)
   Monica Ilea                         | expires 04/30/2028 (already renewed)
   Monica Wong                         | expires 04/30/2028 (already renewed)
-  Monique Booth                       | expires 04/30/2028 (already renewed)
   Monique Brewer                      | expires 04/30/2028 (already renewed)
   Morgan Basham                       | expires 04/30/2028 (already renewed)
   Muaz Farooq                         | expires 04/30/2028 (already renewed)
