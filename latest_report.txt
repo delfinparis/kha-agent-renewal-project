@@ -1,4 +1,4 @@
-[KHA] License Renewal Report — 2026-11-23
+[KHA] License Renewal Report — 2026-11-24
 Source: Monday.com + data.illinois.gov (license number lookup)
 Cutoff: 04/30/2026
 
@@ -1177,6 +1177,8 @@ Total needing renewal:        1152
   DELUCA TIFFANY                      | Exp: 04/30/2028
   MOORE KATHERINE                     | Exp: 04/30/2028
   MOORE KATHERINE                     | Exp: 04/30/2028
+  ORTIZ MARIA                         | Exp: 04/30/2028
+  ORTIZ MARIA                         | Exp: 04/30/2028
   ITAH DAVID                          | Exp: 04/30/2028
   ITAH DAVID                          | Exp: 04/30/2028
   POWELL GREGORY                      | Exp: 04/30/2028
@@ -1240,8 +1242,6 @@ Total needing renewal:        1152
   DEPALMA ROBERT                      | Exp: 04/30/2028
   SALGADO CATTY                       | Exp: 04/30/2028
   SALGADO CATTY                       | Exp: 04/30/2028
-  ORTIZ MARIA                         | Exp: 04/30/2028
-  ORTIZ MARIA                         | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   SAVINO CATERINA                     | Exp: 04/30/2028
   MARTINEZ ALBERTO                    | Exp: 04/30/2028
